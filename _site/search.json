@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "##One\n\n\n#One\n\n\n\nHi, I’m happy you’re here.\nI’m Larry, a German based in Stockholm, who recently finished her Master thesis on deceptive design patterns.\nI use design to create understanding, spark compassion, and drive action. I work with user studies and user experience design. Sometimes I also code, like this website. You’ll usually find me talking about value-sensitive design, initiatives and people that drive climate action, or great data visualization.\nIn real life, I enjoy focal things (as A. Borgmann would put it); being in nature on a hike. The smell of roasted onions in the pan. Feeling the strain in my body during a run.\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hallo!",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n////\nAll icons on this website are free and open sourece icons provided by Iconify. I use the quarto-iconify extension.\n\n\n\n Back to top"
+  }
+]

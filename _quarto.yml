@@ -2,18 +2,57 @@ project:
   type: website
 
 website:
-  title: "websitelarry"
+  title: "Larissa Lang"
+  #site-url:
+  description: "Yet another try creating my website."
+  #favicon:
+  back-to-top-navigation: true
+  # comments section for others to comment
+  #   utterances:
+  #     repo: lalarus/itsme
+  #     label: utterances
+  #     theme: body-light
+  #     issue-term: title
+
+
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  # logo:
+  # tools:
+  # - icon: github
+  #   href: https://www.github.com/lalarus
+    right:
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+      - text: Portfolio
+        href: portfolio.qmd
+      - text: Blog
+        href: blog.qmd   
+      - text: Contact
+        href: contact.qmd  
+    pinned: true
+
+  page-footer:
+    left: >-
+      &#169; 2023 {{< iconify line-md coffee-loop >}} Larissa Lang, Stockholm<br>  
+      Made with [Quarto](https://quarto.org)
+    center: ""
+    right:
+      - text: "I do not track you."
+        aria-label: "Accessibility Commitment"
+        href: accessibility.qmd
+      - text: "Imprint"
+        aria-label: "Imprint"
+        href: "contact.qmd"
+      - text: "License"
+        aria-label: "License Details"
+        href: license.qmd
+
+
 
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css: assets/index.scss
     toc: true
-
-
-
