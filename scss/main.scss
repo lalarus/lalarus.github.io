@@ -1,9 +1,9 @@
 /*-- scss:defaults --*/
 
 // we do not need to add the file type as they are both SCSS files
-@import "./partials/colors";
-@import "./partials/fonts";
-@import "./partials/variables";
+@import "./base/colors";
+@import "./base/typography";
+@import "./abstracts/variables";
 
 p {
     color: $text-secondary-color;
