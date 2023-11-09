@@ -53,6 +53,7 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: assets/index.scss
+    theme: 
+      - cosmo
+      - scss/main.scss
     toc: true

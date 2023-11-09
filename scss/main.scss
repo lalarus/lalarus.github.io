@@ -1,0 +1,19 @@
+/*-- scss:defaults --*/
+
+// we do not need to add the file type as they are both SCSS files
+@import "./partials/colors";
+@import "./partials/fonts";
+@import "./partials/variables";
+
+p {
+    color: $text-secondary-color;
+    font-size: $p-font-size;
+}
+
+.border {
+    background-color: $default-box-bg;
+    width: 300px;
+    height: 300px;
+    border-radius: $default-border-radius;
+}
+

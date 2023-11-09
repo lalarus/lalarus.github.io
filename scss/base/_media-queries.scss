@@ -1,0 +1,11 @@
+// https://www.youtube.com/watch?app=desktop&v=-_LiWrssnNw
+
+$mobile-res-min-width: 320px;
+$tablet-res-min-width: 768px;
+$desktop-res-min-width: 1024px;
+
+@mixin forScreenSizeMin($deviceType){
+    @if $device == phone {
+        @media only screen and (min-width: §$mobile-res-min-width)
+    }
+};
