@@ -1,6 +1,58 @@
+/*-- scss:rules --*/
+
+/* pangaia-bold */
+@font-face {
+    font-family: 'PPPangaia-Medium';
+    font-style: normal;
+    font-weight: 475;
+    src: local(''),
+         url('./assets/fonts/PPPangaia-Medium.woff') format('woff'),
+         url('./assets/fonts/PPPangaia-Medium.woff2') format('woff2'),
+         url('./assets/fonts/PPPangaia-Medium.otf') format('otf');
+  }
+  
+  /* pangaia-medium-italic */
+  @font-face {
+    font-family: 'PPPangaia-MediumItalic';
+    font-style: italic;
+    font-weight: 475;
+    src: local(''),
+         url('./assets/fonts/PPPangaia-MediumItalic.woff') format('woff'),
+         url('./assets/fonts/PPPangaia-MediumItalic.woff2') format('woff2'),
+         url('./assets/fonts/PPPangaia-MediumItalic.otf') format('otf');
+  }
+  
+  /* neue-montreal-book */
+  @font-face {
+    font-family: 'Neue Montreal';
+    font-style: normal;
+    font-weight: 400;
+    src: local(''),
+         url('./assets/fonts/PPNeueMontreal-Book.woff') format('woff'),
+         url('./assets/fonts/PPNeueMontreal-Book.woff2') format('woff2'),
+         url('./assets/fonts/PPNeueMontreal-Book.otf') format('otf');
+  }
+  
+  /* neue-montreal-book */
+  @font-face {
+    font-family: 'Neue Montreal';
+    font-style: italic;
+    font-weight: 450;
+    src: local(''),
+         url('./assets/fonts/PPNeueMontreal-Italic.woff') format('woff'),
+         url('./assets/fonts/PPNeueMontreal-Italic.woff2') format('woff2'),
+         url('./assets/fonts/PPNeueMontreal-Italic.otf') format('otf');
+  }
 
 
-$font-family: "Open Sans";
+  // Fonts
+  $font-family-sans-serif: "Neue Montreal", Arial, Helvetica, sans-serif;
+  $font-family-monospace: "Dark Mono", "Fira Mono", monospace;
+  $headings-font-family: "PPPangaia-Medium", serif;
 
-$p-font-size: 18px;
 
+
+  // Font sizes
+  $p-font-size: 26px;
+ 
+  

@@ -5,9 +5,14 @@
 @import "./base/typography";
 @import "./abstracts/variables";
 
+h {
+    font-family: $headings-font-family;
+}
+
 p {
     color: $text-secondary-color;
     font-size: $p-font-size;
+    font-family: $font-family-sans-serif;
 }
 
 .border {
@@ -17,3 +22,5 @@ p {
     border-radius: $default-border-radius;
 }
 
+
+/**/ /**/

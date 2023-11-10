@@ -56,4 +56,5 @@ format:
     theme: 
       - cosmo
       - scss/main.scss
+      - assets/base/typography.scss
     toc: true
