@@ -1,0 +1,49 @@
+/*-- scss:defaults --*/
+// https://quarto.org/docs/output-formats/html-themes-more.html#bootstrap-bootswatch-layering
+
+// You can leave off the _ when importing a partial
+// Order does matter! - SASS compiler runs top to bottom
+// e.g. if a file depends on a value declared in a another file,
+// it must be BELOW the file it depends on
+
+// variables & functions
+@import "abstracts/variables";
+
+// colors
+@import "./base/colors";
+@import "./base/media-queries";
+@import "./base/typography";
+
+// base & layout
+@import "./layout/footer";
+@import "./layout/grid";
+@import "./layout/header";
+
+// components (button, card, navbar)
+@import "./components/buttons";
+
+// styles that can be re-used throughout the stylesheet (margin, padding, opacity)
+@import "./abstracts/mixins";
+
+// page-specific components 
+
+
+h {
+    font-family: $headings-font-family;
+}
+
+p {
+    color: $text-secondary-color;
+    font-family: $font-family-sans-serif;
+}
+
+.border {
+    background-color: $default-box-bg;
+    width: 300px;
+    height: 300px;
+    border-radius: $default-border-radius;
+}
+
+
+/**/ /**/ /**/
+/**/ /**/

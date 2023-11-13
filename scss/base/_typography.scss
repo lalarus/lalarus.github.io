@@ -1,4 +1,4 @@
-/*-- scss:rules --*/
+/*-- scss:defaults --*/
 
 /* pangaia-bold */
 @font-face {
@@ -51,8 +51,58 @@
   $headings-font-family: "PPPangaia-Medium", serif;
 
 
-
-  // Font sizes
-  $p-font-size: 26px;
  
-  
+// Font sizes
+
+// 62.5% Font Size Trick
+html {
+  /* 62.5% of 16px browser font size is 10px */
+  font-size: 62.5% !important; /* =10px */
+} 
+
+body {
+  /* scaling  back up to an effective font size of 16px */
+  font-size: 1.6rem !important;
+}
+
+$font-size-base: 1rem !default; // Assumes the browser default, typically `16px`
+
+
+/*
+Define any additional font features if using a variable font:
+
+code {
+  font-feature-settings: 'dlig' 0, 'liga' 0, 'calt' 1, 'zero' 1, 'ss02' 0;
+}
+*/
+
+
+// 62.5% Font Size Trick
+
+h1 /*code*/ {
+  font-size: $font-size-base * 4.0 !important; /* =40px */
+}
+   
+h2 {
+  font-size: $font-size-base * 3.2 !important; /* =32px */
+}
+
+h3 {
+  font-size: $font-size-base * 2.8 !important; /* =28px */
+}
+
+h4 {
+  font-size: $font-size-base * 2.4 !important; /* =24px */
+}
+
+h5 {
+  font-size: $font-size-base * 2.0 !important; /* =20px */
+}
+
+h6 {
+  font-size: $font-size-base * 1.6 !important; /* =16px */
+}
+
+p {
+  font-size: $font-size-base * 1.6 !important; /* =16px */
+} 

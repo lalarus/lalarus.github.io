@@ -54,7 +54,7 @@ website:
 format:
   html:
     theme: 
+      - scss/larry-theme-light.scss
       - cosmo
-      - scss/main.scss
-      - assets/base/typography.scss
+
     toc: true
