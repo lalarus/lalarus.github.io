@@ -1,0 +1,9 @@
+---
+title: "License"
+toc: false
+---
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+
+All icons on this website are free and open source icons provided by [Iconify](https://icon-sets.iconify.design/). I use the [quarto-iconify extension](https://github.com/mcanouil/quarto-iconify).

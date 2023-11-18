@@ -1,5 +1,16 @@
 /*-- scss:defaults --*/
 
+// Fonts
+$font-size-base: 1rem !default; // Assumes the browser default, typically `16px`
+$font-family-sans-serif: "Neue Montreal", Arial, Helvetica, sans-serif;
+$font-family-monospace: "Dark Mono", "Fira Mono", monospace;
+$headings-font-family: "PPPangaia-Medium", serif;
+//$font-size-sm:
+$font-size-large: $font-size-base * 2.8;
+
+
+/*-- scss:rules --*/
+
 /* pangaia-bold */
 @font-face {
     font-family: 'PPPangaia-Medium';
@@ -44,13 +55,6 @@
          url('./assets/fonts/PPNeueMontreal-Italic.otf') format('otf');
   }
 
-
-  // Fonts
-  $font-family-sans-serif: "Neue Montreal", Arial, Helvetica, sans-serif;
-  $font-family-monospace: "Dark Mono", "Fira Mono", monospace;
-  $headings-font-family: "PPPangaia-Medium", serif;
-
-
  
 // Font sizes
 
@@ -65,7 +69,6 @@ body {
   font-size: 1.6rem !important;
 }
 
-$font-size-base: 1rem !default; // Assumes the browser default, typically `16px`
 
 
 /*
@@ -80,11 +83,13 @@ code {
 // 62.5% Font Size Trick
 
 h1 /*code*/ {
-  font-size: $font-size-base * 4.0 !important; /* =40px */
+  font-size: $font-size-base * 6.0 !important; /* =60px */
 }
    
 h2 {
   font-size: $font-size-base * 3.2 !important; /* =32px */
+  border-bottom: none !important;
+  padding-bottom: unset !important;
 }
 
 h3 {

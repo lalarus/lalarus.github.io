@@ -44,6 +44,27 @@ p {
     border-radius: $default-border-radius;
 }
 
+.text-large p {
+    font-size: $font-size-large !important;
+}
 
+/* navbar-nav-scroll */
+.navbar-nav {
+    gap: 24px !important;
+}
+
+.navbar-expand-lg {
+    padding-top: 1.5rem !important;
+    padding-right: 4rem !important;
+    padding-left: 4rem !important;
+}
+
+.nav-footer {
+    padding-left: 4rem !important;
+    padding-right: 4rem !important;
+    padding-bottom: 1.5rem !important;
+    border-top: 1px solid;
+    background-color: $footer-bg;
+}
 /**/ /**/ /**/
 /**/ /**/

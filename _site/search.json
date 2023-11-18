@@ -11,13 +11,83 @@
     "href": "index.html",
     "title": "Hallo!",
     "section": "",
-    "text": "This is a Quarto website.\n\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nAll icons on this website are free and open source icons provided by Iconify. I use the quarto-iconify extension.\n////////// //////////////////\n\n\n\n Back to top"
+    "text": "👋🏻 I’m Larry, a German based in Stockholm, who recently finished her Master thesis on deceptive design patterns.\nI use design to create understanding, spark compassion, and drive action. I work with user studies and user experience design. Sometimes I also code, like this website. You’ll usually find me talking about value-sensitive design, initiatives and people that drive climate action, or great data visualization.\nIn real life, I enjoy focal things (as A. Borgmann would put it); being in nature on a hike. The smell of roasted onions in the pan. Feeling the strain in my body during a run.\n\n\n\n\n\nA picture of a woman in her late-twenties\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "about.html#this-is-a-h2-heading",
     "href": "about.html#this-is-a-h2-heading",
     "title": "About",
     "section": "This is a h2 heading",
-    "text": "This is a h2 heading\n\nh3, you got the gist\n\nthis one should be 16 px * 1.5;\n\nh5 is 16px * 1.25\n\nno idea when I will ever use a h6 but it has the same size as p text\nI’m Larry, a German based in Stockholm, who recently finished her Master thesis on deceptive design patterns.\nI use design to create understanding, spark compassion, and drive action. I work with user studies and user experience design. Sometimes I also code, like this website. You’ll usually find me talking about value-sensitive design, initiatives and people that drive climate action, or great data visualization.\nIn real life, I enjoy focal things (as A. Borgmann would put it); being in nature on a hike. The smell of roasted onions in the pan. Feeling the strain in my body during a run.\n/// // //"
+    "text": "This is a h2 heading\n\nh3, you got the gist\n\nthis one should be 16 px * 1.5;\n\nh5 is 16px * 1.25\n\nno idea when I will ever use a h6 but it has the same size as p text\nI’m Larry, a German based in Stockholm, who recently finished her Master thesis on deceptive design patterns.\nI use design to create understanding, spark compassion, and drive action. I work with user studies and user experience design. Sometimes I also code, like this website. You’ll usually find me talking about value-sensitive design, initiatives and people that drive climate action, or great data visualization.\nIn real life, I enjoy focal things (as A. Borgmann would put it); being in nature on a hike. The smell of roasted onions in the pan. Feeling the strain in my body during a run.\n/// // // // // // //"
+  },
+  {
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "License",
+    "section": "",
+    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\nAll icons on this website are free and open source icons provided by Iconify. I use the quarto-iconify extension.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "accessibility.html",
+    "href": "accessibility.html",
+    "title": "I do not track you",
+    "section": "",
+    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\nAll icons on this website are free and open source icons provided by Iconify. I use the quarto-iconify extension.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "index.html#welcome-to-my-little-corner",
+    "href": "index.html#welcome-to-my-little-corner",
+    "title": "Hallo!",
+    "section": "Welcome to my little corner!",
+    "text": "Welcome to my little corner!\nget to know me now! i dont get it // /"
+  },
+  {
+    "objectID": "imprint.html",
+    "href": "imprint.html",
+    "title": "Imprint",
+    "section": "",
+    "text": "Here you read something about imprints jajjaja\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "index.html#two",
+    "href": "index.html#two",
+    "title": "Hallo!",
+    "section": "Two",
+    "text": "Two"
+  },
+  {
+    "objectID": "index.html#one",
+    "href": "index.html#one",
+    "title": "Hallo!",
+    "section": "One",
+    "text": "One"
+  },
+  {
+    "objectID": "index.html#two-1",
+    "href": "index.html#two-1",
+    "title": "Hallo!",
+    "section": "Two",
+    "text": "Two"
+  },
+  {
+    "objectID": "index.html#three",
+    "href": "index.html#three",
+    "title": "Hallo!",
+    "section": "Three",
+    "text": "Three"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "My blog!",
+    "section": "",
+    "text": "JUhu"
+  },
+  {
+    "objectID": "blog.html#welcome-to-my-little-corner",
+    "href": "blog.html#welcome-to-my-little-corner",
+    "title": "My blog!",
+    "section": "",
+    "text": "JUhu"
   }
 ]

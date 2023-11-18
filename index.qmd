@@ -1,15 +1,30 @@
 ---
 title: "Hallo!"
+toc: false
+format:
+  html: 
+    page-layout: full
 ---
 
-::: {.border}
-This is a Quarto website.
+<br>
+<br>
+
+___
+<br>
+
+::: {.grid}
+
+::: {.g-col-8 .text-large}
+ 👋🏻 I’m Larry, a German based in Stockholm, who recently finished her Master thesis on deceptive design patterns.
+
+ I use design to create understanding, spark compassion, and drive action. I work with user studies and user experience design. Sometimes I also code, like this website. You’ll usually find me talking about value-sensitive design, initiatives and people that drive climate action, or great data visualization.
+
+
+In real life, I enjoy focal things (as A. Borgmann would put it); being in nature on a hike. The smell of roasted onions in the pan. Feeling the strain in my body during a run.
 :::
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+:::{.g-col-4}
+![A picture of a woman in her late-twenties](/assets/img/me.jpg "This is me")
+:::
 
-
-All icons on this website are free and open source icons provided by [Iconify](https://icon-sets.iconify.design/). I use the [quarto-iconify extension](https://github.com/mcanouil/quarto-iconify).
-
-////////// 
-//////////////////
+:::

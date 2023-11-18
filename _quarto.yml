@@ -16,6 +16,7 @@ website:
 
 
   navbar:
+  #  background: "#ecf0f1"
   # logo:
   # tools:
   # - icon: github
@@ -31,7 +32,7 @@ website:
         href: blog.qmd   
       - text: Contact
         href: contact.qmd  
-    pinned: true
+    pinned: false
 
   page-footer:
     left: >-
@@ -44,7 +45,7 @@ website:
         href: accessibility.qmd
       - text: "Imprint"
         aria-label: "Imprint"
-        href: "contact.qmd"
+        href: "imprint.qmd"
       - text: "License"
         aria-label: "License Details"
         href: license.qmd
@@ -54,7 +55,8 @@ website:
 format:
   html:
     theme: 
+      - flatly
       - scss/larry-theme-light.scss
-      - cosmo
+
 
     toc: true
