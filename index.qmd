@@ -5,10 +5,8 @@ format:
   html: 
     page-layout: full
 ---
-
 <br>
 <br>
-
 ___
 <br>
 
@@ -20,7 +18,14 @@ ___
  I use design to create understanding, spark compassion, and drive action. I work with user studies and user experience design. Sometimes I also code, like this website. You’ll usually find me talking about value-sensitive design, initiatives and people that drive climate action, or great data visualization.
 
 
-In real life, I enjoy focal things (as A. Borgmann would put it); being in nature on a hike. The smell of roasted onions in the pan. Feeling the strain in my body during a run.
+In real life, I enjoy [focal things](about.qmd) (as A. Borgmann would put it); being in nature on a hike. The smell of roasted onions in the pan. Feeling the strain in my body during a run.
+
+[Want to read even more about me? &#x2197;](about.qmd)
+
+[Want to read even more about me? &#x2197;](about.qmd){.btn .btn-outline-primary .btn-lg .btn role="button"}
+
+[Want to read even more about me? &#x2197;](about.qmd){.btn .btn-primary .btn role="button"}
+
 :::
 
 :::{.g-col-4}

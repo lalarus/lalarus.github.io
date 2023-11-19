@@ -3,19 +3,22 @@
 
 // Base colors
 
+//$black: #000000;
 //$pink: #D4006A;
 //$blue: #006AD4;
 //$green: #00D46A;
 //$cyan: #00D4D4;
 //$red: #D40000;
 //$indigo: #0000D4;
-//$purple: #6A00D4;
+//$purple: #745BE6;
 //$orange: #D46A00;
 //$yellow: #D4D400;
 //$green-bright: #6AD400;
-//
 
-//$primary:   $pink;
+$primary:   #000000;
+$secondary: green;
+$button-hover-bg: #eeeeee;
+$purple: #745BE6;
 //$secondary: $gray-500;
 //$success:   $green;
 //$info:      $cyan;
@@ -23,16 +26,4 @@
 //$danger:    $red;
 //$light:     $gray-100;
 //$dark:      $gray-900;
-
-//$body-bg: $blue;
-//$body-color: $grey;
-//$link-color: $grey;
-//§input-bg:: $grey;
-//$popover-bg: $grey;
-
-$text-primary-color: red;
-
-$text-secondary-color: rgb(77, 77, 127);
-
-$default-box-bg: purple;
 

@@ -1,12 +1,20 @@
 /*-- scss:defaults --*/
 
-
 // Links
+//$body-bg: $blue;
+//$body-color: $grey;
+$link-color: $primary;
+$link-hover-color: $purple;
+//$input-bg: $grey;
+//$popover-bg: $grey;
 
 
 // Borders
 $default-border-radius: 12px;
 $card-border-radius: 8px;
+$base-border-radius: 2rem;
+
+$default-box-bg: grey;
 
 
 // Layout

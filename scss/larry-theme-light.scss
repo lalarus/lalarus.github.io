@@ -6,13 +6,13 @@
 // e.g. if a file depends on a value declared in a another file,
 // it must be BELOW the file it depends on
 
-// variables & functions
-@import "abstracts/variables";
-
 // colors
-@import "./base/colors";
+@import "./base/colors-light";
 @import "./base/media-queries";
 @import "./base/typography";
+
+// variables & functions
+@import "abstracts/variables";
 
 // base & layout
 @import "./layout/footer";
@@ -33,7 +33,7 @@ h {
 }
 
 p {
-    color: $text-secondary-color;
+    color: $primary;
     font-family: $font-family-sans-serif;
 }
 
@@ -48,23 +48,8 @@ p {
     font-size: $font-size-large !important;
 }
 
-/* navbar-nav-scroll */
-.navbar-nav {
-    gap: 24px !important;
+a {
+    transition-duration: 350ms;
 }
 
-.navbar-expand-lg {
-    padding-top: 1.5rem !important;
-    padding-right: 4rem !important;
-    padding-left: 4rem !important;
-}
-
-.nav-footer {
-    padding-left: 4rem !important;
-    padding-right: 4rem !important;
-    padding-bottom: 1.5rem !important;
-    border-top: 1px solid;
-    background-color: $footer-bg;
-}
-/**/ /**/ /**/
-/**/ /**/
+  /**/ /**/ /**/
