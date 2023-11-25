@@ -1,6 +1,9 @@
 ---
 title: "My blog!"
 toc: false
+format:
+  html: 
+    page-layout: full
 ---
 
 ## Welcome to my little corner!

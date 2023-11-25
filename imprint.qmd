@@ -1,6 +1,9 @@
 ---
 title: "Imprint"
 toc: false
+format:
+  html: 
+    page-layout: full
 ---
 
 Here you read something about imprints jajjaja

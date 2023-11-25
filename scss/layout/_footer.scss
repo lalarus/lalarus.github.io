@@ -1,9 +1,7 @@
 /*-- scss:defaults --*/
 
-
-//$footer-bg:
-$footer-fg: grey-100;
-$footer-bg: rgb(221, 221, 221);
+//$footer-bg: $grey200;
+//$footer-fg: $text-background;
 
 
 /*-- scss:rules --*/
@@ -12,6 +10,7 @@ $footer-bg: rgb(221, 221, 221);
     padding-left: 4rem !important;
     padding-right: 4rem !important;
     padding-bottom: 1.5rem !important;
-    border-top: 1px solid;
-    background-color: $footer-bg;
+    border-top: 1px solid !important;
+    background-color: $grey-200 !important;
+    color: $text-background !important;
 }

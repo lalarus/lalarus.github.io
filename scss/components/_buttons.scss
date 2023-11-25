@@ -4,7 +4,9 @@
 
 // large buttons
 .btn {
-    border-radius: $base-border-radius;
+    border-color: $text-background;
+    border-radius: $button-border-radius !important;
+    color: $text-background !important;
     font-size: $font-size-medium !important;
     padding: 1.25rem 2.5rem !important;
     text-transform: uppercase;
@@ -12,7 +14,20 @@
     font-weight: 530 !important;
 
     &:hover {
-        background-color: $button-hover-bg !important;
-        color: $primary !important;
+        background-color: $surface !important;
+        color: $text-background !important;
     }
+}
+
+// buttons on the about page
+.button-about {
+    display: flex !important;
+    flex-direction: row !important;
+    flex-wrap: wrap !important;
+    gap: 0px 1em !important;
+}
+
+.button-about .btn {
+    font-size: 10px !important;
+    padding: 0.8rem 1.0rem !important;
 }

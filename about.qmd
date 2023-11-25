@@ -1,43 +1,171 @@
 ---
 title: "About"
 toc: false
+image: /assets/img/me.jpg
+image-title: me
+image-alt: "A woman in her late 20ies"
+about:
+    template: solana
+    image-width: 24em
+    id: content-about
+#    links:
+#    - icon: github
+#      aria-label: "GitHub"
+#      href: https://github.com/lalarus
+#    - icon: linkedin
+#      aria-label: "LinkedIn"
+#      href: https://linkedin.com/in/spcanelon
+format:
+  html: 
+    page-layout: full
 ---
+<!--::: {.hero .hero-about}
+# About me
+<br>
+<br>
+<br>
+<br>
 
-::: {.grid}
+***
+:::-->
 
-:::{.g-col-4}
-## One
-:::
-
-:::{.g-col-4}
-## Two
-:::
-
-:::{.g-col-4}
-## Three
-:::
-
-:::
-
-
-
-# Hi, I'm happy you're here.
-
-## This is a h2 heading
-
-### h3, you got the gist
-
-#### this one should be 16 px * 1.5;
-
-##### h5 is 16px * 1.25
-
-###### no idea when I will ever use a h6 but it has the same size as p text
-
-I’m Larry, a German based in Stockholm, who recently finished her Master thesis on deceptive design patterns.
+::: {#content-about .text-medium}
+👋🏻 I’m Larry, a German based in Stockholm, who recently finished her Master thesis on deceptive design patterns.
 
 I use design to create understanding, spark compassion, and drive action. I work with user studies and user experience design. Sometimes I also code, like this website. You’ll usually find me talking about value-sensitive design, initiatives and people that drive climate action, or great data visualization.
 
+In real life, I enjoy [focal things](about.qmd) (as A. Borgmann would put it); being in nature on a hike. The smell of roasted onions in the pan. Feeling the strain in my body during a run.
 
-In real life, I enjoy focal things (as A. Borgmann would put it); being in nature on a hike. The smell of roasted onions in the pan. Feeling the strain in my body during a run.
+::: {.button-about}
+[LinkedIn &#x2197;](about.qmd){.btn .btn-outline-primary .btn-lg .btn role="button"}
 
-/// // // // // // //
+[GitHub &#x2197;](about.qmd){.btn .btn-outline-primary .btn-lg .btn role="button"}
+:::
+
+:::
+
+## Who I am.
+
+## How I do what I do.
+link zu blogbeitrag about values 
+Check out what I wrote about this [on my blog &#x2197;](blog.qmd)
+
+
+#### Skills & Tools
+
+#### Work experience
+
+#### Education
+
+
+If you're browsing this page it means you probably wish to know more about me. Wish granted.
+
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+
+The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+
+<!--
+![A picture of a woman in her late-twenties](/assets/img/me.jpg "This is me")
+-->
+
+## New1 {#content1}
+
+:::: {.grid}
+
+::: {.g-col-6}
+#### Work experience
+::: {#work experience}
+:::
+[See all &rarr;](../blog){.about-links .subtitle}
+The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by 
+:::
+
+::: {.g-col-6}
+#### Education
+::: {#education}
+:::
+[See all &rarr;](../talk){.about-links .subtitle}
+The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by 
+:::
+
+::::
+
+
+
+
+
+## content2 {#content2}
+
+:::: {.grid}
+
+::: {.g-col-6}
+#### Interests
+::: {#interests}
+:::
+[See all &rarr;](../blog){.about-links .subtitle}
+The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by 
+:::
+
+::: {.g-col-6}
+#### Languages
+::: {#languages}
+:::
+[See all &rarr;](../talk){.about-links .subtitle}
+The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by 
+:::
+
+::::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Lately {#mylately}
+
+:::: {.grid}
+
+::: {.g-col-3}
+#### Blog
+::: {#blog}
+:::
+[See all &rarr;](../blog){.about-links .subtitle}
+The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by 
+:::
+
+::: {.g-col-3}
+#### Talks
+::: {#talk}
+:::
+[See all &rarr;](../talk){.about-links .subtitle}
+The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by 
+:::
+
+::: {.g-col-3}
+#### Publications
+::: {#publication}
+:::
+[See all &rarr;](../publication){.about-links .subtitle}
+The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by 
+:::
+
+::: {.g-col-3}
+#### Projects
+::: {#project}
+:::
+[See all &rarr;](../project){.about-links .subtitle}
+The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by 
+:::
+
+::::

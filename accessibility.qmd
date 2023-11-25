@@ -1,6 +1,9 @@
 ---
 title: "I do not track you"
 toc: false
+format:
+  html: 
+    page-layout: full
 ---
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

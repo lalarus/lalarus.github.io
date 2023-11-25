@@ -1,7 +1,15 @@
 ---
 title: "Contact me"
 toc: false
+format:
+  html: 
+    page-layout: full
 ---
 
 ## Welcome to my little corner!
+
+
+Got questions, or just want to reach out and say hello? I got a form for that. 😉
+
+
 

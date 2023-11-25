@@ -2,8 +2,8 @@
 
 
 // Navigation
-$navbar-bg: white;
-$navbar-fg: black;
+$navbar-bg: $background;
+$navbar-fg: $text-background;
 $navbar-hl: red;
 
 /*-- scss:rules --*/
@@ -34,30 +34,30 @@ $navbar-hl: red;
 .navbar-title {
   //font-size: 0.75em;
   //font-weight: 500;
-  color: $primary;
+  color: $text-background;
   text-transform: uppercase;
   //letter-spacing: .1em;
 
   &:hover {
-    color: $purple;
+    color: $secondary;
     transition-duration: 350ms;
   }
 }
 
 // links
 .navbar-nav .nav-link {
-    color: $primary !important;
+    color: $text-background !important;
     text-transform: uppercase;
     //letter-spacing: .1em; 
-    border-bottom: 1.5px solid transparent;    
+    border-bottom: 2px solid transparent;    
 
     &:hover {
-      border-bottom: 1.5px solid $purple !important;
+      border-bottom: 2px solid $secondary !important;
     }
 }
 
 
-
+/**/
 
 
 

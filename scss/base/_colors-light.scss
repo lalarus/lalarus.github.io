@@ -1,29 +1,45 @@
 /*-- scss:defaults --*/
 
-
 // Base colors
 
-//$black: #000000;
-//$pink: #D4006A;
-//$blue: #006AD4;
-//$green: #00D46A;
-//$cyan: #00D4D4;
-//$red: #D40000;
-//$indigo: #0000D4;
-//$purple: #745BE6;
-//$orange: #D46A00;
-//$yellow: #D4D400;
-//$green-bright: #6AD400;
-
-$primary:   #000000;
-$secondary: green;
-$button-hover-bg: #eeeeee;
+//$black: #091A19;
+$black: #000000;
+$white: #FFFFFF;
+$green: #1E5550;
 $purple: #745BE6;
-//$secondary: $gray-500;
-//$success:   $green;
-//$info:      $cyan;
-//$warning:   $orange;
-//$danger:    $red;
-//$light:     $gray-100;
-//$dark:      $gray-900;
 
+$champagne-50: #F8EEE8;
+$champagne-100: #E6D4CD;
+$champagne-200: #d1b8af;
+
+$red: #B00020;
+
+$grey-50: #FAFAFA;
+$grey-100:#F5F5F5;
+$grey-200:#EEEEEE;
+$grey-300: #E0E0E0;
+$grey-400:#BDBDBD;
+$grey-500: #9E9E9E;
+$grey-600:#757575;
+$grey-700:#616161;
+$grey-800:#424242;
+$grey-900: #212121;
+
+
+// Primary & secondary
+$primary:   $green;
+$text-primary: $white;
+
+$secondary: $purple;
+$text-secondary:  $white;
+
+
+// Background, surface, error
+$background: $white;
+$text-background: $black;
+
+$surface: $champagne-50;
+$text-surface: $green;
+
+$warning:   $red;
+$text-warning: $white;

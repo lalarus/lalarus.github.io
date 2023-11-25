@@ -26,30 +26,42 @@
 @import "./abstracts/mixins";
 
 // page-specific components 
+@import "./pages/about";
 
-
+// Typography
 h {
     font-family: $headings-font-family;
+    color: text-background;
 }
 
 p {
-    color: $primary;
+    color: $text-background;
     font-family: $font-family-sans-serif;
-}
-
-.border {
-    background-color: $default-box-bg;
-    width: 300px;
-    height: 300px;
-    border-radius: $default-border-radius;
+    //font-size: clamp($font-size-base * 1.6, 6.944vw + -3.306rem, $font-size-base * 3.2) !important;
 }
 
 .text-large p {
     font-size: $font-size-large !important;
 }
 
+.text-medium p {
+    font-size: $font-size-medium !important;
+}
+
+//Links
 a {
     transition-duration: 350ms;
 }
 
-  /**/ /**/ /**/
+
+// Images
+img {
+    border-radius: $base-border-radius !important;
+}
+
+// Title
+.title {
+    padding-bottom: 1em;
+}
+
+  /**/ /**/ /**/ /**/ /**/
