@@ -37,7 +37,16 @@ h {
 p {
     color: $text-background;
     font-family: $font-family-sans-serif;
+    font-weight: $font-weight-normal;
     //font-size: clamp($font-size-base * 1.6, 6.944vw + -3.306rem, $font-size-base * 3.2) !important;
+}
+
+.bolder {
+    font-weight: $font-weight-semibold;
+}
+
+.lighter {
+    color: $grey-600;
 }
 
 .text-large p {
@@ -64,4 +73,4 @@ img {
     padding-bottom: 1em;
 }
 
-  /**/ /**/ /**/ /**/ /**/
+  /**/ /**/ /**/ /**/ 

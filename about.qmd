@@ -51,121 +51,72 @@ link zu blogbeitrag about values
 Check out what I wrote about this [on my blog &#x2197;](blog.qmd)
 
 
-#### Skills & Tools
-
-#### Work experience
-
-#### Education
-
-
-If you're browsing this page it means you probably wish to know more about me. Wish granted.
-
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
-
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
 
 <!--
 ![A picture of a woman in her late-twenties](/assets/img/me.jpg "This is me")
 -->
 
-## New1 {#content1}
+## content1 {#content1}
 
 :::: {.grid}
 
-::: {.g-col-6}
+::: {.g-col-6 #work-experience}
 #### Work experience
-::: {#work experience}
-:::
-[See all &rarr;](../blog){.about-links .subtitle}
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by 
+UX Designer
+scitis.io, Stuttgart, Germany / 2021
+
+Graphic and Communication Designer
+Freelancce / 2014 - now
+
+Project Manager Communications
+bwcon GmbH, Stuttgart / 2019 - 2020
+
+Project Assistant Innovation Programs
+bwcon GmbH, Stuttgart / 2019
+
+Intern Strategic Planning
+Heye GmbH, Munich / 2016
+
+
 :::
 
-::: {.g-col-6}
+::: {.g-col-6 #education}
 #### Education
-::: {#education}
-:::
-[See all &rarr;](../talk){.about-links .subtitle}
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by 
+[Information Technology – Web Communication Design M.Sc.]{.bolder} <br>
+[Syddansk Universitet, Kolding, Denmark / 2021 - 2023]{.lighter}
+
+[Grafisk Design och kommunikation B.A. (ERASMUS)]{.bolder} <br>
+Linköpings Universitet, Norrköping, Sweden / 2016 - 2017
+
+[Advertising and Market Communication B.A.]{.bolder} <br>
+Hochschule der Medien, Stuttgart, Germany / 2014 - 2019 come on!
 :::
 
 ::::
-
-
-
 
 
 ## content2 {#content2}
 
 :::: {.grid}
 
-::: {.g-col-6}
+::: {.g-col-6 #interests}
 #### Interests
-::: {#interests}
-:::
-[See all &rarr;](../blog){.about-links .subtitle}
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by 
+- cooking and baking bread
+- playing volleyball
+- going hiking
 :::
 
-::: {.g-col-6}
+::: {.g-col-6 #languages}
 #### Languages
-::: {#languages}
-:::
-[See all &rarr;](../talk){.about-links .subtitle}
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by 
-:::
+German, Native
 
-::::
+English, Fluent
 
+Swedish, Conversational
 
+Danish, Intermediate
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Lately {#mylately}
-
-:::: {.grid}
-
-::: {.g-col-3}
-#### Blog
-::: {#blog}
-:::
-[See all &rarr;](../blog){.about-links .subtitle}
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by 
-:::
-
-::: {.g-col-3}
-#### Talks
-::: {#talk}
-:::
-[See all &rarr;](../talk){.about-links .subtitle}
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by 
-:::
-
-::: {.g-col-3}
-#### Publications
-::: {#publication}
-:::
-[See all &rarr;](../publication){.about-links .subtitle}
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by 
-:::
-
-::: {.g-col-3}
-#### Projects
-::: {#project}
-:::
-[See all &rarr;](../project){.about-links .subtitle}
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by 
+French, Intermediate
 :::
 
 ::::
