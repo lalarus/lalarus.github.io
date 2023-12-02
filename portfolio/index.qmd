@@ -5,7 +5,7 @@ description: |
 listing:
     type: grid
     grid-columns: 3
-    fields: [title, categories, date, image]
+    fields: [title, categories, image, description]
     sort: "date desc"
     filter-ui: false
     image-align: left
@@ -19,6 +19,6 @@ title-block-banner: false
 
 ## Welcome to my little corner!
 
-### What I do. 
+### What I doooo.
 
 

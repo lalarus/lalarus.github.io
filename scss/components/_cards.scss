@@ -1,0 +1,18 @@
+/*-- scss:rules --*/
+
+
+.card {
+  background-color: $surface !important;
+  border: 0px solid !important;
+  border-radius: $base-border-radius !important;
+}
+
+// targets card img
+.card-img-top {
+  padding: 1.2em !important;
+}
+
+// targets text on card
+.card-body {
+  padding: 1.2em !important;
+}

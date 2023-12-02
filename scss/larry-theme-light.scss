@@ -7,27 +7,28 @@
 // it must be BELOW the file it depends on
 
 // colors
-@import "./base/colors-light";
-@import "./base/media-queries";
-@import "./base/typography";
+@import "base/colors-light";
+@import "base/media-queries";
+@import "base/typography";
 
 // variables & functions
 @import "abstracts/variables";
 
 // base & layout
-@import "./layout/footer";
-@import "./layout/grid";
-@import "./layout/header";
+@import "layout/footer";
+@import "layout/grid";
+@import "layout/header";
 
 // components (button, card, navbar)
-@import "./components/buttons";
-@import "./components/tags";
+@import "components/buttons";
+@import "components/tags";
+@import "components/cards";
 
 // styles that can be re-used throughout the stylesheet (margin, padding, opacity)
-@import "./abstracts/mixins";
+@import "abstracts/mixins";
 
 // page-specific components 
-@import "./pages/about";
+@import "pages/about";
 
 // Typography
 h {
@@ -78,6 +79,7 @@ img {
 }
 
 
-  /**/ /**/ /**/ /**/ /**/ 
+  /**/ /**/ /**/ 
+
 
 

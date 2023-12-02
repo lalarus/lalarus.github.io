@@ -6,7 +6,7 @@ subtitle: this is the subtitle jajjaja.
 excerpt: this is an excerpt.
 date: last-modified
 #site-url:
-image: ../../assets/img/about_larry2.jpg
+image: ../../assets/img/forest.jpg
 image-alt: |
     A nice mockup of my thesis
 categories:
