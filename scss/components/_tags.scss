@@ -1,0 +1,32 @@
+/*-- scss:rules --*/
+
+// tags on portfolio main
+.listing-category {
+  color: $text-background !important;
+  border: solid 1px $text-background !important;
+  border-radius: 0px !important;
+  font-size: 0.65em !important;
+  font-weight: $font-weight-semibold !important;
+  letter-spacing: 2 * $spacing-standard !important;
+  padding: 0.4em 0.8em !important;
+  &:hover {
+      background-color: $surface;
+  }
+}
+
+
+// tags within a portfolio project
+.quarto-category {
+  color: $text-background !important;
+  border: solid 1px $text-background !important;
+  border-radius: 0px !important;
+  font-size: 0.65em !important;
+  font-weight: $font-weight-semibold !important;
+  letter-spacing: 2 * $spacing-standard !important;
+  padding: 0.4em 0.8em !important;
+  opacity: 1 !important;
+  padding: .4em .8em !important;
+  &:hover {
+      background-color: $surface;
+  }
+}
