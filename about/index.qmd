@@ -1,0 +1,128 @@
+---
+title: "About"
+toc: false
+image: /assets/img/about_larry.jpg
+image-title: me
+image-alt: "A woman in her late 20ies"
+about:
+    template: solana
+    image-width: 24em
+    id: content-about
+#    links:
+#    - icon: github
+#      aria-label: "GitHub"
+#      href: https://github.com/lalarus
+#    - icon: linkedin
+#      aria-label: "LinkedIn"
+#      href: https://linkedin.com/in/spcanelon
+format:
+  html: 
+    page-layout: full
+---
+<!--::: {.hero .hero-about}
+# About me
+<br>
+<br>
+<br>
+<br>
+
+***
+:::-->
+
+::: {#content-about .text-medium}
+👋🏻 I’m Larry, a German based in Stockholm, who recently finished her Master thesis on deceptive design patterns.
+
+I use design to create understanding, spark compassion, and drive action. I work with user studies and user experience design. Sometimes I also code, like this website. You’ll usually find me talking about value-sensitive design, initiatives and people that drive climate action, or great data visualization.
+
+In real life, I enjoy [focal things](about.qmd) (as A. Borgmann would put it); being in nature on a hike. The smell of roasted onions in the pan. Feeling the strain in my body during a run.
+
+::: {.button-about}
+[LinkedIn &#x2197;](about.qmd){.btn .btn-outline-primary .btn-lg .btn role="button"}
+
+[GitHub &#x2197;](about.qmd){.btn .btn-outline-primary .btn-lg .btn role="button"}
+:::
+
+:::
+
+## Who I am.
+
+## How I do what I do.
+link zu blogbeitrag about values 
+Check out what I wrote about this [on my blog &#x2197;](blog/index.qmd)
+
+
+
+<!--
+![A picture of a woman in her late-twenties](/assets/img/me.jpg "This is me")
+-->
+
+## content1 {#content1}
+
+:::: {.grid}
+
+::: {.g-col-6 #work-experience}
+#### Work experience
+Graphic and Communication Designer <br>
+[Freelance / 2014 - now]{.lighter}
+
+UX Designer <br>
+[scitis.io, Stuttgart, Germany / 2021]{.lighter}
+
+Project Manager Communications <br>
+[bwcon GmbH, Stuttgart / 2019 - 2020]{.lighter}
+
+Project Assistant Innovation Programs <br>
+[bwcon GmbH, Stuttgart / 2019]{.lighter}
+
+Intern Strategic Planning <br>
+[Heye GmbH, Munich / 2016]{.lighter}
+
+
+:::
+
+::: {.g-col-6 #education}
+#### Education
+M.Sc. Information Technology – Web Communication Design <br>
+[Syddansk Universitet, Kolding, Denmark / 2021 - 2023]{.lighter}
+
+B.A. Grafisk Design och kommunikation (ERASMUS) <br>
+[Linköpings Universitet, Norrköping, Sweden / 2016 - 2017]{.lighter}
+
+B.A. Advertising and Market Communication <br>
+[Hochschule der Medien, Stuttgart, Germany / 2014 - 2019]{.lighter}
+:::
+
+::::
+
+
+## content2 {#content2}
+
+:::: {.grid}
+
+::: {.g-col-6 #interests}
+#### Interests
+- cooking and baking bread!!
+- playing volleyball
+- going hiking
+:::
+
+::: {.g-col-6 #languages}
+#### Languages
+German, [Native]{.lighter}
+
+English, [Fluent]{.lighter}
+
+Swedish, [Conversational]{.lighter}
+
+Danish, [Intermediate]{.lighter}
+
+French, [Intermediate]{.lighter}
+:::
+
+::::
+
+## Contact
+Got questions, or just want to reach out and say hello? I got a form for that. 😉
+
+
+

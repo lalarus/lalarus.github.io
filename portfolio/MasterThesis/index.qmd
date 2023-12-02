@@ -1,0 +1,38 @@
+---
+title: Master Thesis
+description: |
+    This is the description. Designing to support user agency.
+subtitle: this is the subtitle jajjaja.
+excerpt: this is an excerpt.
+date: last-modified
+#site-url:
+image: ../../assets/img/about_larry2.jpg
+image-alt: |
+    A nice mockup of my thesis
+categories:
+    - values
+    - design
+    - Design Thinking
+open-graph: true
+draft: false
+---
+
+## Hellooooo
+Der Polar-Birkenzeisig (Acanthis hornemanni, Syn.: Carduelis hornemanni) ist ein Singvogel aus der Gattung Acanthis in der Familie der Finken (Fringillidae).
+
+
+## Beschreibung
+Der 13 bis 15 Zentimeter messende Vogel ähnelt dem Birkenzeisig, ist aber heller und wirkt bereift. Der Bürzel ist ungestreift und rein weiß, auch die auffälligen Flügelbinden sind weiß. Der Rücken hat eine graue Färbung und hebt sich vom hellen Kopf und der hellen, wenig gestreiften Unterseite sattelartig ab.
+
+Die Brust des Männchens hat nur einen schwachen rosa Anflug, dem Weibchen fehlt der rötliche Farbton. Männchen und Weibchen tragen einen karminroten Scheitel. Seine Stimme ähnelt dem des Birkenzeisigs, die einzelnen Töne sind aber klarer voneinander getrennt.
+
+![Redpoll](../../assets/img/redpoll.jpg){fig-alt="A photo of a redpoll."}
+
+## Lebensraum
+Es gibt zwei Unterarten, A. h. hornemanni aus Grönland und den kanadischen Nachbarinseln sowie A. h. exilipes aus Nordamerika und Eurasien. Die grönländische Unterart ist größer und heller, manchmal überwiegend weiß. In Europa brütet der Polar-Birkenzeisig nur im nördlichsten Skandinavien. Im Winter hält er sich im gesamten Skandinavien und im Baltikum auf, Umherstreifende gelangen bis Island, Großbritannien und Mitteleuropa.
+
+## Lebensweise
+
+Acanthis hornemanni exilipes
+Er ist für gewöhnlich ein Vogel der Tundra, der in Zwergbirken und niedrigem Gestrüpp brütet. Das Gelege besteht aus vier bis fünf Eiern, nach 9 bis 14 Tagen sind die Jungen flügge. Birkensamen, daneben auch Insekten, sind die Hauptnahrung des Polar-Birkenzeisigs. An mehreren Stellen, zum Beispiel im nördlichen Norwegen, bildet er unbeschränkt Mischpaare mit dem Birkenzeisig.
+

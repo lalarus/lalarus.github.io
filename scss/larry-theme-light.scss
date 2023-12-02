@@ -34,11 +34,14 @@ h {
     color: text-background;
 }
 
+
 p {
     color: $text-background;
     font-family: $font-family-sans-serif;
     font-weight: $font-weight-normal;
+    letter-spacing: 0.05em;
     //font-size: clamp($font-size-base * 1.6, 6.944vw + -3.306rem, $font-size-base * 3.2) !important;
+    // font-size: clamp(var(--min-font-size),calc(35% + 1vw),var(--max-font-size));
 }
 
 .bolder {
@@ -73,4 +76,5 @@ img {
     padding-bottom: 1em;
 }
 
-  /**/ /**/ /**/ /**/ 
+
+  /**/ /**/ /**/ /**/ /**/

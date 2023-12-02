@@ -1,0 +1,24 @@
+---
+title: "What I do"
+description: |
+    These are my awesome projects. Read them thoroughly jajajaja.
+listing:
+    type: grid
+    grid-columns: 3
+    fields: [title, categories, date, image]
+    sort: "date desc"
+    filter-ui: false
+    image-align: left
+    image-height: 100%
+toc: false
+format:
+  html: 
+    page-layout: full
+title-block-banner: false
+---
+
+## Welcome to my little corner!
+
+### What I do. 
+
+
