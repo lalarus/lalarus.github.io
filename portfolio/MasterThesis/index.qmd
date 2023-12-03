@@ -14,7 +14,7 @@ categories:
     - design
     - Design Thinking
 open-graph: true
-draft: false
+toc: false
 ---
 
 ## Hellooooo

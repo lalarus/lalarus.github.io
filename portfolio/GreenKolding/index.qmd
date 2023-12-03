@@ -1,0 +1,30 @@
+---
+title: Green Kolding
+description: |
+    Green Kolding is a youth organization in Kolding.
+subtitle: this is the subtitle jajjaja.
+excerpt: this is an excerpt.
+date: last-modified
+#site-url:
+image: ../../assets/img/wasseramsel.jpg
+image-alt: |
+    A nice mockup of my thesis
+categories:
+    - UX
+    - User studies
+    - Sustainability
+open-graph: true
+toc: false
+---
+
+## Wasseramsel rules the world
+
+Die Wasseramsel oder Eurasische Wasseramsel (Cinclus cinclus) ist die einzige auch in Mitteleuropa vorkommende Vertreterin der Familie der Wasseramseln (Cinclidae). Der etwa starengroße, rundlich wirkende Singvogel ist eng an das Leben entlang schnellfließender, klarer Gewässer gebunden. Dort ernährt sich die Art vornehmlich von Wasserinsekten, die sie vor allem tauchend erbeutet.
+
+Die Art erbaut umfangreiche Kugelnester in Halbhöhlen oder natürlichen Höhlen entlang ihrer Nahrungsgewässer, in Uferverbauungen sowie unter Brücken und anderen flussbegleitenden Bauwerken. Sie ist ein Standvogel (d. h. kein Zugvogel) und verlässt die Brutgewässer nur, wenn sie zufrieren.
+
+Die Wasseramsel ist mit 13 Unterarten von Westeuropa und Nordwestafrika ostwärts bis in die Region um den Baikalsee und in die Hochlagen Westchinas verbreitet.
+
+Nach starken Einbußen in der zweiten Hälfte des 20. Jh. haben sich die Bestände der meisten Unterarten weitgehend erholt. Die Art gilt nach Einschätzung der IUCN als nicht gefährdet (Least Concern).
+
+Die Wasseramsel ist seit 1963 der Nationalvogel Norwegens.[1]

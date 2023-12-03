@@ -2,9 +2,13 @@
 
 
 .card {
-  background-color: $surface !important;
+  background-color: $grey-200 !important;
   border: 0px solid !important;
   border-radius: $base-border-radius !important;
+
+  &:hover {
+    //background-color: white !important;
+  }
 }
 
 // targets card img

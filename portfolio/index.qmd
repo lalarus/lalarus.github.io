@@ -10,6 +10,9 @@ listing:
     filter-ui: false
     image-align: left
     image-height: 100%
+    contents:
+      - "**/index.qmd"
+
 toc: false
 format:
   html: 
