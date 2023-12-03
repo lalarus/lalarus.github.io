@@ -1,0 +1,16 @@
+---
+title: "Some thoughts on snow"
+date: "2023-12-03"
+date-modified: today
+image: ../../assets/img/bikesnow.jpg
+categories:
+  - Snow
+  - Life
+subtitle: >
+  Winter is here! W9th it came some thoughts that occured to me on my daily bike rides into town.
+description: "mal schauen wo das hier steht"
+code-annotations: below
+df-print: paged
+---
+
+Snow snow snow.

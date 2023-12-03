@@ -29,6 +29,7 @@
 
 // page-specific components 
 @import "pages/about";
+@import "pages/blog";
 
 // Typography
 h {
@@ -82,12 +83,5 @@ img {
   /**/ /**/ /**/ /**/
 /**/ /**/
 
-.card {
-    transition: transform 0.2s ease;
-}
 
-.card:hover {
-    transform: scale(1.025);
-    box-shadow: 0 4px 6px 0 rgba(22, 22, 26, 0.18);
-    background-color: $grey-100 !important;
-  }
+

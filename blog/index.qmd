@@ -1,5 +1,26 @@
 ---
 title: "My blog!"
+description: |
+  This is my blog where I practice sharing my curiosity about value-sensitive design, bread, and snow.
+listing:
+  contents:
+    - "**/index.qmd"
+  sort: "date desc"
+  type: default
+  categories: false
+  # Shows or hides the sorting control for the listing
+  sort-ui: false
+  # Shows or hides the filtering control for the listing.
+  filter-ui: false
+  fields: [title, categories, date, image, description]
+  image-placeholder: ../assets/img/about_larry.jpg
+  image-align: right
+  # The number of items displayed on a listing page
+  page-size: 5
+
+citation: false
+comments: false
+title-block-baner: false
 toc: false
 format:
   html: 

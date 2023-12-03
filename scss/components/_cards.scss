@@ -5,9 +5,14 @@
   background-color: $grey-200 !important;
   border: 0px solid !important;
   border-radius: $base-border-radius !important;
+  // Hover effect
+  transition: transform 0.2s ease;
 
   &:hover {
-    //background-color: white !important;
+    background-color: $grey-100 !important;
+    // Hover effect
+    transform: scale(1.025);
+    box-shadow: 0 4px 6px 0 rgba(22, 22, 26, 0.18);
   }
 }
 
@@ -20,3 +25,5 @@
 .card-body {
   padding: 1.2em !important;
 }
+
+
