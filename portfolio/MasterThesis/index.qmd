@@ -1,18 +1,18 @@
 ---
 title: Master Thesis
 description: |
-    This is the description. Designing to support user agency.
+  This is the description. Designing to support user agency.
 subtitle: this is the subtitle jajjaja.
 excerpt: this is an excerpt.
 date: last-modified
 #site-url:
 image: ../../assets/img/forest.jpg
 image-alt: |
-    A nice mockup of my thesis
+  A nice mockup of my thesis
 categories:
-    - values
-    - design
-    - Design Thinking
+  - values
+  - design
+  - Design Thinking
 open-graph: true
 toc: false
 ---

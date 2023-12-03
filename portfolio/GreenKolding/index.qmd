@@ -1,18 +1,18 @@
 ---
 title: Green Kolding
 description: |
-    Green Kolding is a youth organization in Kolding.
+  Green Kolding is a youth organization in Kolding.
 subtitle: this is the subtitle jajjaja.
 excerpt: this is an excerpt.
 date: last-modified
 #site-url:
 image: ../../assets/img/wasseramsel.jpg
 image-alt: |
-    A nice mockup of my thesis
+  A nice mockup of my thesis
 categories:
-    - UX
-    - User studies
-    - Sustainability
+  - UX
+  - User studies
+  - Sustainability
 open-graph: true
 toc: false
 ---
