@@ -1,9 +1,8 @@
 ---
-title: Master Thesis
+title: Designing to support user agency
 description: |
-  This is the description. Designing to support user agency.
-subtitle: this is the subtitle jajjaja.
-excerpt: this is an excerpt.
+   In my Master Thesis, I explore and redesign design mechanisms on Instagram for a greater sense of user agency.
+subtitle: Exploring and rethinking constant engagement on Instagram.
 date: last-modified
 #site-url:
 image: ../../assets/img/forest.jpg
@@ -17,6 +16,8 @@ open-graph: true
 toc: false
 ---
 
+<!--   Digital technologies commonly design their interfaces in a way that undermines user's self-control - with detrimental effects on user's well-being. In my Master Thesis, I explore and redesign design mechanisms on Instagram for a greater sense of user agency.
+-->
 ## Hellooooo
 Der Polar-Birkenzeisig (Acanthis hornemanni, Syn.: Carduelis hornemanni) ist ein Singvogel aus der Gattung Acanthis in der Familie der Finken (Fringillidae).
 
