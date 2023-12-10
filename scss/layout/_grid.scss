@@ -1,3 +1,27 @@
 /*-- scss:defaults --*/
 
+// https://1linelayouts.glitch.me/
+#parent-acanthis {
+    display: grid;
+    column-gap: 4em;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+}
 
+
+//alternative 2
+//https://1linelayouts.glitch.me/
+
+/*
+
+#parent-acanthis {
+    display: flex !important;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 4em;
+}
+
+.child-acanthis {
+    flex: 1 1 250px !important;
+}
+
+*/

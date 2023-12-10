@@ -1,0 +1,98 @@
+/*-- scss:defaults --*/
+
+// Formatting
+$callout-border-width: 0px !default;
+$callout-border-scale: 0% !default;
+$callout-icon-scale: 0% !default;
+
+// puts margin between the callout and content above/below
+$callout-margin-top: 1.25rem !default;
+$callout-margin-bottom: 1.25rem !default;
+
+
+/*-- scss:rules --*/
+
+
+/* Callout caution */
+.callout-style-default {
+    border-right: none !important;
+    border-top: none !important;
+    border-bottom: none !important;
+}
+
+.callout-caution {
+    background-color: $champagne-50 !important;
+    border-left-color: $champagne-100 !important;
+    margin-top: 1.5em !important;
+    margin-bottom: 1.5em !important;
+}
+
+.callout-header {
+    font-size: 2em !important;
+    font-family: $headings-font-family !important;
+    opacity: 100% !important;
+    background-color: $champagne-100 !important;
+    padding-left: 2em !important;
+    padding-right: 1em !important;
+
+}
+
+.callout-toggle::before {
+    width: 2rem !important;
+    height: 2rem !important;
+    background-size: 2rem 2rem !important;
+}
+
+.callout-body {
+    padding-left: 7em !important;
+    padding-right: 7em !important;
+    padding-top: 1em !important;
+    padding-bottom: 1em !important;
+}
+
+/* mobile query up for screens up to ~992px wide */
+@media screen and (max-width: 767.98px) {
+    
+    /* decrease paddding */
+    .callout-header {
+        padding-left: 0.25em !important;
+        padding-right: 0.5em !important;
+        border-width: 0px !important;
+    }
+
+    .callout-body {
+      padding-left: 1em !important;
+      padding-right: 1em !important;
+    }
+}
+
+
+/* Alternative to using Quarto's callout blocks
+
+HTML
+::: {.tldr #tldr-agency .column-body-outset}
+:::: {.tldr-text}
+## TLDR {{< iconify fa-solid certificate size=0.75em >}}
+#### Exploring and rethinking constant engagement on Instagram 
+
+In the constant competition of vying for humans’
+attention, online platforms and digital technolo-
+gies commonly design their interfaces in a way
+that undermines user’s self-control. This loss of
+agency that users experience over their technol-
+ogy use comes with detrimental effects on their
+well-being. Short-term effects include feelings of
+::::
+:::
+
+
+CSS
+.tldr {
+    background-color: $champagne-100;
+}
+
+.tldr-text {
+    margin: 4em;
+}
+
+*/
