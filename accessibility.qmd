@@ -6,7 +6,6 @@ format:
     page-layout: full
 ---
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I do not track you. This website does not have analytics, third-party web fonts or social network buttons that track you.
 
-
-All icons on this website are free and open source icons provided by [Iconify](https://icon-sets.iconify.design/). I use the [quarto-iconify extension](https://github.com/mcanouil/quarto-iconify).
+This inspired by [Laura Kalbag](https://laurakalbag.com/).

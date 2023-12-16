@@ -37,6 +37,7 @@ $callout-margin-bottom: 1.25rem !default;
 
 }
 
+// dropdown toggle
 .callout-toggle::before {
     width: 2rem !important;
     height: 2rem !important;
@@ -46,8 +47,8 @@ $callout-margin-bottom: 1.25rem !default;
 .callout-body {
     padding-left: 7em !important;
     padding-right: 7em !important;
-    padding-top: 1em !important;
-    padding-bottom: 1em !important;
+    padding-top: 2em !important;
+    padding-bottom: 4em !important;
 }
 
 /* mobile query up for screens up to ~992px wide */

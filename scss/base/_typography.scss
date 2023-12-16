@@ -73,7 +73,7 @@ $font-size-medium: $font-size-base * 2.0;
          url('./assets/fonts/PPNeueMontreal-Medium.otf') format('otf');
   }
  
-// Font sizes
+
 
 // 62.5% Font Size Trick
 html {
@@ -87,17 +87,12 @@ body {
 }
 
 
+// Headings
 
-/*
-Define any additional font features if using a variable font:
-
-code {
-  font-feature-settings: 'dlig' 0, 'liga' 0, 'calt' 1, 'zero' 1, 'ss02' 0;
+h {
+  font-family: $headings-font-family;
+  color: text-background;
 }
-*/
-
-
-// 62.5% Font Size Trick
 
 h1 /*code*/ {
   font-size: $font-size-base * 6.0 !important; /* =60px */
@@ -118,13 +113,51 @@ h4 {
 }
 
 h5 {
-  font-size: $font-size-base * 2.2 !important; /* =22px */
+  font-size: $font-size-base * 2.2 !important; /* =20px */
 }
 
 h6 {
-  font-size: $font-size-base * 2.0 !important; /* =20px */
+  font-size: $font-size-base * 1.6 !important; /* =16px */
+  font-family: $font-family-sans-serif !important;
+  text-transform: uppercase !important;
+  font-weight: $font-weight-semibold !important;
+  letter-spacing: $spacing-standard !important;
+
 }
 
+
+// Body text 
 p {
   font-size: $font-size-base * 1.6 !important; /* =16px */
+  color: $text-background;
+  font-family: $font-family-sans-serif;
+  font-weight: $font-weight-normal;
+  letter-spacing: $spacing-standard;
+  //font-size: clamp($font-size-base * 1.6, 6.944vw + -3.306rem, $font-size-base * 3.2) !important;
+  // font-size: clamp(var(--min-font-size),calc(35% + 1vw),var(--max-font-size));
 } 
+
+
+.bolder {
+  font-weight: $font-weight-semibold;
+}
+
+.lighter {
+  color: $grey-600;
+}
+
+.text-large p {
+  font-size: $font-size-large !important;
+}
+
+.text-medium p {
+  font-size: $font-size-medium !important;
+}
+
+// highlighting words in purple
+.highlight {
+  background-color: $secondary;
+  color: $text-secondary;
+  padding: 2px 4px;
+}
+
