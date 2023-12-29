@@ -32,16 +32,15 @@ Following a design thinking approach, I used [desk research]{.highlight}, [probe
 
 ###### Solution
 
-I [identified](#solution-link) six design patterns that describe how design mechanisms on Instagram support and undermine user control. I further developed [4 prototypes]{.highlight} that redesign Instagram's design mechanisms for greater user agency.
+I identified six design patterns that describe how design mechanisms on Instagram support and undermine user control. I further developed [4 prototypes]{.highlight} that redesign Instagram's design mechanisms for greater user agency.
 
 :::
 
 
-::: {.callout-caution collapse="false" .column-body-outset}
-## TLDR {{< iconify fa-solid certificate size=0.75em >}} 
-
+<!-- long version
 ###### Problem
 In today's attention economy, online platforms and digital technologies commonly design interfaces in a way that [undermines user's self-control]{.highlight}. This loss of agency that users experience over their technology use comes with [detrimental effects on their well-being]{.highlight}. Short-term effects such as feelings of fruststration and guilt often translate to more long-term decreases in cognitive well-being, including behavioral addiction and reduced life satisfaction. I therefore asked: how can we design interfaces that give back control toward the people who interact with these interfaces? Or more precisely, how can we design for the value of user agency?<br><br>
+
 
 ###### Approach
 Following a design thinking approach, I used [desk research]{.highlight}, [probe studies]{.highlight} and [affinity mapping]{.highlight} to explore how design mechanisms on Instagram support and undermine user control. My results updated and substantiated the initital problem statement and informed 4 design challenges. I explored these design challenges with [experience prototyping]{.highlight}, developing alternative design patterns that might support sense of agency.<br><br>
@@ -51,12 +50,100 @@ Following a design thinking approach, I used [desk research]{.highlight}, [probe
 
 Analyzing and synthesizing my data allowed me to identify [six design patterns]{.highlight} that describe how design mechanisms on Instagram support and undermine user control. Based on these results, I redesigned four existing design mechanisms on Instagram. Each of these [prototype]{.highlight} presents a best practice in how to design for greater user agency.
 
+-->
 
+## Relevance: Capturing attention at all costs
+In today's attention economy, online platforms and digital technologies commonly design interfaces in a way that undermines user's self-control.
+
+such as push notifications and autoplay
+
+::: {.column-margin}
+![A margin image](/portfolio/MasterThesis/img/temptations.png)
 :::
 
+Failing to resist media temptations results in a number of attentional harms and detrimental harms for user's well-being: 
+ This loss of agency that users experience over their technology use comes with detrimental effects on their well-being. Short-term effects such as feelings of fruststration and guilt often translate to more long-term decreases in cognitive well-being, including behavioral addiction and reduced life satisfaction. I therefore asked: 
+*How can we design interfaces that give back control
+toward the people who interact with these interfaces?
+(Or more precisely, how can we design for the value of
+user agency?*)
+
+## Research study design: moving from exploration to ideation
+I approached Every research project needs a research 
+
+Research question I (RQ1): What existing design mechanisms in the Instagram mobile app influence sense of agency? 
+Research question II (RQ2): What are alternative design mechanisms in the Instagram mobile app that might support sense of agency? 
+
+
+In each of the four phases of the design
+thinking process above, designers apply a range of
+different tools and methods (Tschimmel, 2012)
+I used IDEO's *method cards* to come up with suitable methods for each phase of the design thinking process of my research.
+
+![Design thinking process and IDEO method cards](/portfolio/MasterThesis/img/1-designthinkingmethodcards.jpg){fig-alt="Ein versuch"}
+
+![Research study design](/portfolio/MasterThesis/img/2-researchstudydesign.jpg){fig-alt="Ein versuch 2"}
+
+### Background: 
+- lecture on value-based design as inspiration 
+[Table self-control failure rate](/portfolio/MasterThesis/img/Mockup_FOMO.png){fig-alt="A photo of a redpoll."}
+[NYC bridge](/portfolio/MasterThesis/img/Mockup_FOMO.png){fig-alt="A photo of a redpoll."}
+- [problem statement](#solution-link)
+
+## Using Design Thinking to move from exploration to the ideation of new artifacts
+[DT + IDEO method cards](/portfolio/MasterThesis/img/Mockup_FOMO.png){fig-alt="A photo of a redpoll."}
+[Research study design](/portfolio/MasterThesis/img/Mockup_FOMO.png){fig-alt="A photo of a redpoll."}
+- RQ 1 + RQ2
+
+## Discover: From desk research to intervention
+
+## DISCOVER: Desk Research
+###### Dark patterns of interaction Design
+- no category + examples of attention capture dark patterns (= opportunity gap)
+
+###### Philosophy of technology
+- designers design affordances that infleunce the uses and impacts of their technological objects 
+- self-control must be central to the design of information technologies
+
+###### Previous work on sense of agency for digital well-being
+- (re)designing internal mechanisms (= digital mechanisms that lie inside the Instagram app) presents a more promising approach to support user agency that the common strategy of designing external mechanisms 
+
+## DISCOVER: Probe study
+[diary](/portfolio/MasterThesis/img/Mockup_FOMO.png){fig-alt="A photo of a redpoll."}
+[Probe kit contents](/portfolio/MasterThesis/img/Mockup_FOMO.png){fig-alt="A photo of a redpoll."}
+`Lesson learned: probe studies are a lot of work, instructions must be well thought-through`
+
+
+## Define: Bringing all the data together
+
+## DEFINE: Affinity mapping
+[Affinity notes on pin board](/portfolio/MasterThesis/img/Mockup_FOMO.png){fig-alt="A photo of a redpoll."}
+[Part of an affinity diagram](/portfolio/MasterThesis/img/Mockup_FOMO.png){fig-alt="A photo of a redpoll."}
+
+- PoV:
+  - Instagram users need to be more in control over how they spend their time in the Instagram app because current design mechanisms undermine their sense of agency, thereby deteriorating user well-being. This happens in four ways: by imposing unwanted information on users, by showing highly personalized content, by creating fear of missing out, and by determining the ease of an interaction.
+
+- 4 types of design patterns for least control
+- 3 types of design patterns for most control
+
+`Lesson learned: Analyzing on your own is hard, first affinity diagram was crap`
+
+> This is a blockquote
+this one too?  
+yip
+
+but this one as well? 
+
+## Develop: Designing to support user agency
+
+## DEVELOP
+- 4 HMW questions / design challenges
+- 4 prototypes 
+[prototype of one redesign](/portfolio/MasterThesis/img/Mockup_FOMO.png){fig-alt="A photo of a redpoll."}
+
+`Setback: Ideating on your own is hard, (no time for testing)`
+
 My Master Thesis sheds light on the exploitative tactics with which online platforms and digital technologies systematically undermine user's self control. This loss of agency that users experience over their technology use comes with detrimental effects on their well-being.
-
-
 
 Based on these findings, I used experience prototyping to create 4 prototypes. These redesigs support user sense of agency 
 
@@ -65,40 +152,34 @@ Taking one of most widespread social media platforms worldwide, my Master thesis
 such as push notifications and autoplay
 
 
-Every design carries ethical responsibility. It was a lecture on »Value-based Design« during my time at [SDU](https://www.sdu.dk) that sparked my passion for ethics and responsibility in design.
-
 Inspired by this, I stumbled upon the 
 
 
 
-## Problem
-Der Polar-Birkenzeisig (Acanthis hornemanni, Syn.: Carduelis hornemanni) ist ein Singvogel aus der Gattung Acanthis in der Familie der Finken (Fringillidae).
 
+::: {.column-page-right}
 
-## Approach
-Der 13 bis 15 Zentimeter messende Vogel ähnelt dem Birkenzeisig, ist aber heller und wirkt bereift. Der Bürzel ist ungestreift und rein weiß, auch die auffälligen Flügelbinden sind weiß. Der Rücken hat eine graue Färbung und hebt sich vom hellen Kopf und der hellen, wenig gestreiften Unterseite sattelartig ab.
+![Redpoll](/portfolio/MasterThesis/img/Mockup_FOMO.png){fig-alt="A photo of a redpoll."}
 
-- DISCOVER: secondary research, probes
-- DEFINE: affinity mapping
-- EXPLORE: experience prototyping
+:::
 
 
 Lessons learned: TIME, not testing
 Setbacks: probing is hell of work, ideating on your own is hard
 
-:::{#parent-acanthis}
+:::{#parent-acanthis .column-page-right}
 ::::{.acanthis1 .child-acanthis}
 Die Brust des Männchens hat nur einen schwachen rosa Anflug, dem Weibchen fehlt der rötliche Farbton. Männchen und Weibchen tragen einen karminroten Scheitel. Seine Stimme ähnelt dem des Birkenzeisigs, die einzelnen Töne sind aber klarer voneinander getrennt.
 Die Brust des Männchens hat nur einen schwachen rosa Anflug, dem Weibchen fehlt der rötliche Farbton. Männchen und Weibchen tragen einen karminroten Scheitel. Seine Stimme ähnelt dem des Birkenzeisigs, die einzelnen Töne sind aber klarer voneinander getrennt.
 
 ::::
 
-::::{.acanthis2 .child-acanthis}
+::::{.acanthis2 .child-acanthis }
 ![Redpoll](/assets/img/redpoll.jpg){fig-alt="A photo of a redpoll."}
 ::::
 :::
 
-![Redpoll](/portfolio/MasterThesis/img/Portfolio_1200x827.png){fig-alt="A photo of a redpoll."}
+
 
 ## Solution link
 Es gibt zwei Unterarten, A. h. hornemanni aus Grönland und den kanadischen Nachbarinseln sowie A. h. exilipes aus Nordamerika und Eurasien. Die grönländische Unterart ist größer und heller, manchmal überwiegend weiß. In Europa brütet der Polar-Birkenzeisig nur im nördlichsten Skandinavien. Im Winter hält er sich im gesamten Skandinavien und im Baltikum auf, Umherstreifende gelangen bis Island, Großbritannien und Mitteleuropa.
@@ -108,4 +189,5 @@ Note that there are five types of callouts, including:
 `note`, `warning`, `important`, `tip`, and `caution`.
 :::
 
-
+hallo
+hallo

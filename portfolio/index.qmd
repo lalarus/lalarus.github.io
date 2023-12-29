@@ -21,7 +21,7 @@ title-block-banner: false
 
 ::: {#content-portfolio .text-medium}
 
-Here's what I do: my work ranges from projects in interdisciplanary teams, assignments during my time at the University of Southern Denmark, to my own fiddling-arounds in my spare time. While heterogenous, these activities all share one common characteristic: the course of progress has been far from linear. Which is why I aim to describe each project as a whole, including its detours and setbacks. After all, failure is part of the design process! <br>
+Here's what I do: my work ranges from projects in interdisciplanary teams, assignments during my time at the University of Southern Denmark, to my own fiddling-arounds in my spare time. I aim to describe each project as a whole, including its detours and setbacks. After all, failure is part of the design process! <br>
 
 Apart from that, don't hesitate to reach out if you want to know more about a specific project.
 

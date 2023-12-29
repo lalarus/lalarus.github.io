@@ -13,6 +13,10 @@ code-annotations: below
 df-print: paged
 ---
 
+## Design is political
+Every design carries ethical responsibility. It was a lecture on »Value-based Design« during my time at [SDU](https://www.sdu.dk) that sparked my passion for ethics and responsibility in design.
+
+
 Though he rejects what he calls "naïve technological determinism," Winner argues that "certain technologies in themselves have political properties." He indicates two ways in which this occurs:
 
 "the invention, design, or arrangement of a specific technical device or system becomes a way of settling an issue in the affairs of a particular community" or
