@@ -57,15 +57,46 @@ In today's attention economy, online platforms and digital technologies commonly
 
 such as push notifications and autoplay
 
-![Media use shows the highest self-control failure rate of all 14 types of temptations ^[Delaney, L., & Lades, L. K. (2017). Present Bias and Everyday Self-Control Failures: A Day Reconstruction Study. Journal of Behavioral Decision Making, 30(5), 1157–1167. https://doi.org/10.1002/bdm.2031]](/portfolio/MasterThesis/img/0-Selfcontrolfailure.jpg){fig-alt="A 2-column table which lists different types of temptations in the first column. For each temptation, the second column states the failure rate of resisting the temptation. For example, the desire to drink alcohol fails to be resistedd in 33% of occasions."}
+:::{.parent .col-50-50}
+::::{.child .text-left}
+Die Brust des Männchens hat nur einen schwachen rosa Anflug, dem Weibchen fehlt der rötliche Farbton. Männchen und Weibchen tragen einen karminroten Scheitel. Seine Stimme ähnelt dem des Birkenzeisigs, die einzelnen Töne sind aber klarer voneinander getrennt.
+Die Brust des Männchens hat nur einen schwachen rosa Anflug, dem Weibchen fehlt der rötliche Farbton. Männchen und Weibchen tragen einen karminroten Scheitel. Seine Stimme ähnelt dem des Birkenzeisigs, die einzelnen Töne sind aber klarer voneinander getrennt.
+
+::::
+
+::::{.child .image-right}
+![&#8593; Media use shows the highest self-control failure rate of all 14 types of temptations ^[Delaney, L., & Lades, L. K. (2017). Present Bias and Everyday Self-Control Failures: A Day Reconstruction Study. Journal of Behavioral Decision Making, 30(5), 1157–1167. https://doi.org/10.1002/bdm.2031]](/portfolio/MasterThesis/img/0-Selfcontrolfailure.jpg){fig-alt="A 2-column table which lists different types of temptations in the first column. For each temptation, the second column states the failure rate of resisting the temptation. For example, the desire to drink alcohol fails to be resistedd in 33% of occasions."}
+::::
+:::
+
+
+
 
 Failing to resist media temptations results in a number of attentional harms and detrimental harms for user's well-being: 
- This loss of agency that users experience over their technology use comes with detrimental effects on their well-being. Short-term effects such as feelings of fruststration and guilt often translate to more long-term decreases in cognitive well-being, including behavioral addiction and reduced life satisfaction. I therefore asked: 
+
+This loss of agency that users experience over their technology use comes with detrimental effects on their well-being. Short-term effects such as feelings of fruststration and guilt often translate to more long-term decreases in cognitive well-being, including behavioral addiction and reduced life satisfaction. I therefore asked: 
 *How can we design interfaces that give back control
 toward the people who interact with these interfaces?
 (Or more precisely, how can we design for the value of
 user agency?*)
 
+
+
+
+::::{.parent .col-85-15}
+:::{.child}
+Problem 
+:::
+
+:::{.child}
+This loss of agency that users experience over their technology use comes with detrimental effects on their well-being. Short-term effects such as feelings of fruststration and guilt often translate to more long-term decreases in cognitive well-being, including behavioral addiction and reduced life satisfaction. I therefore asked: 
+*How can we design interfaces that give back control
+toward the people who interact with these interfaces?
+(Or more precisely, how can we design for the value of
+user agency?*)
+:::
+
+::::
 ## Research study design: moving from exploration to ideation
 I approached Every research project needs a research 
 
@@ -79,7 +110,7 @@ different tools and methods (Tschimmel, 2012)
 I used IDEO's *method cards* to come up with suitable methods for each phase of the design thinking process of my research.
 
 
-### Background: 
+*Background:* 
 - lecture on value-based design as inspiration 
 [Table self-control failure rate](/portfolio/MasterThesis/img/Mockup_FOMO.png){fig-alt="A photo of a redpoll."}
 [NYC bridge](/portfolio/MasterThesis/img/Mockup_FOMO.png){fig-alt="A photo of a redpoll."}
@@ -87,32 +118,32 @@ I used IDEO's *method cards* to come up with suitable methods for each phase of 
 
 ## Using Design Thinking to move from exploration to the ideation of new artifacts
 
-![IDEO method cards that were selected in different phases of the research process, mapped on the Double Diamond design process model.](/portfolio/MasterThesis/img/1-designthinkingmethodcards.jpg){fig-alt="Two images separated by a vertical line. The image on the left shows a visualization of the Design thinking process model. Icons in blue that represent different types of method cards are mapped onto different phases in the model. The image on the right shows a hand holding a set of four method cards by IDEO"}
+![&#8593; IDEO method cards that were selected in different phases of the research process, mapped on the Double Diamond design process model.](/portfolio/MasterThesis/img/1-designthinkingmethodcards.jpg){fig-alt="Two images separated by a vertical line. The image on the left shows a visualization of the Design thinking process model. Icons in blue that represent different types of method cards are mapped onto different phases in the model. The image on the right shows a hand holding a set of four method cards by IDEO"}
 
-![Research study design](/portfolio/MasterThesis/img/1-researchstudydesign.jpg){fig-alt="A graphical representation of a research study design. It comprises two large rectangles with dotted borders. Outside the rectangle on the left is a text reading 'Phenomenon/problem' with an arrow pointing towards a text reading 'Aim'. Another arrow points from 'Aim' towards the inner space of the rectangle. Within this rectangle, a text in the top reads 'RQ1: What existing design mechanisms influence sense of agency?'. Below different research inquries and their dependencies to one another are visualized through various shapes and arrows. Reading from left to right, the different inquries are named: 'Desk research', 'Pilot probe study', 'Probe study' and 'Affinity diagram'. The shapes visualizing 'Affinity diagram' pass into the second large rectangle on the right side. Within this rectangle, a text in the top reads 'RQ2: What are alternative design mechanisms that might support sense of agency?'. Analogue to the first large rectangle, different research inquries and their dependencies to one another and to the inquries of the first large rectangle are visualized. Reading from left to right, the different inquries are named: 'Experience prototypes' and 'User testing'. Unlike the other inquries, 'User testing' is grayed out."}
+![&#8593; Research study design](/portfolio/MasterThesis/img/1-researchstudydesign.jpg){fig-alt="A graphical representation of a research study design. It comprises two large rectangles with dotted borders. Outside the rectangle on the left is a text reading 'Phenomenon/problem' with an arrow pointing towards a text reading 'Aim'. Another arrow points from 'Aim' towards the inner space of the rectangle. Within this rectangle, a text in the top reads 'RQ1: What existing design mechanisms influence sense of agency?'. Below different research inquries and their dependencies to one another are visualized through various shapes and arrows. Reading from left to right, the different inquries are named: 'Desk research', 'Pilot probe study', 'Probe study' and 'Affinity diagram'. The shapes visualizing 'Affinity diagram' pass into the second large rectangle on the right side. Within this rectangle, a text in the top reads 'RQ2: What are alternative design mechanisms that might support sense of agency?'. Analogue to the first large rectangle, different research inquries and their dependencies to one another and to the inquries of the first large rectangle are visualized. Reading from left to right, the different inquries are named: 'Experience prototypes' and 'User testing'. Unlike the other inquries, 'User testing' is grayed out."}
 
 - RQ 1 + RQ2
 
 ## Discover: From desk research to intervention
 
-## DISCOVER: Desk Research
-###### Dark patterns of interaction Design
+*DISCOVER: Desk Research*
+**Dark patterns of interaction Design*
 - no category + examples of attention capture dark patterns (= opportunity gap)
 
-###### Philosophy of technology
+*Philosophy of technology*
 - designers design affordances that infleunce the uses and impacts of their technological objects 
 - self-control must be central to the design of information technologies
 
-###### Previous work on sense of agency for digital well-being
+*Previous work on sense of agency for digital well-being*
 - (re)designing internal mechanisms (= digital mechanisms that lie inside the Instagram app) presents a more promising approach to support user agency that the common strategy of designing external mechanisms 
 
-## DISCOVER: Probe study
-![The first double page of a low-control diary](/portfolio/MasterThesis/img/2-probediary.jpg){fig-alt="A photo of a redpoll."}
+*Probe study*
+![&#8593; The first double page of a low-control diary](/portfolio/MasterThesis/img/2-probediary.jpg){fig-alt="A photo of a redpoll."}
 
-![The first double page of a low-control diary](/portfolio/MasterThesis/img/2-probediary-variant.jpg){fig-alt="A photo of a redpoll."}
+![&#8593; The first double page of a low-control diary](/portfolio/MasterThesis/img/2-probediary-variant.jpg){fig-alt="A photo of a redpoll."}
 
 
-![The different materials included in one probe kit](/portfolio/MasterThesis/img/2-probekitcontents.jpg){fig-alt="A photo of a redpoll."}
+![&#8593; The different materials included in one probe kit](/portfolio/MasterThesis/img/2-probekitcontents.jpg){fig-alt="A photo of a redpoll."}
 
 
 `Lesson learned: probe studies are a lot of work, instructions must be well thought-through`
@@ -120,11 +151,11 @@ I used IDEO's *method cards* to come up with suitable methods for each phase of 
 
 ## Define: Bringing all the data together
 
-## DEFINE: Affinity mapping
+*DEFINE: Affinity mapping*
 
-![Affinity notes created from the data gained from the probe studies](/portfolio/MasterThesis/img/3-affinitynotes.jpg){fig-alt="A photo of a redpoll."}
+![&#8593; Affinity notes created from the data gained from the probe studies](/portfolio/MasterThesis/img/3-affinitynotes.jpg){fig-alt="A photo of a redpoll."}
 
-![A part of the finalized affinity diagram](/portfolio/MasterThesis/img/3-affinitydiagram.jpg){fig-alt="A photo of a redpoll."}
+![&#8593; A part of the finalized affinity diagram](/portfolio/MasterThesis/img/3-affinitydiagram.jpg){fig-alt="A photo of a redpoll."}
 
 - PoV:
   - Instagram users need to be more in control over how they spend their time in the Instagram app because current design mechanisms undermine their sense of agency, thereby deteriorating user well-being. This happens in four ways: by imposing unwanted information on users, by showing highly personalized content, by creating fear of missing out, and by determining the ease of an interaction.
@@ -132,7 +163,7 @@ I used IDEO's *method cards* to come up with suitable methods for each phase of 
 - 4 types of design patterns for least control
 - 3 types of design patterns for most control
 
-![Types of design patterns that classify design mechanisms that make people feel least in control over how they spend their time in the Instagram app. The description explains how a design pattern undermines user sense of agency. Design patterns are listed in the order of frequency of corresponding responses from the affinity diagram.](/portfolio/MasterThesis/img/4-LCdesignpatterns.jpg){fig-alt="A photo of a redpoll."}
+![&#8593; Types of design patterns that classify design mechanisms that make people feel least in control over how they spend their time in the Instagram app. The description explains how a design pattern undermines user sense of agency. Design patterns are listed in the order of frequency of corresponding responses from the affinity diagram.](/portfolio/MasterThesis/img/4-LCdesignpatterns.jpg){fig-alt="A photo of a redpoll."}
 
 `Lesson learned: Analyzing on your own is hard, first affinity diagram was crap`
 
@@ -144,14 +175,14 @@ but this one as well?
 
 ## Develop: Designing to support user agency
 
-## DEVELOP
+*DEVELOP*
 - 4 HMW questions / design challenges
 - 4 prototypes 
 
 
-![Mockups of the original design (left) and the redesign (right) of the Feed and Stories mechanisms.](/portfolio/MasterThesis/img/5-prototype-fomo-800.jpg){fig-alt="A photo of a redpoll."}
+![&#8593; Mockups of the original design (left) and the redesign (right) of the Feed and Stories mechanisms.](/portfolio/MasterThesis/img/5-prototype-fomo-800.jpg){fig-alt="A photo of a redpoll."}
 
-![Mockups of the original design (left) and the redesign (right) of the Reels mechanism.](/portfolio/MasterThesis/img/5-prototype-easeofuse-800.jpg){fig-alt="A photo of a redpoll."}
+![&#8593; Mockups of the original design (left) and the redesign (right) of the Reels mechanism.](/portfolio/MasterThesis/img/5-prototype-easeofuse-800.jpg){fig-alt="A photo of a redpoll."}
 
 
 
@@ -172,27 +203,14 @@ Inspired by this, I stumbled upon the
 Lessons learned: TIME, not testing
 Setbacks: probing is hell of work, ideating on your own is hard
 
-:::{#parent-acanthis .column-page-right}
-::::{.acanthis1 .child-acanthis}
-Die Brust des Männchens hat nur einen schwachen rosa Anflug, dem Weibchen fehlt der rötliche Farbton. Männchen und Weibchen tragen einen karminroten Scheitel. Seine Stimme ähnelt dem des Birkenzeisigs, die einzelnen Töne sind aber klarer voneinander getrennt.
-Die Brust des Männchens hat nur einen schwachen rosa Anflug, dem Weibchen fehlt der rötliche Farbton. Männchen und Weibchen tragen einen karminroten Scheitel. Seine Stimme ähnelt dem des Birkenzeisigs, die einzelnen Töne sind aber klarer voneinander getrennt.
-
-::::
-
-::::{.acanthis2 .child-acanthis }
-![Mockups of the original design (left) and the redesign (right) of the Reels mechanism.](/portfolio/MasterThesis/img/5-prototype-easeofuse-480.jpg){fig-alt="A photo of a redpoll."}
-::::
-:::
-
 
 
 ## Solution link
 Es gibt zwei Unterarten, A. h. hornemanni aus Grönland und den kanadischen Nachbarinseln sowie A. h. exilipes aus Nordamerika und Eurasien. Die grönländische Unterart ist größer und heller, manchmal überwiegend weiß. In Europa brütet der Polar-Birkenzeisig nur im nördlichsten Skandinavien. Im Winter hält er sich im gesamten Skandinavien und im Baltikum auf, Umherstreifende gelangen bis Island, Großbritannien und Mitteleuropa.
 
-::: {.callout-note}
+
 Note that there are five types of callouts, including:
 `note`, `warning`, `important`, `tip`, and `caution`.
-:::
 
 hallo
 hallo
