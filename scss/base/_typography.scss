@@ -129,10 +129,10 @@ h6 {
 // Body text 
 p {
   font-size: $font-size-base * 1.6 !important; /* =16px */
-  color: $text-background;
-  font-family: $font-family-sans-serif;
-  font-weight: $font-weight-normal;
-  letter-spacing: $spacing-standard;
+  color: $text-background !important;
+  font-family: $font-family-sans-serif !important;
+  font-weight: $font-weight-normal !important;
+  letter-spacing: $spacing-standard !important;
   //font-size: clamp($font-size-base * 1.6, 6.944vw + -3.306rem, $font-size-base * 3.2) !important;
   // font-size: clamp(var(--min-font-size),calc(35% + 1vw),var(--max-font-size));
 } 
@@ -161,3 +161,11 @@ p {
   padding: 2px 4px;
 }
 
+
+figcaption {
+  font-size: $font-size-base * 1.4 !important; /* = 14 px */
+  color: $text-background !important;
+  font-family: $font-family-sans-serif !important;
+  font-weight: $font-weight-normal !important;
+  letter-spacing: $spacing-standard !important;
+}
