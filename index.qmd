@@ -17,6 +17,9 @@ Welcome to my little corner.
 
 this is random text. this is random text. this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.
 
+- acessibility: fig-alt text
+- images: keeping size small, default ratio 5:3
+
 
 
 [Learn more about me &#x2197;](about.qmd)
