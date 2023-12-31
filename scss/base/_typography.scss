@@ -161,7 +161,6 @@ p {
   padding: 2px 4px;
 }
 
-
 figcaption {
   font-size: $font-size-base * 1.4 !important; /* = 14 px */
   color: $text-background !important;
@@ -169,3 +168,16 @@ figcaption {
   font-weight: $font-weight-normal !important;
   letter-spacing: $spacing-standard !important;
 }
+
+// Unordered list
+
+// replace custom bullet point
+ul {
+  list-style-type: "»";
+}
+
+// space between bullet point and text
+li {
+  padding-left: 8px;
+}
+
