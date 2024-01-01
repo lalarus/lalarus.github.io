@@ -176,8 +176,13 @@ ul {
   list-style-type: "»";
 }
 
-// space between bullet point and text
 li {
+  font-size: $font-size-base * 1.6 !important; /* =16px */
+  color: $text-background !important;
+  font-family: $font-family-sans-serif !important;
+  font-weight: $font-weight-normal !important;
+  letter-spacing: $spacing-standard !important;
+  // space between bullet point and text
   padding-left: 8px;
 }
 

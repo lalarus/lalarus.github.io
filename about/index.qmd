@@ -100,16 +100,14 @@ B.A. Advertising and Market Communication <br>
 
 ::: {.g-col-6 #interests}
 ###### Skills and tools
-» Design tools such as XD, Figma, InDesign and Illustrator. <br>
-» HTML and CSS | SASS <br>
-» Conducting user studies by employing methods such as Design
-Thinking, Prototyping, LEGO. Moderating workshops on these topics. <br>
-» Implementing structured data markup to a website and making it
-(more) accessible by adhering to the WCAG guidelines. <br>
-» Approaching interfaces with a user-centered mindset. <br>
-» Understanding and visualizing complex contexts.and data. <br>
-» Creative thinking. <br>
-» Collaborating in an agile team. <br>
+- Design tools such as Figma, XD, InDesign and Illustrator. <br>
+- HTML and CSS | SASS <br>
+- Conducting user studies by employing methods such as Design Thinking, Prototyping, LEGO. Moderating workshops on these topics. <br>
+- Implementing structured data markup to a website and making it (more) accessible by adhering to the WCAG guidelines. <br>
+- Approaching interfaces with a user-centered mindset. <br>
+- Understanding and visualizing complex contexts and data. <br>
+- Creative thinking. <br>
+- Collaborating in an agile team. <br>
 
 :::
 
