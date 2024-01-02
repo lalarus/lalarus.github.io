@@ -3,11 +3,11 @@ title: "About"
 toc: false
 image: /assets/img/about_larry.jpg
 image-title: me
-image-alt: "A woman in her late 20ies"
+image-alt: "Medium close-up shot of a woman in her late twenties with curly hair and a headband, looking into the lens and smiling"
 about:
     template: solana
     image-width: 24em
-    id: content-about
+    id: hero-about
 #    links:
 #    - icon: github
 #      aria-label: "GitHub"
@@ -26,47 +26,69 @@ format:
 <br>
 <br>
 
-***
+
 :::-->
 
-::: {#content-about .text-medium}
-👋🏻 I’m Larry, a German based in Stockholm, who recently finished her Master thesis on deceptive design patterns.
-
-I use design to create understanding, spark compassion, and drive action. I work with user studies and user experience design. Sometimes I also code, like this website. You’ll usually find me talking about value-sensitive design, initiatives and people that drive climate action, or great data visualization.
-
-In real life, I enjoy [focal things](about.qmd) (as A. Borgmann would put it); being in nature on a hike. The smell of roasted onions in the pan. Feeling the strain in my body during a run.
+::: {#hero-about .text-large}
+👋🏻 I’m Larry, a curious designer based in Stockholm, who is passionate about using design to help make complex issues accessible and to create meaningful change. 
+<!-- who is passionate about using her creativity and analytic mindset to help make complex issues (and research) acessible and to create positive social and sustainable change. -->
+<!-- who recently finished her Master thesis on deceptive design patterns. -->
 
 ::: {.button-about}
-[LinkedIn &#x2197;](about.qmd){.btn .btn-outline-primary .btn-lg .btn role="button"}
+[LinkedIn &#x2197;](https://www.linkedin.com/in/larissalang/){.btn .btn-outline-primary .btn-lg .btn role="button"}
 
-[GitHub &#x2197;](about.qmd){.btn .btn-outline-primary .btn-lg .btn role="button"}
+[GitHub &#x2197;](https://github.com/lalarus){.btn .btn-outline-primary .btn-lg .btn role="button"}
+:::
 :::
 
+:::: {.grid #text-about-1}
+::: {.g-col-12 .g-col-md-7 .text-medium}
+My main strength is my analytic mindset and my passion for research and complexity. I therefore use design to create understanding, spark compassion, and drive action. With my interdisciplinary background in human-computer interaction and branding, I call user studies and team collaboration the heart of my work approach. 
 :::
 
-## Who I am.
+::: { .g-col-12 .g-col-md-7 .g-start-md-6 .text-medium}
+I also enjoy talking to different stakeholders and presenting progress to clients. Sometimes I also code, like this website. Once I become fascinated by something, I can immerse myself fully in it (which is why I actually code a lot right now 🥲). You’ll usually find me talking about ethics in design, initiatives and people that drive climate action, or great data visualization.
+:::
+
+::: {.g-col-12 .g-col-md-7 .g-start-md-2 .text-medium}
+I enjoy fiddling around on a screen as much as taking some time off it. Like packing a tent and spending some days on a hike. The smell of roasted onions in the pan. Feeling the strain in my body during a run. Or playing countless rounds of [Doppelkopf](https://en.wikipedia.org/wiki/Doppelkopf) with friends (I grew up in Germany).
+:::
+::::
+
+
+
+
+<!--
+### Who am I? 
+### What do I specialize in?
+### What is my main strength?
+
+- i have a passion for research and complexity
+- analytic mindset
+- thrive in a team
+- creativity 
+- curiosity 
+- teamplayer 
 
 - fiddling around with this website
 - baking bread
 - playing volleyball
 - going hiking
 
-## How I do what I do.
 link zu blogbeitrag about values 
 Check out what I wrote about this [on my blog &#x2197;](blog/index.qmd)
 
+- I like hot water bottles
+- I am crazy about Acanthis
 
-
-<!--
-![A picture of a woman in her late-twenties](/assets/img/me.jpg "This is me")
 -->
 
-## content1 {#content1}
 
-:::: {.grid}
+## Even more about me {#text-about-2}
 
-::: {.g-col-6 #work-experience}
-###### Work experience
+:::: {.grid #workedu}
+::: {.g-col-6 .g-col-sm-6 #work-experience}
+###### Work experience  
 Interaction and User Experience (UX) Designer <br>
 [Freelance / 2014 - now]{.lighter}
 
@@ -75,11 +97,9 @@ UX Designer <br>
 
 Project Manager Communications and Innovation Programs <br>
 [bwcon GmbH, Stuttgart / 2019 - 2020]{.lighter}
-
-
 :::
 
-::: {.g-col-6 #education}
+::: {.g-col-12 .g-col-sm-6 #education}
 ###### Education
 M.Sc. Information Technology (IT) – Web Communication Design <br>
 [Syddansk Universitet, Kolding, Denmark / 2021 - 2023]{.lighter}
@@ -90,15 +110,10 @@ B.A. Graphic Design and Communication (ERASMUS) <br>
 B.A. Advertising and Market Communication <br>
 [Hochschule der Medien, Stuttgart, Germany / 2014 - 2019]{.lighter}
 :::
-
 ::::
 
-
-## content2 {#content2}
-
-:::: {.grid}
-
-::: {.g-col-6 #interests}
+:::: {.grid #skillslang}
+::: {.g-col-12 .g-col-sm-6 #interests}
 ###### Skills and tools
 - Design tools such as Figma, XD, InDesign and Illustrator. <br>
 - HTML and CSS | SASS <br>
@@ -108,26 +123,35 @@ B.A. Advertising and Market Communication <br>
 - Understanding and visualizing complex contexts and data. <br>
 - Creative thinking. <br>
 - Collaborating in an agile team. <br>
-
 :::
 
-::: {.g-col-6 #languages}
+<!--
+::: {.g-col-12 .g-col-sm-6 #languages}
 ###### Languages
-German, [Native]{.lighter}
-
-English, [Fluent]{.lighter}
-
-Swedish, [Conversational]{.lighter}
-
-Danish, [Intermediate]{.lighter}
-
-French, [Elementary]{.lighter}
+German, [Native]{.lighter} <br>
+English, [Fluent]{.lighter} <br>
+Swedish, [Conversational]{.lighter} <br>
+Danish, [Intermediate]{.lighter} <br>
+French, [Elementary]{.lighter} <br>
 :::
-
+-->
 ::::
 
+
+
+:::: {#about-contact}
 ## Contact
-Got questions, or just want to reach out and say hello? I got a form for that. 😉
+I’m always looking for new things to do. So please come bother me for interesting collaborations.
+
+Got questions, or just want to reach out and say hello? I'm open for that, too! <br>
+You can find me on {{< iconify openmoji linkedin size=2x >}} [LinkedIn](https://www.linkedin.com/in/larissalang/) and {{< iconify openmoji github size=2x >}} [GitHub](https://github.com/lalarus).
+Or, you can drop me an e-mail at "hello@larissa.lang.com"
+::::
+
+<!-- adds a whitespace of 50px in the bottom of the page
+so the 'back to top' button won't cover up any content -->
+:::: {.filler}
+::::
 
 
 

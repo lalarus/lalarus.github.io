@@ -1,10 +1,33 @@
 /*-- scss:rules --*/
 
-//about area
+// hero area (text + img)
 .about-entity {
-    gap: 0px 200px;
+    gap: 0px 150px;
     align-items: center !important;
     padding-top: 0px !important;
+}
+
+// contact area
+#about-contact {
+    background-color: $surface;
+    border: 2px solid $primary;
+    padding: 2em;
+    border-radius: $base-border-radius;
+
+    h2 {
+        color: $text-surface !important;
+        margin-top: 0;
+    }
+
+    p {
+        margin-bottom: 0;
+    }
+
+    // move icons down to align with text
+    iconify-icon {
+        position: relative !important;
+        top: 0.2em !important;
+    }
 }
 
 

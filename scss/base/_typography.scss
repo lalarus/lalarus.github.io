@@ -8,12 +8,14 @@ $headings-font-family: "PPPangaia-Medium", serif;
 //$font-size-sm:
 
 $spacing-standard: 0.05em;
+$spacing-wide: 0.1em;
 
 $font-weight-normal: 400;
 $font-weight-semibold: 530;
 
 $font-size-large: $font-size-base * 2.8;
 $font-size-medium: $font-size-base * 2.0;
+$font-size-body: $font-size-base * 1.6;
 
 
 /*-- scss:rules --*/
@@ -117,7 +119,7 @@ h5 {
 }
 
 h6 {
-  font-size: $font-size-base * 1.6 !important; /* =16px */
+  font-size: $font-size-body !important; /* =16px */
   font-family: $font-family-sans-serif !important;
   text-transform: uppercase !important;
   font-weight: $font-weight-semibold !important;
@@ -128,7 +130,7 @@ h6 {
 
 // Body text 
 p {
-  font-size: $font-size-base * 1.6 !important; /* =16px */
+  font-size: $font-size-body !important; /* =16px */
   color: $text-background !important;
   font-family: $font-family-sans-serif !important;
   font-weight: $font-weight-normal !important;
@@ -161,6 +163,7 @@ p {
   padding: 2px 4px;
 }
 
+// Figure caption
 figcaption {
   font-size: $font-size-base * 1.4 !important; /* = 14 px */
   color: $text-background !important;
@@ -170,14 +173,13 @@ figcaption {
 }
 
 // Unordered list
-
-// replace custom bullet point
 ul {
-  list-style-type: "»";
+  // replace custom bullet point
+  list-style-type: "\203A";
 }
 
 li {
-  font-size: $font-size-base * 1.6 !important; /* =16px */
+  font-size: $font-size-body !important; /* =16px */
   color: $text-background !important;
   font-family: $font-family-sans-serif !important;
   font-weight: $font-weight-normal !important;
@@ -185,4 +187,3 @@ li {
   // space between bullet point and text
   padding-left: 8px;
 }
-

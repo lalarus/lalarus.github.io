@@ -36,7 +36,7 @@ website:
 
   page-footer:
     left: >-
-      &#169; 2023 {{< iconify line-md coffee-loop >}} Larissa Lang, Stockholm<br>  
+      &#169; 2024 {{< iconify line-md coffee-loop >}} Larissa Lang, Stockholm<br>  
       Made with [Quarto](https://quarto.org)
     center: ""
     right:
@@ -58,5 +58,6 @@ format:
       - flatly
       - scss/larry-theme-light.scss
 
-
+    link-external-newwindow: true
+    back-to-top-navigation: true
     toc: true

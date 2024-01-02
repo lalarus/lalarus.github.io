@@ -22,8 +22,9 @@ comments: false
 title-block-baner: false
 toc: false
 format:
-  html: 
+  html:
     page-layout: full
+    back-to-top-navigation: false
 ---
 
 ::: {#content-blog .text-medium}

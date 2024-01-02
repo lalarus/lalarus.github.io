@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Image Enlargement</title>
+  <style>
+    /* CSS styles */
+    /* Initially hide the enlarged image */
+    .enlarged-image {
+      display: none;
+    }
+    
+    /* Style the initial image to be smaller */
+    img {
+      max-width: 400px; /* Set the maximum width */
+      max-height: 400px; /* Set the maximum height */
+      /* You can adjust these values as needed */
+    }
+
+    /* Change cursor when hovering */
+    img:hover {
+      cursor: zoom-in; /* Change cursor to a magnifying glass on hover */
+    }
+    
+    /* Change cursor in the enlarged view */
+    .enlarged-image img {
+      cursor: zoom-out; /* Change cursor to a minimizing glass */
+    }
+    
+    /* Style the close button */
+    .close-button {
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      color: white;
+      font-size: 24px;
+      cursor: pointer;
+      z-index: 10000;
+    }
+    
+    /* Style the enlarged image container */
+    .enlarged-image:target {
+      /* Styles remain the same */
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0, 0, 0, 0.8); /* Add a semi-transparent background */
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      z-index: 9999;
+    }
+    
+    /* Style the image within the enlarged view */
+    .enlarged-image img {
+      max-width: 70%; /* Adjust as needed */
+      max-height: 70%; /* Adjust as needed */
+      object-fit: contain;
+      /* Additional styles for centering the image within the container */
+      display: block;
+      margin: auto;
+    }
+  </style>
+</head>
+<body>
+  <!-- Smaller image that will be clicked to enlarge -->
+  <a href="#image1">
+    <img src="portfolio/MasterThesis/img/1-researchstudydesign.jpg" alt="Image 1">
+  </a>
+
+  <!-- Enlarged image (initially hidden) -->
+  <div id="image1" class="enlarged-image">
+    <a href="#" class="close-button">&times;</a> <!-- Close button -->
+    <a href="#">
+      <img src="portfolio/MasterThesis/img/1-researchstudydesign.jpg" alt="Image 1">
+    </a>
+  </div>
+</body>
+</html>
