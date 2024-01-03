@@ -42,26 +42,33 @@
 // back-to-top button
 #quarto-back-to-top {
     // text
-    font-size: $font-size-base * 1.0 !important; /* =16px */
-    color: $white !important;
+    font-size: $font-size-base * 1.0 !important; /* =10px */
+    color: $text-background !important;
     font-family: $font-family-sans-serif !important;
     font-weight: $font-weight-normal !important;
     letter-spacing: $spacing-wide !important;
     text-transform: uppercase !important;
 
     // button
-    background-color: $primary !important;
-    border-radius: 0 !important;
+    background-color: $white !important;
+    border-radius: $button-border-radius !important;
+    border: 1px solid $text-background !important;
     box-shadow: none !important;
     //box-shadow: 0 4px 6px 0 rgba(22, 22, 26, 0.18) !important;
-    padding: 0.6em 0.6em !important;
+    padding: 0.6em 1.0em !important;
+
+    &:hover {
+        background-color: $surface !important;
+        color: $text-background !important;
+    }
 }
 
 .bi-arrow-up::before {
     content: "\2191" !important;
     font-size: $font-size-base * 1.6 !important; /* =16px */
-    color: $white !important;
+    color: $text-background !important;
     font-family: $font-family-sans-serif !important;
     font-weight: $font-weight-semibold !important;
     letter-spacing: $spacing-wide !important;
 }
+
