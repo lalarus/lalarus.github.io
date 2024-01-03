@@ -7,15 +7,33 @@
     padding-top: 0px !important;
 }
 
+// space between first and second text area
+#text-about-1 {
+    margin-bottom: 6em;
+}
+
+// space between heading and the content
+#text-about-2 h2 {
+    margin-bottom: 1em;
+}
+
+#workedu, #skillslang {
+    padding-bottom: 2em;
+    column-gap: 3em !important;
+}
+
+
 // contact area
 #about-contact {
+    margin-top: 4em;
     background-color: $surface;
-    border: 2px solid $primary;
+    border: 8px solid $champagne-100 !important;
+    //border: 1px solid $black;
     padding: 2em;
-    border-radius: $base-border-radius;
+    //border-radius: $base-border-radius;
 
     h2 {
-        color: $text-surface !important;
+        color: $black !important;
         margin-top: 0;
     }
 
@@ -24,10 +42,27 @@
     }
 
     // move icons down to align with text
-    iconify-icon {
+    #contact-certificate {
+        position: relative !important;
+        top: 0.1em !important;
+    }
+
+    #contact-linkedin {
+        position: relative !important;
+        top: 0.4em !important;
+    }
+
+    #contact-github {
         position: relative !important;
         top: 0.2em !important;
     }
+}
+
+
+// adds a whitespace of 50px in the bottom of the page
+// so the 'back to top' button won't cover up content
+.filler {
+    padding: 4em;
 }
 
 

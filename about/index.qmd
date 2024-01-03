@@ -41,22 +41,23 @@ format:
 :::
 :::
 
+
 :::: {.grid #text-about-1}
-::: {.g-col-12 .g-col-md-7 .text-medium}
-My main strength is my analytic mindset and my passion for research and complexity. I therefore use design to create understanding, spark compassion, and drive action. With my interdisciplinary background in human-computer interaction and branding, I call user studies and team collaboration the heart of my work approach. 
+::: {.g-col-12 .g-col-md-7}
+## I combine creativity with analytic thinking... 
+My main strength is my analytic mindset and my passion for research and complexity. I design to create understanding, spark compassion, and drive action. With my interdisciplinary background in human-computer interaction and branding, I call user studies and team collaboration the heart of my work approach. 
 :::
 
-::: { .g-col-12 .g-col-md-7 .g-start-md-6 .text-medium}
-I also enjoy talking to different stakeholders and presenting progress to clients. Sometimes I also code, like this website. Once I become fascinated by something, I can immerse myself fully in it (which is why I actually code a lot right now 🥲). You’ll usually find me talking about ethics in design, initiatives and people that drive climate action, or great data visualization.
+::: { .g-col-12 .g-col-md-7 .g-start-md-6 style="grid-row: 2"}
+## ... digging deep into topics 
+I also enjoy talking to different stakeholders and presenting progress to clients. Sometimes I also code, like this website. Once I become fascinated by something, I can immerse myself fully in it (which is why I actually code a lot right now). You’ll usually find me talking about ethics in design, initiatives and people that drive climate action, or great data visualization.
 :::
 
-::: {.g-col-12 .g-col-md-7 .g-start-md-2 .text-medium}
+::: {.g-col-12 .g-col-md-7 .g-start-md-2 style="grid-row: 3"}
+## ... and 
 I enjoy fiddling around on a screen as much as taking some time off it. Like packing a tent and spending some days on a hike. The smell of roasted onions in the pan. Feeling the strain in my body during a run. Or playing countless rounds of [Doppelkopf](https://en.wikipedia.org/wiki/Doppelkopf) with friends (I grew up in Germany).
 :::
 ::::
-
-
-
 
 <!--
 ### Who am I? 
@@ -125,26 +126,26 @@ B.A. Advertising and Market Communication <br>
 - Collaborating in an agile team. <br>
 :::
 
-<!--
+
 ::: {.g-col-12 .g-col-sm-6 #languages}
 ###### Languages
-German, [Native]{.lighter} <br>
-English, [Fluent]{.lighter} <br>
-Swedish, [Conversational]{.lighter} <br>
-Danish, [Intermediate]{.lighter} <br>
-French, [Elementary]{.lighter} <br>
+- German, [Native]{.lighter} <br>
+- English, [Fluent]{.lighter} <br>
+- Swedish, [Conversational]{.lighter} <br>
+- Danish, [Intermediate]{.lighter} <br>
+- French, [Elementary]{.lighter} <br>
 :::
--->
+
 ::::
 
 
 
 :::: {#about-contact}
-## Contact
+## Contact <iconify-icon icon="fa-solid:certificate" id="contact-certificate" width="0.75em"></iconify-icon>
 I’m always looking for new things to do. So please come bother me for interesting collaborations.
 
 Got questions, or just want to reach out and say hello? I'm open for that, too! <br>
-You can find me on {{< iconify openmoji linkedin size=2x >}} [LinkedIn](https://www.linkedin.com/in/larissalang/) and {{< iconify openmoji github size=2x >}} [GitHub](https://github.com/lalarus).
+You can find me on <iconify-icon icon="ph:linkedin-logo-light" id="contact-linkedin" width="1.6em"></iconify-icon> [LinkedIn](https://www.linkedin.com/in/larissalang/) and <iconify-icon icon="ph:github-logo-light" id="contact-github" width="1.4em"></iconify-icon> [GitHub](https://github.com/lalarus).
 Or, you can drop me an e-mail at "hello@larissa.lang.com"
 ::::
 

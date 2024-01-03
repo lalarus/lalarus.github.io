@@ -220,8 +220,8 @@
     "objectID": "about/index.html#contact",
     "href": "about/index.html#contact",
     "title": "About",
-    "section": "Contact",
-    "text": "Contact\nI’m always looking for new things to do. So please come bother me for interesting collaborations.\nGot questions, or just want to reach out and say hello? I’m open for that, too!  You can find me on  LinkedIn and  GitHub. Or, you can drop me an e-mail at “hello@larissa.lang.com”"
+    "section": "Contact ",
+    "text": "Contact \nI’m always looking for new things to do. So please come bother me for interesting collaborations.\nGot questions, or just want to reach out and say hello? I’m open for that, too!  You can find me on  LinkedIn and  GitHub. Or, you can drop me an e-mail at “hello@larissa.lang.com”"
   },
   {
     "objectID": "blog/index.html",
@@ -522,6 +522,118 @@
     "href": "about/index.html#text-about-2",
     "title": "About",
     "section": "Even more about me",
-    "text": "Even more about me\n\n\nWork experience\nInteraction and User Experience (UX) Designer  Freelance / 2014 - now\nUX Designer  scitis.io GmbH, Stuttgart, Germany / 2021\nProject Manager Communications and Innovation Programs  bwcon GmbH, Stuttgart / 2019 - 2020\n\n\nEducation\nM.Sc. Information Technology (IT) – Web Communication Design  Syddansk Universitet, Kolding, Denmark / 2021 - 2023\nB.A. Graphic Design and Communication (ERASMUS)  Linköpings Universitet, Norrköping, Sweden / 2016 - 2017\nB.A. Advertising and Market Communication  Hochschule der Medien, Stuttgart, Germany / 2014 - 2019\n\n\n\n\n\nSkills and tools\n\nDesign tools such as Figma, XD, InDesign and Illustrator. \nHTML and CSS | SASS \nConducting user studies by employing methods such as Design Thinking, Prototyping, LEGO. Moderating workshops on these topics. \nImplementing structured data markup to a website and making it (more) accessible by adhering to the WCAG guidelines. \nApproaching interfaces with a user-centered mindset. \nUnderstanding and visualizing complex contexts and data. \nCreative thinking. \nCollaborating in an agile team."
+    "text": "Even more about me\n\n\nWork experience\nInteraction and User Experience (UX) Designer  Freelance / 2014 - now\nUX Designer  scitis.io GmbH, Stuttgart, Germany / 2021\nProject Manager Communications and Innovation Programs  bwcon GmbH, Stuttgart / 2019 - 2020\n\n\nEducation\nM.Sc. Information Technology (IT) – Web Communication Design  Syddansk Universitet, Kolding, Denmark / 2021 - 2023\nB.A. Graphic Design and Communication (ERASMUS)  Linköpings Universitet, Norrköping, Sweden / 2016 - 2017\nB.A. Advertising and Market Communication  Hochschule der Medien, Stuttgart, Germany / 2014 - 2019\n\n\n\n\n\nSkills and tools\n\nDesign tools such as Figma, XD, InDesign and Illustrator. \nHTML and CSS | SASS \nConducting user studies by employing methods such as Design Thinking, Prototyping, LEGO. Moderating workshops on these topics. \nImplementing structured data markup to a website and making it (more) accessible by adhering to the WCAG guidelines. \nApproaching interfaces with a user-centered mindset. \nUnderstanding and visualizing complex contexts and data. \nCreative thinking. \nCollaborating in an agile team. \n\n\n\n\nLanguages\n\nGerman, Native \nEnglish, Fluent \nSwedish, Conversational \nDanish, Intermediate \nFrench, Elementary"
+  },
+  {
+    "objectID": "about/index.html#contact-iconify-fa-solid-certificate-size0.75em",
+    "href": "about/index.html#contact-iconify-fa-solid-certificate-size0.75em",
+    "title": "About",
+    "section": "Contact ",
+    "text": "Contact \nI’m always looking for new things to do. So please come bother me for interesting collaborations.\nGot questions, or just want to reach out and say hello? I’m open for that, too!  You can find me on  LinkedIn and  GitHub. Or, you can drop me an e-mail at “hello@larissa.lang.com”"
+  },
+  {
+    "objectID": "about/index.html#your-main-strength",
+    "href": "about/index.html#your-main-strength",
+    "title": "About",
+    "section": "Your main strength?",
+    "text": "Your main strength?"
+  },
+  {
+    "objectID": "about/index.html#what-do-you-specialize-in",
+    "href": "about/index.html#what-do-you-specialize-in",
+    "title": "About",
+    "section": "What do you specialize in?",
+    "text": "What do you specialize in?\nI also enjoy talking to different stakeholders and presenting progress to clients. Sometimes I also code, like this website. Once I become fascinated by something, I can immerse myself fully in it (which is why I actually code a lot right now). You’ll usually find me talking about ethics in design, initiatives and people that drive climate action, or great data visualization."
+  },
+  {
+    "objectID": "about/index.html#your-spare-time",
+    "href": "about/index.html#your-spare-time",
+    "title": "About",
+    "section": "Your spare time?",
+    "text": "Your spare time?\nI enjoy fiddling around on a screen as much as taking some time off it. Like packing a tent and spending some days on a hike. The smell of roasted onions in the pan. Feeling the strain in my body during a run. Or playing countless rounds of Doppelkopf with friends (I grew up in Germany)."
+  },
+  {
+    "objectID": "about/index.html#i-combine-creativity-with-analytic-thinking",
+    "href": "about/index.html#i-combine-creativity-with-analytic-thinking",
+    "title": "About",
+    "section": "I combine creativity with analytic thinking…",
+    "text": "I combine creativity with analytic thinking…\nMy main strength is my analytic mindset and my passion for research and complexity. I design to create understanding, spark compassion, and drive action. With my interdisciplinary background in human-computer interaction and branding, I call user studies and team collaboration the heart of my work approach."
+  },
+  {
+    "objectID": "about/index.html#a-iconify-ph-heart-straight-light-for-research-and-complexity",
+    "href": "about/index.html#a-iconify-ph-heart-straight-light-for-research-and-complexity",
+    "title": "About",
+    "section": "A  for research and complexity",
+    "text": "A  for research and complexity\nMy main strength is my analytic mindset and my passion for research and complexity. I therefore use design to create understanding, spark compassion, and drive action. With my interdisciplinary background in human-computer interaction and branding, I call user studies and team collaboration the heart of my work approach."
+  },
+  {
+    "objectID": "about/index.html#a-iconify-ph-heart-straight-fill-for-research-and-complexity",
+    "href": "about/index.html#a-iconify-ph-heart-straight-fill-for-research-and-complexity",
+    "title": "About",
+    "section": "A  for research and complexity",
+    "text": "A  for research and complexity\nMy main strength is my analytic mindset and my passion for research and complexity. I therefore use design to create understanding, spark compassion, and drive action. With my interdisciplinary background in human-computer interaction and branding, I call user studies and team collaboration the heart of my work approach."
+  },
+  {
+    "objectID": "about/index.html#analysis-complexity-iconify-ph-heart-straight-light",
+    "href": "about/index.html#analysis-complexity-iconify-ph-heart-straight-light",
+    "title": "About",
+    "section": "Analysis + complexity = ",
+    "text": "Analysis + complexity = \nMy main strength is my analytic mindset and my passion for research and complexity. I therefore use design to create understanding, spark compassion, and drive action. With my interdisciplinary background in human-computer interaction and branding, I call user studies and team collaboration the heart of my work approach."
+  },
+  {
+    "objectID": "about/index.html#analysis-complexity-iconify-ph-heart-straight-fill",
+    "href": "about/index.html#analysis-complexity-iconify-ph-heart-straight-fill",
+    "title": "About",
+    "section": "Analysis + complexity = ",
+    "text": "Analysis + complexity = \nMy main strength is my analytic mindset and my passion for research and complexity. I therefore use design to create understanding, spark compassion, and drive action. With my interdisciplinary background in human-computer interaction and branding, I call user studies and team collaboration the heart of my work approach."
+  },
+  {
+    "objectID": "about/index.html#a-love",
+    "href": "about/index.html#a-love",
+    "title": "About",
+    "section": "… A love",
+    "text": "… A love\nI also enjoy talking to different stakeholders and presenting progress to clients. Sometimes I also code, like this website. Once I become fascinated by something, I can immerse myself fully in it (which is why I actually code a lot right now). You’ll usually find me talking about ethics in design, initiatives and people that drive climate action, or great data visualization."
+  },
+  {
+    "objectID": "about/index.html#section",
+    "href": "about/index.html#section",
+    "title": "About",
+    "section": "",
+    "text": "I enjoy fiddling around on a screen as much as taking some time off it. Like packing a tent and spending some days on a hike. The smell of roasted onions in the pan. Feeling the strain in my body during a run. Or playing countless rounds of Doppelkopf with friends (I grew up in Germany)."
+  },
+  {
+    "objectID": "about/index.html#spare-time",
+    "href": "about/index.html#spare-time",
+    "title": "About",
+    "section": "Spare time?",
+    "text": "Spare time?\nI enjoy fiddling around on a screen as much as taking some time off it. Like packing a tent and spending some days on a hike. The smell of roasted onions in the pan. Feeling the strain in my body during a run. Or playing countless rounds of Doppelkopf with friends (I grew up in Germany)."
+  },
+  {
+    "objectID": "about/index.html#i-like-blabla",
+    "href": "about/index.html#i-like-blabla",
+    "title": "About",
+    "section": "I like blabla…",
+    "text": "I like blabla…\nMy main strength is my analytic mindset and my passion for research and complexity. I design to create understanding, spark compassion, and drive action. With my interdisciplinary background in human-computer interaction and branding, I call user studies and team collaboration the heart of my work approach."
+  },
+  {
+    "objectID": "about/index.html#and-pare-time",
+    "href": "about/index.html#and-pare-time",
+    "title": "About",
+    "section": "… and pare time?",
+    "text": "… and pare time?\nI enjoy fiddling around on a screen as much as taking some time off it. Like packing a tent and spending some days on a hike. The smell of roasted onions in the pan. Feeling the strain in my body during a run. Or playing countless rounds of Doppelkopf with friends (I grew up in Germany)."
+  },
+  {
+    "objectID": "about/index.html#digging-deep-into-topics",
+    "href": "about/index.html#digging-deep-into-topics",
+    "title": "About",
+    "section": "… digging deep into topics",
+    "text": "… digging deep into topics\nI also enjoy talking to different stakeholders and presenting progress to clients. Sometimes I also code, like this website. Once I become fascinated by something, I can immerse myself fully in it (which is why I actually code a lot right now). You’ll usually find me talking about ethics in design, initiatives and people that drive climate action, or great data visualization."
+  },
+  {
+    "objectID": "about/index.html#and",
+    "href": "about/index.html#and",
+    "title": "About",
+    "section": "… and",
+    "text": "… and\nI enjoy fiddling around on a screen as much as taking some time off it. Like packing a tent and spending some days on a hike. The smell of roasted onions in the pan. Feeling the strain in my body during a run. Or playing countless rounds of Doppelkopf with friends (I grew up in Germany)."
   }
 ]
