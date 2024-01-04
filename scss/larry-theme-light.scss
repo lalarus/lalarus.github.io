@@ -54,5 +54,23 @@ img {
     }
 }
 
+video {
+    border-radius: $base-border-radius;
+}
 
-/**/
+/**/ /**/ /**/
+
+#myvideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    z-index: -2;
+}
+
+#mytext {
+    top: 0;
+    background: white;
+    padding: 5em;
+}
+
+/**/ /**/ 

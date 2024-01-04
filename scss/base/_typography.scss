@@ -91,11 +91,6 @@ body {
 
 // Headings
 
-h {
-  font-family: $headings-font-family;
-  color: text-background;
-}
-
 h1 /*code*/ {
   font-size: $font-size-base * 6.0 !important; /* =60px */
 }
@@ -137,7 +132,7 @@ p {
   letter-spacing: $spacing-standard !important;
   //font-size: clamp($font-size-base * 1.6, 6.944vw + -3.306rem, $font-size-base * 3.2) !important;
   // font-size: clamp(var(--min-font-size),calc(35% + 1vw),var(--max-font-size));
-} 
+}
 
 
 .bolder {
@@ -146,6 +141,10 @@ p {
 
 .lighter {
   color: $grey-600;
+}
+
+.text-large {
+  font-size: $font-size-large !important;
 }
 
 .text-large p {

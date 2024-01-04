@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - assets/website-texture.mp4
 
 website:
   title: "Larissa Lang"

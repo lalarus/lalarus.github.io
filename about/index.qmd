@@ -146,7 +146,7 @@ I’m always looking for new things to do. So please come bother me for interest
 
 Got questions, or just want to reach out and say hello? I'm open for that, too! <br>
 You can find me on <iconify-icon icon="ph:linkedin-logo-light" id="contact-linkedin" width="1.6em"></iconify-icon> [LinkedIn](https://www.linkedin.com/in/larissalang/) and <iconify-icon icon="ph:github-logo-light" id="contact-github" width="1.4em"></iconify-icon> [GitHub](https://github.com/lalarus).
-Or, you can drop me an e-mail at "hello@larissa.lang.com"
+Or, you can drop me an e-mail at [hello@larissa.lang.com]{.bolder}
 ::::
 
 <!-- adds a whitespace of 50px in the bottom of the page

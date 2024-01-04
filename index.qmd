@@ -1,38 +1,52 @@
 ---
-title: "Hallo!"
+#title: "Hallo!"
 patetitle: "Larissa Lang"
 toc: false
 format:
   html: 
     page-layout: full
-#    grid: 
-#      body-width: 4096px
+    back-to-top-navigation: false
 ---
 
+::::: {#mytext .column-page}
+:::: {.grid #hero-home}
+::: {.g-col-12}
+# Hallo!
 
-::: {.grid}
+[Welcome to my little corner 🐦‍⬛]{.text-large} 
 
-::: {.g-col-8 .text-large}
-Welcome to my little corner. 
+This is the very first website I'm coding for myself. And maybe you know the struggle: when it's suddenly something for/about yourself, it's taking you forever. That's why this space is still looking a bit blank, so bear with me!
 
-this is random text. this is random text. this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text. text
+Meanwhile:
+[Learn more about me &#x2197;](about/index.qmd) or have a dip into [my portfolio &#x2197;](about/portfolio.qmd).<br>
+More into a long-read? Then have a look at [my blog &#x2197;](about/blog.qmd).
 
+:::
+::::
+
+:::: {.grid #updates-home}
+::: {.g-col-12 .g-col-sm-6 .emphasize-box}
+Update of the week:
+1 week ago ⎯ Cultivating all the Christmas mass 
+:::
+
+:::{.g-col-12 .g-col-sm-6 .emphasize-box}
+Ever-growing wishlist for the website:
+:::
+::::
+:::::
+
+
+<video id="myvideo" class="column-screen" autoplay loop width="100%">
+  <source src="assets/website-texture.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
+
+
+<!--
 - acessibility: fig-alt text
 - images: keeping size small, default ratio 5:3
 
-
-
-[Learn more about me &#x2197;](about/index.qmd)
-
-<!-- [Learn more about me &#x2197;](about.qmd){.btn .btn-outline-primary .btn-lg .btn role="button"}
+[Learn more about me &#x2197;](about.qmd){.btn .btn-outline-primary .btn-lg .btn role="button"}
 -->
-
-:::
-
-:::{.g-col-4}
-random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is random text.this is random text. this is 
-yuhu 
-
-:::
-
-:::
