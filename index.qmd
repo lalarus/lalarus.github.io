@@ -1,5 +1,5 @@
 ---
-#title: "Hallo!"
+title: "Hallo!"
 patetitle: "Larissa Lang"
 toc: false
 format:
@@ -8,24 +8,40 @@ format:
     back-to-top-navigation: false
 ---
 
-::::: {#mytext .column-page}
-:::: {.grid #hero-home}
-::: {.g-col-12}
-# Hallo!
+<style>
+  body {
+  background-image: url("assets/img/IMG_1714.jpg")  ;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+  
+</style>
 
+<!--::::: {#mytext .column-page}-->
+:::: {.grid #hero-home #mytext}
+::: {.g-col-12 .g-col-sm-10}
 [Welcome to my little corner 🐦‍⬛]{.text-large} 
 
 This is the very first website I'm coding for myself. And maybe you know the struggle: when it's suddenly something for/about yourself, it's taking you forever. That's why this space is still looking a bit blank, so bear with me!
 
 Meanwhile:
-[Learn more about me &#x2197;](about/index.qmd) or have a dip into [my portfolio &#x2197;](about/portfolio.qmd).<br>
-More into a long-read? Then have a look at [my blog &#x2197;](about/blog.qmd).
+[Learn more about me](about/index.qmd) or have a dip into [my portfolio](portfolio/index.qmd).<br>
+More into a long-read? Then have a look at [my blog](blog/index.qmd).
 
+::: 
+[&#x25cc;]{.font-pangaia}
+&#x25cf;
+:::
+
+
+:::
+
+::: {.g-col-12 .g-col-md-2}
 :::
 ::::
 
 :::: {.grid #updates-home}
-::: {.g-col-12 .g-col-sm-6 .emphasize-box}
+::: {.g-col-12 .g-col-md-6 .emphasize-box}
 Update of the week:
 1 week ago ⎯ Cultivating all the Christmas mass 
 :::
@@ -34,14 +50,17 @@ Update of the week:
 Ever-growing wishlist for the website:
 :::
 ::::
-:::::
 
 
-<video id="myvideo" class="column-screen" autoplay loop width="100%">
+
+<!--
+<video id="myvideo" class="column-screen" autoplay loop width="15%">
   <source src="assets/website-texture.mp4" type="video/mp4">
   <source src="movie.ogg" type="video/ogg">
   Your browser does not support the video tag.
 </video>
+-->
+
 
 
 <!--

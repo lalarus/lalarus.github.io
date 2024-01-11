@@ -5,7 +5,7 @@ listing:
   type: grid
   grid-columns: 3
   fields: [title, categories, image, description]
-  sort: "date desc"
+  sort: false
   filter-ui: false
   image-align: left
   image-height: 100%

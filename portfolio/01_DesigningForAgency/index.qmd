@@ -2,11 +2,11 @@
 title: Designing to support user agency
 description: |
    In my Master Thesis, I explore and redesign design mechanisms on Instagram for a greater sense of user agency.
-date: last-modified
+date: 2024-01-14
 #site-url:
-image: ../../assets/img/designingagency-title.jpg
+image: img/designingforagency-title.jpg
 image-alt: |
-  A nice mockup of my thesis
+  A wooden table seen from bird's eye view with a cutter knife, a ruler and a printed sheet of paper lying on it
 categories:
   - design probes
   - prototyping

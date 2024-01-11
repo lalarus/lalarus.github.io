@@ -55,22 +55,32 @@ img {
 }
 
 video {
-    border-radius: $base-border-radius;
+    rotate: -90deg;
+    border-radius: $button-border-radius;
+    position: fixed;
+    top: 30vh;
+    right: 20vw;
 }
+
 
 /**/ /**/ /**/
-
-#myvideo {
-    position: fixed;
-    right: 0;
-    bottom: 0;
-    z-index: -2;
-}
-
+//
+//#myvideo {
+//    position: fixed;
+//    right: 0;
+//    top: 0;
+//    z-index: -2;
+//}
+//
 #mytext {
     top: 0;
     background: white;
     padding: 5em;
 }
-
+//
 /**/ /**/ 
+
+.font-pangaia {
+    font-family: $headings-font-family !important;
+    font-size: 25rem !important;
+}
