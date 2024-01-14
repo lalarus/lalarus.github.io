@@ -186,7 +186,7 @@
     "href": "about/index.html",
     "title": "About",
     "section": "",
-    "text": "👋🏻 I’m Larry, a curious designer based in Stockholm, who is passionate about using design to help make complex issues accessible and to create meaningful change.  \n\nLinkedIn ↗\nGitHub ↗"
+    "text": "👋🏻 I’m Larry, a curious designer based in Stockholm, who is passionate about using design to help make complex issues accessible and to create meaningful change.  \n\nLinkedIn ↗\nGitHub ↗\nCV ↗"
   },
   {
     "objectID": "about/index.html#who-i-am.",
@@ -662,14 +662,14 @@
     "href": "portfolio/01_DesigningForAgency/index.html#relevance-capturing-attention-at-all-costs",
     "title": "Designing to support user agency",
     "section": "Relevance: Capturing attention at all costs",
-    "text": "Relevance: Capturing attention at all costs\nIn today’s attention economy, online platforms and digital technologies commonly design interfaces in a way that undermines user’s self-control.\nsuch as push notifications and autoplay\n\n\nDie Brust des Männchens hat nur einen schwachen rosa Anflug, dem Weibchen fehlt der rötliche Farbton. Männchen und Weibchen tragen einen karminroten Scheitel. Seine Stimme ähnelt dem des Birkenzeisigs, die einzelnen Töne sind aber klarer voneinander getrennt. Die Brust des Männchens hat nur einen schwachen rosa Anflug, dem Weibchen fehlt der rötliche Farbton. Männchen und Weibchen tragen einen karminroten Scheitel. Seine Stimme ähnelt dem des Birkenzeisigs, die einzelnen Töne sind aber klarer voneinander getrennt.\n\n\n\n\n\n⮤ Media use shows the highest self-control failure rate of all 14 types of temptations 1\n\n\n\n\nFailing to resist media temptations results in a number of attentional harms and detrimental harms for user’s well-being:\nThis loss of agency that users experience over their technology use comes with detrimental effects on their well-being. Short-term effects such as feelings of fruststration and guilt often translate to more long-term decreases in cognitive well-being, including behavioral addiction and reduced life satisfaction. I therefore asked: How can we design interfaces that give back control toward the people who interact with these interfaces? (Or more precisely, how can we design for the value of user agency?)\n\n\nProblem\n\n\nThis loss of agency that users experience over their technology use comes with detrimental effects on their well-being. Short-term effects such as feelings of fruststration and guilt often translate to more long-term decreases in cognitive well-being, including behavioral addiction and reduced life satisfaction. I therefore asked: How can we design interfaces that give back control toward the people who interact with these interfaces? (Or more precisely, how can we design for the value of user agency?)"
+    "text": "Relevance: Capturing attention at all costs\nInformation technology is tightly woven through our contemporary lives, offering broad access to communication, knowledge, and entertainment. However, this wealth of information has made attention a scarce and therefore precious resource. This has resulted in a competition in which a very small number of exeptionally powerful organizations are continuously vying for people’s attention. Their technologies and products present ubiquitous temptations that frequently clash with other important activities in our lives. \n\n\nMoreover, information and communication technologies (ICT) are designed in a way that makes them exceptionally hard to resist: While people’s failure rate is 31% for smoking and 28% for drinking alcohol, they fail to resist media use 78% of the time (see figure). This is because design mechanisms such as push notifications and autoplay create task interruptions and task-irrelevant thoughts that put an additional strain on the self-control capacity of media users.  This loss of agency that users experience over their technology use comes with detrimental effects on their well-being. Short-term effects such as feelings of fruststration and guilt often translate to more long-term decreases in cognitive well-being, including behavioral addiction and reduced life satisfaction. I therefore asked:\n\nHow can we design interfaces that give back control (i.e., user agency) toward the people who interact with these interfaces?\n\n\n\n\n\n\n⮤ Media use shows the highest self-control failure rate of all 14 types of temptations 1"
   },
   {
     "objectID": "portfolio/01_DesigningForAgency/index.html#research-study-design-moving-from-exploration-to-ideation",
     "href": "portfolio/01_DesigningForAgency/index.html#research-study-design-moving-from-exploration-to-ideation",
     "title": "Designing to support user agency",
     "section": "Research study design: moving from exploration to ideation",
-    "text": "Research study design: moving from exploration to ideation\nI approached Every research project needs a research\nResearch question I (RQ1): What existing design mechanisms in the Instagram mobile app influence sense of agency? Research question II (RQ2): What are alternative design mechanisms in the Instagram mobile app that might support sense of agency?\nIn each of the four phases of the design thinking process above, designers apply a range of different tools and methods (Tschimmel, 2012) I used IDEO’s method cards to come up with suitable methods for each phase of the design thinking process of my research.\nBackground: - lecture on value-based design as inspiration Table self-control failure rate NYC bridge - problem statement"
+    "text": "Research study design: moving from exploration to ideation\nI approached Every research project needs a research\n\nResearch question I: What existing design mechanisms in the Instagram mobile app influence sense of agency?\n\n\nResearch question II: What are alternative design mechanisms in the Instagram mobile app that might support sense of agency? \n\nIn each of the four phases of the design thinking process above, designers apply a range of different tools and methods (Tschimmel, 2012) I used IDEO’s method cards to come up with suitable methods for each phase of the design thinking process of my research.\nBackground: - lecture on value-based design as inspiration Table self-control failure rate NYC bridge - problem statement\n\n\n\n⮤ IDEO method cards that were selected in different phases of the research process, mapped on the Double Diamond design process model.\n\n\n\n\n\n⮤ Research study design\n\n\n\nRQ 1 + RQ2"
   },
   {
     "objectID": "portfolio/01_DesigningForAgency/index.html#using-design-thinking-to-move-from-exploration-to-the-ideation-of-new-artifacts",
@@ -711,7 +711,7 @@
     "href": "portfolio/01_DesigningForAgency/index.html#footnotes",
     "title": "Designing to support user agency",
     "section": "Footnotes",
-    "text": "Footnotes\n\n\nDelaney, L., & Lades, L. K. (2017). Present Bias and Everyday Self-Control Failures: A Day Reconstruction Study. Journal of Behavioral Decision Making, 30(5), 1157–1167. https://doi.org/10.1002/bdm.2031↩︎"
+    "text": "Footnotes\n\n\nDelaney, L., & Lades, L. K. (2017). Present Bias and Everyday Self-Control Failures: A Day Reconstruction Study. Journal of Behavioral Decision Making, 30(5), 1157–1167. https://doi.org/10.1002/bdm.2031 ↩︎"
   },
   {
     "objectID": "portfolio/02_Website/index.html",
@@ -747,5 +747,47 @@
     "title": "Green Kolding",
     "section": "Incubating…",
     "text": "Incubating…\n🐣 This part is about to hatch!"
+  },
+  {
+    "objectID": "about/index.html#i-am-a-designer-with-an-analytic-mindset",
+    "href": "about/index.html#i-am-a-designer-with-an-analytic-mindset",
+    "title": "About",
+    "section": "I am a designer with an analytic mindset …",
+    "text": "I am a designer with an analytic mindset …\nMy main strength is my analytic mindset and my passion for research and complexity. I design to create understanding, spark compassion, and drive action. With my interdisciplinary background in human-computer interaction and branding, I call user studies and team collaboration the heart of my work approach."
+  },
+  {
+    "objectID": "about/index.html#who-recently-fell-in-love-with-coding",
+    "href": "about/index.html#who-recently-fell-in-love-with-coding",
+    "title": "About",
+    "section": "… who recently fell in love with coding …",
+    "text": "… who recently fell in love with coding …\nI also enjoy talking to different stakeholders and presenting progress to clients. Sometimes I also code, like this website. Once I become fascinated by something, I can immerse myself fully in it (which is why I actually code a lot right now). You’ll usually find me talking about ethics in design, initiatives and people that drive climate action, or great data visualization."
+  },
+  {
+    "objectID": "about/index.html#who-recently-tapped-into-coding",
+    "href": "about/index.html#who-recently-tapped-into-coding",
+    "title": "About",
+    "section": "… who recently tapped into coding …",
+    "text": "… who recently tapped into coding …\nI also enjoy talking to different stakeholders and presenting progress to clients. Sometimes I also code, like this website. Once I become fascinated by something, I can immerse myself fully in it (which is why I actually code a lot right now). You’ll usually find me talking about ethics in design, initiatives and people that drive climate action, or great data visualization."
+  },
+  {
+    "objectID": "about/index.html#im-a-designer-with-an-analytic-mindset",
+    "href": "about/index.html#im-a-designer-with-an-analytic-mindset",
+    "title": "About",
+    "section": "I’m a designer with an analytic mindset …",
+    "text": "I’m a designer with an analytic mindset …\nMy main strength is my analytic mindset and my passion for research and complexity. I design to create understanding, spark compassion, and drive action. With my interdisciplinary background in human-computer interaction and branding, I call user studies and team collaboration the heart of my work approach."
+  },
+  {
+    "objectID": "about/index.html#who-recently-began-coding",
+    "href": "about/index.html#who-recently-began-coding",
+    "title": "About",
+    "section": "… who recently began coding …",
+    "text": "… who recently began coding …\nI also enjoy talking to different stakeholders and presenting progress to clients. Sometimes I also code, like this website. Once I become fascinated by something, I can immerse myself fully in it (which is why I actually code a lot right now). You’ll usually find me talking about ethics in design, initiatives and people that drive climate action, or great data visualization."
+  },
+  {
+    "objectID": "about/index.html#and-never-not",
+    "href": "about/index.html#and-never-not",
+    "title": "About",
+    "section": "… and never not",
+    "text": "… and never not\nI enjoy fiddling around on a screen as much as taking some time off it. Like packing a tent and spending some days on a hike. The smell of roasted onions in the pan. Feeling the strain in my body during a run. Or playing countless rounds of Doppelkopf with friends (I grew up in Germany)."
   }
 ]
