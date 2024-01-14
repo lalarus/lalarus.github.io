@@ -1,7 +1,7 @@
 ---
 title: Designing to support user agency
 description: |
-   In my Master Thesis, I explore and redesign design mechanisms on Instagram for a greater sense of user agency.
+   In my Master Thesis, I explored and redesigned design mechanisms on Instagram for a greater sense of user agency.
 date: 2024-01-14
 #site-url:
 image: img/designingforagency-title.jpg

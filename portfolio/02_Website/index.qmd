@@ -23,27 +23,17 @@ format:
 ## TLDR {{< iconify fa-solid certificate size=0.75em >}} 
 
 ###### Problem
-In today's attention economy, digital interfaces [undermine self-control]{.highlight}. This results in detrimental effects on user's well-being. I therefore explored how we can design interfaces that give back control (i.e. user agency) toward the people who interact with these interfaces. <br><br>
+Green Kolding is a youth organization that aims to push climate and sustainability action in the municipality of Kolding, Denmark. Having started out with many early-attracted members shortly before the Covid-19 pandemic, the organization struggles to attract any participants at all ever since they started meeting again. Another problem is the member's uncertainty about what Green Kolding stands for.
 
 ###### Approach
-Following a design thinking approach, I used [desk research]{.highlight}, [probe studies]{.highlight} and [affinity mapping]{.highlight} to explore how design mechanisms on Instagram support and undermine user control. Through [experience prototyping]{.highlight}, I then developed alternative design patterns that support sense of agency.<br><br>
-
+I conceptualized and conducted a co-design workshop with members and non-members to explore and define Green Kolding's identity. We then interviewed the two heads of the organization. Analyzing the data with empathy mapping allowed us to identify the need for a website which communicates Green Kolding's identity and attracts new members. We developed a website prototype and conducted user experience tests with the target group.
 
 ###### Solution
-
-I identified six design patterns that describe how design mechanisms on Instagram support and undermine user control. I further developed [4 prototypes]{.highlight} that redesign Instagram's design mechanisms for greater user agency.
+The workshop outcomes were limited to impulses for Green Kolding's identity as participants who did not know Green Kolding prior to the workshop were numerically overrepresented and therfore overshadowed the opinions and perceptions of active members. Our interviews, on the other hand, revealed a deeper understanding of the organization's self-perception and needs. Testing our website prototype revealed that the organization's identity remains vague and discourages potential members from joining.
 
 :::
 
 
-## Wasseramsel rules the world
+## Working hard...
 
-Die Wasseramsel oder Eurasische Wasseramsel (Cinclus cinclus) ist die einzige auch in Mitteleuropa vorkommende Vertreterin der Familie der Wasseramseln (Cinclidae). Der etwa starengroße, rundlich wirkende Singvogel ist eng an das Leben entlang schnellfließender, klarer Gewässer gebunden. Dort ernährt sich die Art vornehmlich von Wasserinsekten, die sie vor allem tauchend erbeutet.
-
-Die Art erbaut umfangreiche Kugelnester in Halbhöhlen oder natürlichen Höhlen entlang ihrer Nahrungsgewässer, in Uferverbauungen sowie unter Brücken und anderen flussbegleitenden Bauwerken. Sie ist ein Standvogel (d. h. kein Zugvogel) und verlässt die Brutgewässer nur, wenn sie zufrieren.
-
-Die Wasseramsel ist mit 13 Unterarten von Westeuropa und Nordwestafrika ostwärts bis in die Region um den Baikalsee und in die Hochlagen Westchinas verbreitet.
-
-Nach starken Einbußen in der zweiten Hälfte des 20. Jh. haben sich die Bestände der meisten Unterarten weitgehend erholt. Die Art gilt nach Einschätzung der IUCN als nicht gefährdet (Least Concern).
-
-Die Wasseramsel ist seit 1963 der Nationalvogel Norwegens.[1]
+This part is still under construction...

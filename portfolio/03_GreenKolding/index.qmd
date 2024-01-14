@@ -1,7 +1,7 @@
 ---
 title: Green Kolding
 description: |
-  Green Kolding is a youth organization in Kolding.
+  In a team of three, we created a website prototype to communicate the organization's identity and attract new members.
 date: 2024-02-06
 #site-url:
 image: img/greenkolding-title.jpg
@@ -23,27 +23,18 @@ format:
 ## TLDR {{< iconify fa-solid certificate size=0.75em >}} 
 
 ###### Problem
-In today's attention economy, digital interfaces [undermine self-control]{.highlight}. This results in detrimental effects on user's well-being. I therefore explored how we can design interfaces that give back control (i.e. user agency) toward the people who interact with these interfaces. <br><br>
+As a local youth organization that aims to push climate and sustainability action, Green Kolding struggles to [attract participants]{.highlight}. Another problem is its members' uncertainty about what Green Kolding stands for.<br><br>
 
 ###### Approach
-Following a design thinking approach, I used [desk research]{.highlight}, [probe studies]{.highlight} and [affinity mapping]{.highlight} to explore how design mechanisms on Instagram support and undermine user control. Through [experience prototyping]{.highlight}, I then developed alternative design patterns that support sense of agency.<br><br>
-
+I conceptualized and conducted a [co-design workshop]{.highlight} to explore and define Green Kolding's identity. We then [interviewed]{.highlight} the two heads of the organization. Analyzing the data with [empathy mapping]{.highlight} identified the need for a website which communicates Green Kolding's identity and attracts new members. We developed a website prototype and conducted [user experience tests]{.highlight} with the target group.<br><br>
 
 ###### Solution
-
-I identified six design patterns that describe how design mechanisms on Instagram support and undermine user control. I further developed [4 prototypes]{.highlight} that redesign Instagram's design mechanisms for greater user agency. hallo?
+The workshop's goal was to [define Green Kolding's identity]{.highlight} but this was difficult because the number of attendants who regularly engage with Green Kolding was very low.
+Despite this, our interviews led to a deeper understanding of the organization's self-perception and needs. We addressed those needs with a [website prototype]{.highlight} but testing it revealed that Green Kolding's identity remains vague and discourages potential members from joining.
 
 :::
 
 
-## Wasseramsel rules the world
+## Incubating...
 
-Die Wasseramsel oder Eurasische Wasseramsel (Cinclus cinclus) ist die einzige auch in Mitteleuropa vorkommende Vertreterin der Familie der Wasseramseln (Cinclidae). Der etwa starengroße, rundlich wirkende Singvogel ist eng an das Leben entlang schnellfließender, klarer Gewässer gebunden. Dort ernährt sich die Art vornehmlich von Wasserinsekten, die sie vor allem tauchend erbeutet.
-
-Die Art erbaut umfangreiche Kugelnester in Halbhöhlen oder natürlichen Höhlen entlang ihrer Nahrungsgewässer, in Uferverbauungen sowie unter Brücken und anderen flussbegleitenden Bauwerken. Sie ist ein Standvogel (d. h. kein Zugvogel) und verlässt die Brutgewässer nur, wenn sie zufrieren.
-
-Die Wasseramsel ist mit 13 Unterarten von Westeuropa und Nordwestafrika ostwärts bis in die Region um den Baikalsee und in die Hochlagen Westchinas verbreitet.
-
-Nach starken Einbußen in der zweiten Hälfte des 20. Jh. haben sich die Bestände der meisten Unterarten weitgehend erholt. Die Art gilt nach Einschätzung der IUCN als nicht gefährdet (Least Concern).
-
-Die Wasseramsel ist seit 1963 der Nationalvogel Norwegens.[1]
+🐣 This part is about to hatch!
