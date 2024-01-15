@@ -1,20 +1,13 @@
 ---
 title: "About"
 toc: false
-image: /assets/img/about_larry.jpg
-image-title: me
+image: /about/img/about_larry.jpg
+image-title: hej, that's me!
 image-alt: "Medium close-up shot of a woman in her late twenties with curly hair and a headband, looking into the lens and smiling"
 about:
     template: solana
     image-width: 24em
     id: hero-about
-#    links:
-#    - icon: github
-#      aria-label: "GitHub"
-#      href: https://github.com/lalarus
-#    - icon: linkedin
-#      aria-label: "LinkedIn"
-#      href: https://linkedin.com/in/spcanelon
 format:
   html: 
     page-layout: full
@@ -39,7 +32,8 @@ format:
 
 [GitHub &#x2197;](https://github.com/lalarus){.btn .btn-outline-primary .btn-lg .btn role="button"}
 
-[CV &#x2197;](https://github.com/lalarus){.btn .btn-outline-primary .btn-lg .btn role="button"}
+<!-- target="_blank" opens internal link in a new window -->
+[CV &#x2197;](documents/24-01_CV-web.pdf){.btn .btn-outline-primary .btn-lg .btn role="button" target="_blank"}
 :::
 :::
 
