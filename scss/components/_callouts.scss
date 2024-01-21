@@ -56,7 +56,7 @@ $callout-margin-bottom: 1.25rem !default;
     padding-bottom: 4em !important;
 }
 
-/* mobile query up for screens up to ~992px wide */
+// `md` applies to small devices (landscape phones, less than 768px)
 @media screen and (max-width: 767.98px) {
     
     /* decrease paddding */
@@ -71,6 +71,26 @@ $callout-margin-bottom: 1.25rem !default;
       padding-right: 1em !important;
     }
 }
+
+
+/* Lesson learned */
+.lessonlearned {
+    border: 1px solid $black;
+    padding: 2em;
+    margin-bottom: 4em;
+
+    h5 {
+        padding-bottom: 0.5em;
+    }
+
+    // `md` applies to small devices (landscape phones, less than 768px)
+    @media screen and (max-width: 767.98px) {
+        padding: 1em;
+    }
+}
+
+
+
 
 
 /* Alternative to using Quarto's callout blocks

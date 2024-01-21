@@ -120,10 +120,11 @@ Besides the diary, each participant received a number of other materials (*see f
 ![&#x2BA4; The different materials included in one probe kit](/portfolio/MasterThesis/img/2-probekitcontents.jpg){fig-alt="A photo of a redpoll."}
 
 
-::: {.callout-note}
-###### Lesson learned
+::: {.lessonlearned}
+##### Lesson learned
 
 Probe studies are a lot of work, instructions must be well thought-through
+Besides the diary, each participant received a number of other materials (*see figure*). For example, the envelope for study day 1 contained straps to attach the diary to the back of a smartphone (see figure, A.2)
 :::
 
 
