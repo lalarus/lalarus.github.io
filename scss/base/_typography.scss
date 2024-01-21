@@ -53,7 +53,7 @@ $font-size-body: $font-size-base * 1.6;
          url('./assets/fonts/PPNeueMontreal-Book.otf') format('otf');
   }
   
-  /* neue-montreal-book */
+  /* neue-montreal-regular-italic */
   @font-face {
     font-family: 'Neue Montreal';
     font-style: italic;
@@ -74,7 +74,6 @@ $font-size-body: $font-size-base * 1.6;
          url('./assets/fonts/PPNeueMontreal-Medium.woff2') format('woff2'),
          url('./assets/fonts/PPNeueMontreal-Medium.otf') format('otf');
   }
- 
 
 
 // 62.5% Font Size Trick
@@ -136,11 +135,11 @@ p {
 
 
 .bolder {
-  font-weight: $font-weight-semibold;
+  font-weight: $font-weight-semibold !important;
 }
 
 .lighter {
-  color: $grey-600;
+  color: $grey-600 !important;
 }
 
 .text-large {
@@ -160,6 +159,10 @@ p {
   background-color: $secondary;
   color: $text-secondary;
   padding: 2px 4px;
+}
+
+strong {
+  font-weight: $font-weight-semibold !important;
 }
 
 // Figure caption
