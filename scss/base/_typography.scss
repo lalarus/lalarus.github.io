@@ -5,7 +5,6 @@ $font-size-base: 1rem !default; // Assumes the browser default, typically `16px`
 $font-family-sans-serif: "Neue Montreal", Arial, Helvetica, sans-serif;
 $font-family-monospace: "Dark Mono", "Fira Mono", monospace;
 $headings-font-family: "PPPangaia-Medium", serif;
-//$font-size-sm:
 
 $spacing-standard: 0.05em;
 $spacing-wide: 0.1em;
@@ -16,6 +15,7 @@ $font-weight-semibold: 530;
 $font-size-large: $font-size-base * 2.8;
 $font-size-medium: $font-size-base * 2.0;
 $font-size-body: $font-size-base * 1.6;
+$font-size-small: $font-size-base * 1.4;
 
 
 /*-- scss:rules --*/

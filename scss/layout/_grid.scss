@@ -48,7 +48,7 @@
 
 .sidebar {
     a {
-        font-size: $font-size-base * 1.4 !important;
+        font-size: $font-size-small !important;
         line-height: 1.2em !important;
         padding-bottom: 0.5em !important;
     }
@@ -61,7 +61,7 @@
 }
 
 // sets non-active headings to dark grey
-.nav-link {
+.sidebar .nav-link {
     color: $grey-600 !important;
 }
 
