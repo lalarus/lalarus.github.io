@@ -1,9 +1,3 @@
-/*-- scss:defaults --*/
-
-//$footer-bg: $grey200;
-//$footer-fg: $text-background;
-
-
 /*-- scss:rules --*/
 
 .nav-footer {
@@ -11,6 +5,6 @@
     padding-right: 4rem !important;
     padding-bottom: 1.5rem !important;
     border-top: 1px solid !important;
-    background-color: $grey-200 !important;
-    color: $text-background !important;
+    background-color: $footer-bg !important;
+    color: $footer-fg !important;
 }

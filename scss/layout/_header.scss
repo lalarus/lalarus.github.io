@@ -1,20 +1,8 @@
-/*-- scss:defaults --*/
-
-
-// Navigation
-$navbar-bg: $background;
-$navbar-fg: $text-background;
-$navbar-hl: red;
-
 /*-- scss:rules --*/
 
 // Navbar
 
 // header
-.navbar {
-    background: transparent;
-}
-
 .navbar-expand-lg {
     padding-top: 1.5rem !important;
     padding-right: 4rem !important;
@@ -32,32 +20,27 @@ $navbar-hl: red;
   
 // title
 .navbar-title {
-  //font-size: 0.75em;
-  //font-weight: 500;
-  color: $text-background;
-  text-transform: uppercase;
-  //letter-spacing: .1em;
+  font-size: $font-size-base * 1.6 !important;
+  font-weight: $font-weight-normal !important;
+  color: $navbar-fg !important;
+  text-transform: uppercase !important;
+  letter-spacing: $spacing-wide !important;
 
   &:hover {
-    color: $secondary;
-    transition-duration: 350ms;
+    color: $link-hover-color !important;
+    transition-duration: $link-transition-duration !important;
   }
 }
 
 // links
 .navbar-nav .nav-link {
-    color: $text-background !important;
-    text-transform: uppercase;
-    //letter-spacing: .1em; 
+    color: $navbar-fg !important;
+    text-transform: uppercase !important;
     border-bottom: 2px solid transparent;    
 
     &:hover {
       border-bottom: 2px solid $secondary !important;
     }
 }
-
-
-/**/
-
 
 

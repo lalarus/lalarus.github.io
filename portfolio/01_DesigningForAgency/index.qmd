@@ -13,7 +13,9 @@ categories:
   - values in design
   - digital well-being
 open-graph: true
-toc: false
+toc: true
+toc-location: right
+#number-sections: true
 format:
   html:
     back-to-top-navigation: true

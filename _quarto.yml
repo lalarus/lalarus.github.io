@@ -18,11 +18,6 @@ website:
 
 
   navbar:
-  #  background: "#ecf0f1"
-  # logo:
-  # tools:
-  # - icon: github
-  #   href: https://www.github.com/lalarus
     right:
       - text: Home
         href: index.qmd
@@ -51,8 +46,6 @@ website:
       - text: "License"
         aria-label: "License Details"
         href: license.qmd
-
-
 
 format:
   html:

@@ -6,6 +6,7 @@
 // e.g. if a file depends on a value declared in a another file,
 // it must be BELOW the file it depends on
 
+
 // colors
 @import "base/colors-light";
 @import "base/media-queries";
@@ -36,7 +37,7 @@
 
 //Links
 a {
-    transition-duration: 350ms;
+    transition-duration: $link-transition-duration;
 }
 
 
@@ -62,8 +63,8 @@ video {
     right: 20vw;
 }
 
-
-/**/ /**/ /**/ /**/ /**/ 
+/**/
+/**/ /**/ /**/
 //
 //#myvideo {
 //    position: fixed;
@@ -78,16 +79,4 @@ video {
     padding: 5em;
 }
 //
-/**/ /**/ /**/
-
-.font-pangaia {
-    font-family: $headings-font-family !important;
-    font-size: 25rem !important;
-}
-
-
-blockquote {
-    border-color: $secondary !important;
-    margin-bottom: 2rem !important;
-}
-
+/**/ 

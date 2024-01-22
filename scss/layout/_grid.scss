@@ -35,3 +35,38 @@
 }
 
 */
+
+
+/* Sidebar */
+
+// toc title
+#toc-title {
+    font-size: $font-size-base * 1.4 !important;
+    text-transform: uppercase !important;
+    font-weight: $font-weight-semibold !important;
+}
+
+.sidebar {
+    a {
+        font-size: $font-size-base * 1.4 !important;
+        line-height: 1.2em !important;
+        padding-bottom: 0.5em !important;
+    }
+
+    // disables toc on smaller devices
+    // Large devices (desktops, less than 1200px)
+    @media screen and (max-width: 1199.98px) {
+        display: none !important;
+    }
+}
+
+// sets non-active headings to dark grey
+.nav-link {
+    color: $grey-600 !important;
+}
+
+// hides the minimized version of the toc
+// which shows if toc is hidden by other elements
+#quarto-toc-toggle {
+    display: none !important;
+}

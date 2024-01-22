@@ -189,3 +189,9 @@ li {
   // space between bullet point and text
   padding-left: 8px;
 }
+
+// Blockquotes
+blockquote {
+  border-color: $secondary !important;
+  margin-bottom: 2rem !important;
+}
