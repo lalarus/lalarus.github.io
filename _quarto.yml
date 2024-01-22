@@ -63,3 +63,4 @@ format:
     link-external-newwindow: true
     back-to-top-navigation: true
     toc: true
+    callout-icon: false

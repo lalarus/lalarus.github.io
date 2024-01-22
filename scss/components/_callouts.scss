@@ -37,11 +37,6 @@ $callout-margin-bottom: 1.25rem !default;
 
 }
 
-// disables the default icon before the heading
-.callout-icon-container {
-    display: none !important;
-}
-
 // dropdown toggle
 .callout-toggle::before {
     width: 2rem !important;

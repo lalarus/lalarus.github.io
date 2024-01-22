@@ -14,7 +14,6 @@ categories:
   - digital well-being
 open-graph: true
 toc: false
-callout-icon: false
 format:
   html:
     back-to-top-navigation: true
