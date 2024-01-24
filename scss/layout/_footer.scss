@@ -1,18 +1,49 @@
 /*-- scss:rules --*/
 
 .nav-footer {
-    padding-left: 4rem !important;
-    padding-right: 4rem !important;
-    padding-bottom: 1.5rem !important;
-    border-top: 1px solid !important;
+    margin-left: 4rem !important;
+    margin-right: 4rem !important;
+
+    padding-top: 0.5em !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    padding-bottom: 1em !important;
+    
+    border-top: 1px solid $black !important;
     background-color: $footer-bg !important;
     color: $footer-fg !important;
+
+    // Small devices (landscape phones, less than 768px)
+    @media screen and (max-width: 767.98px) {
+        flex-direction: column-reverse !important;
+        align-items: center !important;
+    }
+}
+
+.nav-footer-left a {
+    font-size: $font-size-small !important;
+    color: $footer-fg !important;
+
+    &:hover {
+      color: $link-hover-color !important;
+    }
 }
 
 .nav-footer-left {
-    font-size: $font-size-small !important;
+    // Small devices (landscape phones, less than 768px)
+    @media screen and (max-width: 767.98px) {
+        text-align: center !important;
+    }
 }
 
 .nav-footer-right li {
     font-size: $font-size-small !important;
+}
+
+.nav-footer-center {
+    // Small devices (landscape phones, less than 768px)
+    @media screen and (max-width: 767.98px) {
+        margin-top: 0 !important;
+        min-height: 0.5em !important;
+    }
 }

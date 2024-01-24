@@ -63,9 +63,7 @@ video {
     top: 30vh;
     right: 20vw;
 }
-
-
-
+    
 //
 //#myvideo {
 //    position: fixed;
@@ -74,19 +72,4 @@ video {
 //    z-index: -2;
 //}
 //
-#mytext {
-    top: 0;
-    background: white;
-    padding: 5em;
-}
 
-/* Emphasize cards */
-.emphasize-card {
-    background-color: $grey-100 !important;
-    border-radius: $base-border-radius !important;
-    padding: $card-default-padding !important;
-
-    h5 {
-        padding-bottom: $h5-default-pb !important;
-    }
-}

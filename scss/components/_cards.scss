@@ -1,5 +1,6 @@
 /*-- scss:rules --*/
 
+/* Portfolio/Blog cards */
 .card {
   background-color: $grey-200 !important;
   border: 0px solid !important;
@@ -28,4 +29,16 @@
 // targets title on card
 .card-title {
   padding-bottom: $h5-default-pb !important;
+}
+
+
+/* Emphasize cards */
+.emphasize-card {
+  background-color: $grey-100 !important;
+  border-radius: $base-border-radius !important;
+  padding: $card-default-padding !important;
+
+  h5 {
+      padding-bottom: $h5-default-pb !important;
+  }
 }
