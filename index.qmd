@@ -31,12 +31,12 @@ More into a long-read? Then have a look at [my blog](blog/index.qmd). <br><br><b
 ::::
 
 :::: {.grid #updates-home}
-::: {.g-col-12 .g-col-md-6 .emphasize-card #updateoftheweek .pb-5}
+::: {.g-col-12 .g-col-md-6 .emphasize-card #updateoftheweek}
 ##### Update of the week:
 - 2 days ago ⎯ Came up with an idea for my new logo! It includes [this absolute favorite bird of mine](https://ebird.org/species/hoared/).
 :::
 
-:::{.g-col-12 .g-col-sm-6 .emphasize-card #wishlist}
+:::{.g-col-12 .g-col-md-6 .emphasize-card #wishlist}
 ##### Ever-growing wishlist for the website:
 - Have a nice own logo
 - Accessibility
