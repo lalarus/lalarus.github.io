@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Hallo!",
     "section": "",
-    "text": "Welcome to my little corner 🐦‍⬛\nThis is the very first website I’m coding for myself. And it’s really been an adventure so far! However, maybe you know the struggle: if it’s suddenly something for (or even worse, about) yourself, it will be taking you forever. That’s why this space is still looking a bit blank, so bear with me!\nMeanwhile: Learn more about me or have a dip into my portfolio. More into a long-read? Then have a look at my blog.\n◌ ●"
+    "text": "Welcome to my little corner 🐦‍⬛\nThis is the very first website I’m coding for myself. And it’s really been an adventure so far! However, maybe you know the struggle: as soon as it’s something for you – or even worse, about you – it suddenly takes you forever. That’s why this space is still looking a bit blank, so bear with me!\nMeanwhile: Learn more about me or have a dip into my portfolio. More into a long-read? Then have a look at my blog."
   },
   {
     "objectID": "about.html#this-is-a-h2-heading",
@@ -801,15 +801,15 @@
     "objectID": "index.html#update-of-the-week",
     "href": "index.html#update-of-the-week",
     "title": "Hallo!",
-    "section": "Update of the week: ",
-    "text": "Update of the week: \n1 week ago ⎯ Cultivating all the Christmas mass\nThis is the very first website I’m coding for myself. And it’s really been an adventure so far! However, maybe you know the struggle: if it’s suddenly something for (or even worse, about) yourself, it will be taking you forever. That’s why this space is still looking a bit blank, so bear with me!"
+    "section": "Update of the week:",
+    "text": "Update of the week:\n1 week ago ⎯ Cultivating all the Christmas mass"
   },
   {
     "objectID": "index.html#ever-growing-wishlist-for-the-website",
     "href": "index.html#ever-growing-wishlist-for-the-website",
     "title": "Hallo!",
     "section": "Ever-growing wishlist for the website:",
-    "text": "Ever-growing wishlist for the website:\nThis is the very first website I’m coding for myself. And it’s really been an adventure so far! However, maybe you know the struggle: if it’s suddenly something for (or even worse, about) yourself, it will be taking you forever. That’s why this space is still looking a bit blank, so bear with me!"
+    "text": "Ever-growing wishlist for the website:\n\nacessibility: fig-alt text on all images\nimages: keeping size small, default ratio 5:3\nhave a nice own logo\ncreating a TLDR component of its own instead of tweaking Quarto’s callout buttons"
   },
   {
     "objectID": "about/index.html#and-never-stops-longing-for-some-time-outdoors.",
@@ -845,5 +845,12 @@
     "title": "About",
     "section": "… and stops by a (skiing) trail as soon as she sees one.",
     "text": "… and stops by a (skiing) trail as soon as she sees one.\nI enjoy fiddling around on a screen as much as taking some time off it. Like packing a tent and spending some days on a hike. The smell of roasted onions in the pan. Feeling the strain in my body during a run. Or playing countless rounds of Doppelkopf with friends (I grew up in Germany)."
+  },
+  {
+    "objectID": "about/index.html#and-stops-by-a-skiing-trail-as-soon-as-she-catches-sight-of-one.",
+    "href": "about/index.html#and-stops-by-a-skiing-trail-as-soon-as-she-catches-sight-of-one.",
+    "title": "About",
+    "section": "… and stops by a (skiing) trail as soon as she catches sight of one.",
+    "text": "… and stops by a (skiing) trail as soon as she catches sight of one.\nI enjoy fiddling around on a screen as much as taking some time off it. Like packing a tent and spending some days on a hike. The smell of roasted onions in the pan. Feeling the strain in my body during a run. Or playing countless rounds of Doppelkopf with friends (I grew up in Germany)."
   }
 ]

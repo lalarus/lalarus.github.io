@@ -19,34 +19,39 @@ format:
 -->
 
 :::: {.grid #hero-home}
-::: {.g-col-12 .g-col-sm-10}
+::: {.g-col-12 .text-medium}
 [Welcome to my little corner 🐦‍⬛]{.text-large} 
 
-This is the very first website I'm coding for myself. And it's really been an adventure so far! However, maybe you know the struggle: if it's suddenly something for (or even worse, *about*) yourself, it will be taking you forever. That's why this space is still looking a bit blank, so bear with me!
+This is the very first website I'm coding for myself. And it's really been an adventure so far! However, maybe you know the struggle: as soon as it's something for you – or even worse, *about* you – it suddenly takes you forever. That's why this space is still looking a bit blank, so bear with me!
 
 Meanwhile:
 [Learn more about me](about/index.qmd) or have a dip into [my portfolio](portfolio/index.qmd).<br>
-More into a long-read? Then have a look at [my blog](blog/index.qmd).
-
-[&#x25cc;]{.font-pangaia}
-&#x25cf;
+More into a long-read? Then have a look at [my blog](blog/index.qmd). <br><br><br>
 :::
 ::::
 
 :::: {.grid #updates-home}
-::: {.g-col-12 .g-col-md-6 .emphasize-box .card .card-body}
+::: {.g-col-12 .g-col-md-6 .emphasize-card #updateoftheweek .pb-5}
 ##### Update of the week:
-1 week ago ⎯ Cultivating all the Christmas mass 
-
+- 2 days ago ⎯ Came up with an idea for my new logo! It includes [this absolute favorite bird of mine](https://ebird.org/species/hoared/).
 :::
 
-:::{.g-col-12 .g-col-sm-6 .emphasize-box .card .card-body}
+:::{.g-col-12 .g-col-sm-6 .emphasize-card #wishlist}
 ##### Ever-growing wishlist for the website:
-- acessibility: fig-alt text on all images
-- images: keeping size small, default ratio 5:3
-- have a nice own logo
-- creating a TLDR component of its own instead of tweaking Quarto's callout buttons
-
+- Have a nice own logo
+- Accessibility
+  - Add fig-alt text on all images
+  - Add breadcrumbs
+  - Run accessibility check on the whole website
+- Create a TLDR component of its own instead of tweaking Quarto's callout buttons
+- Add structured data (schema.org)
+- Dark mode
+- Portfolio
+  - Expand on 'Green Kolding'
+  - Add TLDR for 'Coding my own website'
+  - Filtering by tags: Add a list of categories (that allows user to remove filtering after they clicked on a tag)
+- Blog
+  - Write 'Every design is political'
 
 :::
 ::::

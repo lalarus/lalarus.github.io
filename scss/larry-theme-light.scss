@@ -64,7 +64,7 @@ video {
     right: 20vw;
 }
 
-/**/ 
+
 
 //
 //#myvideo {
@@ -80,3 +80,13 @@ video {
     padding: 5em;
 }
 
+/* Emphasize cards */
+.emphasize-card {
+    background-color: $grey-100 !important;
+    border-radius: $base-border-radius !important;
+    padding: $card-default-padding !important;
+
+    h5 {
+        padding-bottom: $h5-default-pb !important;
+    }
+}

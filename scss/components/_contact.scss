@@ -6,7 +6,7 @@
     background-color: $surface;
     border: 8px solid $champagne-100 !important;
     //border: 1px solid $black;
-    padding: 2em;
+    padding: $card-default-padding;
     //border-radius: $base-border-radius;
 
     h2 {
