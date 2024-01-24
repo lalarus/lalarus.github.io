@@ -45,6 +45,7 @@ More into a long-read? Then have a look at [my blog](blog/index.qmd).
 - acessibility: fig-alt text on all images
 - images: keeping size small, default ratio 5:3
 - have a nice own logo
+- creating a TLDR component of its own instead of tweaking Quarto's callout buttons
 
 
 :::
