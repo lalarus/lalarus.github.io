@@ -47,6 +47,9 @@
 }
 
 .sidebar {
+    // not nicely done but moves the sidebar a bit more to the right
+    transform: translate(20%, 0) !important;
+
     a {
         font-size: $font-size-small !important;
         line-height: 1.2em !important;
@@ -70,3 +73,7 @@
 #quarto-toc-toggle {
     display: none !important;
 }
+
+
+
+

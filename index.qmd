@@ -8,49 +8,61 @@ format:
     back-to-top-navigation: false
 ---
 
+<!--
 <style>
   body {
   background-image: url("assets/img/IMG_1714.jpg")  ;
   background-size: cover;
   background-repeat: no-repeat;
 }
-  
 </style>
+-->
 
-<!--::::: {#mytext .column-page}-->
-:::: {.grid #hero-home #mytext}
+:::: {.grid #hero-home}
 ::: {.g-col-12 .g-col-sm-10}
 [Welcome to my little corner 🐦‍⬛]{.text-large} 
 
-This is the very first website I'm coding for myself. And maybe you know the struggle: when it's suddenly something for/about yourself, it's taking you forever. That's why this space is still looking a bit blank, so bear with me!
+This is the very first website I'm coding for myself. And it's really been an adventure so far! However, maybe you know the struggle: if it's suddenly something for (or even worse, *about*) yourself, it will be taking you forever. That's why this space is still looking a bit blank, so bear with me!
 
 Meanwhile:
 [Learn more about me](about/index.qmd) or have a dip into [my portfolio](portfolio/index.qmd).<br>
 More into a long-read? Then have a look at [my blog](blog/index.qmd).
 
-::: 
 [&#x25cc;]{.font-pangaia}
 &#x25cf;
-:::
-
-
-:::
-
-::: {.g-col-12 .g-col-md-2}
 :::
 ::::
 
 :::: {.grid #updates-home}
-::: {.g-col-12 .g-col-md-6 .emphasize-box}
-Update of the week:
+::: {.g-col-12 .g-col-md-6 .emphasize-box .card .card-body}
+##### Update of the week:
 1 week ago ⎯ Cultivating all the Christmas mass 
+
 :::
 
-:::{.g-col-12 .g-col-sm-6 .emphasize-box}
-Ever-growing wishlist for the website:
+:::{.g-col-12 .g-col-sm-6 .emphasize-box .card .card-body}
+##### Ever-growing wishlist for the website:
+- acessibility: fig-alt text on all images
+- images: keeping size small, default ratio 5:3
+- have a nice own logo
+
+
 :::
 ::::
 
+:::: {#about-contact}
+## Contact <iconify-icon icon="fa-solid:certificate" id="contact-certificate" width="0.75em"></iconify-icon>
+I’m always looking for new things to do. So please come bother me for interesting collaborations.
+
+Got questions, or just want to reach out and say hello? I'm open for that, too! <br>
+You can find me on <iconify-icon icon="ph:linkedin-logo-light" id="contact-linkedin" width="1.6em"></iconify-icon> [LinkedIn](https://www.linkedin.com/in/larissalang/) and <iconify-icon icon="ph:github-logo-light" id="contact-github" width="1.4em"></iconify-icon> [GitHub](https://github.com/lalarus).
+Or, you can drop me an e-mail at [hello@larissa.lang.com]{.bolder}
+::::
+
+<!-- adds a whitespace of 50px in the bottom of the page
+so the 'back to top' button won't cover up any content -->
+:::: {.filler}
+::::
 
 
 <!--
@@ -64,8 +76,5 @@ Ever-growing wishlist for the website:
 
 
 <!--
-- acessibility: fig-alt text
-- images: keeping size small, default ratio 5:3
-
 [Learn more about me &#x2197;](about.qmd){.btn .btn-outline-primary .btn-lg .btn role="button"}
 -->
