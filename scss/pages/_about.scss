@@ -1,18 +1,33 @@
 /*-- scss:rules --*/
 
-// hero area (text + img)
+/* hero area (text + img) */
+
+// removes the default padding in the top 
+// of the solana theme 
+.quarto-about-solana.column-page {
+    padding-top: 0px !important;
+}
+
 .about-entity {
     gap: 0px 150px;
     align-items: center !important;
     padding-top: 0px !important;
+
+    // moves items to the start (=top) of the container on large screens with 2 columns
+    // so the heading "about" is at the top
+    // on smaller screens (1 column), solana's default CSS aligns items centered in the container
+    @media screen and (min-width: 992px) {
+        align-items: flex-start !important;
+    }
 }
 
-// space between first and second text area
+
+/* space between first and second text area */
 #text-about-1 {
     margin-bottom: 6em;
 }
 
-// space between heading and the content
+/* space between heading and the content */
 #text-about-2 h2 {
     margin-bottom: 1em;
 }
@@ -23,7 +38,7 @@
 }
 
 
-// contact area
+/* contact area */
 #about-contact {
     margin-top: 4em;
     background-color: $surface;
