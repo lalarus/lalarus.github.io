@@ -20,8 +20,6 @@ website:
         href: portfolio/index.qmd
       - text: Blog
         href: blog/index.qmd   
-      - text: Contact
-        href: contact.qmd  
     pinned: false
 
   page-footer:
