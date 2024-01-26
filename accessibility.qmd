@@ -6,6 +6,18 @@ format:
     page-layout: full
 ---
 
-I do not track you. This website does not have analytics, third-party web fonts or social network buttons that track you.
+In times where [businesses are built upon data collection](https://shoshanazuboff.com/book/about/), I am exploring how my designs can better account for human values. 
 
-This inspired by [Laura Kalbag](https://laurakalbag.com/).
+So I chose to avoid data collection: this website does not have analytics, third-party web fonts or social network buttons that track you. No cookies, no cookie banner either.
+
+
+The "I do not track you" declaration is inspired by [Laura Kalbag](https://laurakalbag.com/).
+
+
+
+<!-- 
+That's why I avoid data collection on this website to respect user rights much better.
+
+ decided against any cookie banners, by deciding against any cookies.
+
+ -->

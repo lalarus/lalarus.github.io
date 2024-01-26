@@ -7,8 +7,8 @@ categories:
   - Snow
   - Life
 subtitle: >
-  Winter is here! W9th it came some thoughts that occured to me on my daily bike rides into town.
-description: "mal schauen wo das hier steht"
+  Winter is here! And with it came some thoughts that occured to me on my daily bike rides into town.
+description: "Here's a short teaser"
 code-annotations: below
 df-print: paged
 ---

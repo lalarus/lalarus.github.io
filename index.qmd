@@ -37,12 +37,12 @@ More into a long-read? Then have a look at [my blog](blog/index.qmd). <br><br><b
 :::
 
 :::{.g-col-12 .g-col-md-6 .emphasize-card #wishlist}
-##### Ever-growing wishlist for the website:
-- Have a nice own logo
+##### Ever-growing website wishlist:
 - Accessibility
   - Add fig-alt text on all images
   - Add breadcrumbs
   - Run accessibility check on the whole website
+- Have a nice own logo
 - Create a TLDR component of its own instead of tweaking Quarto's callout buttons
 - Add structured data (schema.org)
 - Dark mode
@@ -65,10 +65,6 @@ You can find me on <iconify-icon icon="ph:linkedin-logo-light" id="contact-linke
 Or, you can drop me an e-mail at [hello@larissa.lang.com]{.bolder}
 ::::
 
-<!-- adds a whitespace of 50px in the bottom of the page
-so the 'back to top' button won't cover up any content -->
-:::: {.filler}
-::::
 
 
 <!--

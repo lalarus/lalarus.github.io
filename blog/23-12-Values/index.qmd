@@ -5,50 +5,14 @@ date-modified: today
 image: ../../assets/img/bridges.png
 categories:
   - Values
-  - blabla
+  - Technology
+  - Design
 subtitle: >
   Thoughts on why it is so important to consider values in design.
-description: "mal schauen wo das hier steht"
+description: "Here's a short teaser. <br>Image on the right: Photo courtesy NYC Municipal Archives."
 code-annotations: below
 df-print: paged
 ---
 
 ## Design is political
 Every design carries ethical responsibility. It was a lecture on »Value-based Design« during my time at [SDU](https://www.sdu.dk) that sparked my passion for ethics and responsibility in design.
-
-
-Though he rejects what he calls "naïve technological determinism," Winner argues that "certain technologies in themselves have political properties." He indicates two ways in which this occurs:
-
-"the invention, design, or arrangement of a specific technical device or system becomes a way of settling an issue in the affairs of a particular community" or
-"inherently political technologies" which "appear to require or to be strongly compatible with particular kinds of political relationships." Technical Arrangements and Social Order
-The most commonly cited example from Winner's essay is the height of the bridges over park ways on Long Island. Robert Moses build them according to specifications that would discourage the presence of buses. "One consequence was to limit access of racial minorities and low-income groups to Jones Beach, Moses' widely acclaimed public park. Moses made doubly sure of this result by vetoing a proposed extension of the Long Island Roach to Jones Beach. This is a demonstration of technological design that enforced a particular political agenda. Lessig cites this as a case of architecture being used as a modality of constraint on behavior.
-
-Winner provides other examples of consciously political design:
-[I mean, it's pretty cool that content can go in the margin, right?? <br><br> It could even be a picture: <br><br> ![](../../assets/img/bridges.png){fig-alt="There is a book open in the green grass with some yellow leaves around it"}<br>The book page reads _verdere expedities_ which is Dutch for "further expeditions"]{.aside}
-
-"Baron Haussmann's broad Parisian thoroughfares, engineered at Louis Napoleon's direction to prevent any recurrence of street fighting of the kind that took place during the revolution of 1848,"
-"concrete buildings and huge plazas constructed on university campuses in the United States during the late 1960s and early 1970 to defuse student demonstrations,"
-Cyrus McCormick's introduction of pneumatic molding machines into his Chicago reaper manufacturing plant in the 1880s, in order to "weed out" the skilled workers who had organized a local union.
-Winner points out, however, that "to recognize the political dimensions in the shapes of technology does not require that we look for conscious conspiracies or malicious intentions." There are other interesting cases in which "the technological deck has been stacked in advance in favor of certain social interests," even though this stacking may not have been a conscious choice on anyone's part:
-
-Failure to accommodate for individuals with disabilities has arisen "more from long-standing neglect than from anyone's active intention." Many recent federal regulations have been written to address this neglect.
-The introduction of mechanical tomato harvesters inspires the breading of new varieties of tomatoes, which are able to better handle the machinery's rough motion. The combination of new equipment and new tomato breeds has had a dramatic effect on farm communities, which have been displaced by large agri-businesses.
-Inherently Political Technologies
-Many technologies, Winner argues, are inherently political, since their very creation and operation requires specific social arrangements:
-
-Plato's Republic emphasized that "no reasonable person believes that ships can be run democratically," since their operation requires the coordination of so many individual workers. Large ships require social hierarchies that one-person canoes do not.
-Friedrich Engels pointed out that complex technical systems, such as large production factories, can serve as a means to reinforce centralized control. As the systems get more complex, "central control by knowledgeable people acting at the top of a rigid social hierarchy would seem increasingly prudent."
-Winner also quotes Jerry Mander, who explains that "if you accept nuclear power plants, you also accept a techno-scientific industrial-military elite. Without these people in charge, you could not have nuclear power." Conversely, environmental activist have often lauded the democratizing qualities of solar energy, which tends to work against the concentration of power in the hands of large institutions.
-"Taking the most obvious example, the atom bomb is an inherently political artifact. As long as it exists at all, its lethal properties demand that it be controlled by a centralized, rigidly hierarchical, chain of command closed to all influences that might make its workings unpredictable." This is a "matter of practical necessity independent of any larger political system in which the bomb is embedded."
-Implications:
-Winner's arguments can be important to both creators and consumers of new technology. Winner points out that the political nature of certain technologies have been used by both ends of the political spectrum. And designers of roads have purposely specified the height of bridges to keep populations of lower socio-economic status out of certain areas.
-
-When considering technological change, Winner identifies two broad types of choices:
-
-"yes or no" on whether to adopt a new technology and
-"special features in the design or arrangement of a technical system" for which the answer to the first choice was "yes." The most important thing to recognize about these choices is that they often go far being pragmatic concerns about what tool would be best or most cost-effective for a given job. Many amount to the selection of "forms of life," since they embody certain possibilities more than others. The "greatest latitude of choice exists the very first time a particular instrument, system, or technique is introduced," so "the same careful attention that one would give to the rules, roles, and relationships of politics must also be given" to such technological choices.
-In contemporary society, such decisions are often not recognized as such. The advancement of certain ends has become so ingrained in our thinking that we fail to recognize reasons other than those of practical necessity toward those ends. "In many instances, to say that some technologies are inherently political is to say that certain widely accepted reasons of practical necessity—especially the need to maintain crucial technological systems as smoothly working entities—have tended to eclipse other sorts of moral and political reasoning."
-
-For many areas of ICT implementation, we are still fortunate to be at an early enough stage that such a latitude of choice is available to us. ICTs that are introduced into an environment can embody specific social arrangements and continuously reinforce those arrangements through the possibilities (what are often called "affordances") for action that they imply.
-
-Considering such consequences is essential, in order to introduce technologies in ways that will advance, rather than hinder, the social values that the Kellogg Foundation espouses. It is important not to simply accept the incentive to join the forces of technological "progress" at face value. "In our times people are often willing to make drastic changes in the why they live to accommodate technological innovation while at the same time resisting similar kinds of changes justified on political grounds. If for no other reason than that, it is important for us to achieve a clearer view of these matters than has been our habit so far."
