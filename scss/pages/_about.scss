@@ -9,7 +9,6 @@
 }
 
 .about-entity {
-    gap: 0px 150px;
     align-items: center !important;
     padding-top: 0px !important;
 
@@ -18,6 +17,7 @@
     // on smaller screens (1 column), solana's default CSS aligns items centered in the container
     @media screen and (min-width: 992px) {
         align-items: flex-start !important;
+        gap: 0px 150px;
     }
 }
 
