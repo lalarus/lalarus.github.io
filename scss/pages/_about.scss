@@ -33,8 +33,14 @@
 }
 
 #workedu, #skillslang {
+    // Small devices (landscape phones, 576px and up)
+    @media (min-width: 576px) {
+        column-gap: 3em !important;
+    }
+}
+
+#work-experience, #education, #skills, #languages {
     padding-bottom: 2em;
-    column-gap: 3em !important;
 }
 
 /* filler */

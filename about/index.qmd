@@ -12,20 +12,8 @@ format:
   html: 
     page-layout: full
 ---
-<!--::: {.hero .hero-about}
-# About me
-<br>
-<br>
-<br>
-<br>
-
-
-:::-->
-
 ::: {#hero-about .text-large}
 👋🏻 I’m Larry, a curious designer based in Stockholm, who is passionate about using design to help make complex issues accessible and to create meaningful change. 
-<!-- who is passionate about using her creativity and analytic mindset to help make complex issues (and research) acessible and to create positive social and sustainable change. -->
-<!-- who recently finished her Master thesis on deceptive design patterns. -->
 
 ::: {.button-about}
 [LinkedIn &#x2197;](https://www.linkedin.com/in/larissalang/){.btn .btn-outline-primary .btn-lg .btn role="button"}
@@ -72,12 +60,6 @@ I enjoy fiddling around on a screen as much as taking some time off it. Like pac
 - playing volleyball
 - going hiking
 
-link zu blogbeitrag about values 
-Check out what I wrote about this [on my blog &#x2197;](blog/index.qmd)
-
-- I like hot water bottles
-- I am crazy about Acanthis
-
 -->
 
 
@@ -110,7 +92,7 @@ B.A. Advertising and Market Communication <br>
 ::::
 
 :::: {.grid #skillslang}
-::: {.g-col-12 .g-col-sm-6 #interests}
+::: {.g-col-12 .g-col-sm-6 #skills}
 ###### Skills and tools
 - Design tools such as Figma, XD, InDesign and Illustrator. <br>
 - HTML and CSS | SASS <br>
