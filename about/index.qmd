@@ -1,7 +1,7 @@
 ---
 title: "About"
 toc: false
-image: /about/img/about_larry.jpg
+image: img/about_larry.jpg
 image-title: hej, that's me!
 image-alt: "Medium close-up shot of a woman in her late twenties with curly hair and a headband, looking into the lens and smiling"
 about:
@@ -84,7 +84,7 @@ Check out what I wrote about this [on my blog &#x2197;](blog/index.qmd)
 ## Even more about me {#text-about-2}
 
 :::: {.grid #workedu}
-::: {.g-col-6 .g-col-sm-6 #work-experience}
+::: {.g-col-12 .g-col-sm-6 #work-experience}
 ###### Work experience  
 Interaction and User Experience (UX) Designer <br>
 [Freelance / 2014 - now]{.lighter}
