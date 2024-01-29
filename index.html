@@ -436,7 +436,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-      var filterRegex = new RegExp("https:\/\/lalarus\.github\.io\/websitelarry\/");
+      var filterRegex = new RegExp("^(?:http:|https:)\/\/www\.lalarus\.github\.io\/custom");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href);
     }
