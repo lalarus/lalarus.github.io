@@ -16,3 +16,8 @@ df-print: paged
 
 ## Design is political
 Every design carries ethical responsibility. It was a lecture on »Value-based Design« during my time at [SDU](https://www.sdu.dk) that sparked my passion for ethics and responsibility in design.
+
+
+## Incubating...
+
+🐣 This part is about to hatch!

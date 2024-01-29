@@ -21,7 +21,7 @@ format:
 [GitHub &#x2197;](https://github.com/lalarus){.btn .btn-outline-primary .btn-lg .btn role="button"}
 
 <!-- target="_blank" opens internal link in a new window -->
-[CV &#x2197;](documents/24-01_CV-web.pdf){.btn .btn-outline-primary .btn-lg .btn role="button" target="_blank"}
+[CV &#x2197;](documents/24-01_CV-larissalang-web.pdf){.btn .btn-outline-primary .btn-lg .btn role="button" target="_blank"}
 :::
 :::
 
@@ -69,7 +69,7 @@ I enjoy fiddling around on a screen as much as taking some time off it. Like pac
 ::: {.g-col-12 .g-col-sm-6 #work-experience}
 ###### Work experience  
 Interaction and User Experience (UX) Designer <br>
-[Freelance / 2014 - now]{.lighter}
+[Freelance / 2014 - 2023]{.lighter}
 
 UX Designer <br>
 [scitis.io GmbH, Stuttgart, Germany / 2021]{.lighter}
@@ -96,7 +96,8 @@ B.A. Advertising and Market Communication <br>
 ###### Skills and tools
 - Design tools such as Figma, XD, InDesign and Illustrator. <br>
 - HTML and CSS | SASS <br>
-- Conducting user studies by employing methods such as Design Thinking, Prototyping, LEGO. Moderating workshops on these topics. <br>
+- CMS systems: Wordpress and TYPO3 <br>
+- Conducting user studies by employing methods such as Design Thinking, Prototyping, User Testing. Moderating workshops on these topics. <br>
 - Implementing structured data markup to a website and making it (more) accessible by adhering to the WCAG guidelines. <br>
 - Approaching interfaces with a user-centered mindset. <br>
 - Understanding and visualizing complex contexts and data. <br>
@@ -124,7 +125,7 @@ I’m always looking for new things to do. So please come bother me for interest
 
 Got questions, or just want to reach out and say hello? I'm open for that, too! <br>
 You can find me on <iconify-icon icon="ph:linkedin-logo-light" id="contact-linkedin" width="1.6em"></iconify-icon> [LinkedIn](https://www.linkedin.com/in/larissalang/) and <iconify-icon icon="ph:github-logo-light" id="contact-github" width="1.4em"></iconify-icon> [GitHub](https://github.com/lalarus).
-Or, you can drop me an e-mail at [hello@larissa.lang.com]{.bolder}
+Or, you can drop me an e-mail at [hello@larissalang.com]{.bolder}
 ::::
 
 <!-- adds a whitespace of 50px in the bottom of the page

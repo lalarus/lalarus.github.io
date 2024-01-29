@@ -120,18 +120,30 @@ Besides the diary, each participant received a number of other materials (*see f
 
 ![&#x2BA4; The different materials included in one probe kit](img/2-probekitcontents.jpg){fig-alt="A photo of a redpoll."}
 
+<br>
+<br>
+<br>
+
+_________________
+
+## Incubating
+🐣 This part is about to hatch!
+
+<br>
+
+
 
 ::: {.lessonlearned}
-##### Lesson learned
+##### Challenges and learnings
 
-Probe studies are a lot of work, instructions must be well thought-through
-Besides the diary, each participant received a number of other materials (*see figure*). For example, the envelope for study day 1 contained straps to attach the diary to the back of a smartphone (see figure, A.2)
+Probe studies are a lot of work, instructions must be well thought-through.
 :::
 
 
 ## Define: Bringing all the data together
 
-*DEFINE: Affinity mapping*
+
+
 
 ![&#x2BA4; Affinity notes created from the data gained from the probe studies](img/3-affinitynotes.jpg){fig-alt="A photo of a redpoll."}
 
@@ -145,13 +157,9 @@ Besides the diary, each participant received a number of other materials (*see f
 
 ![&#x2BA4;; Types of design patterns that classify design mechanisms that make people feel least in control over how they spend their time in the Instagram app. The description explains how a design pattern undermines user sense of agency. Design patterns are listed in the order of frequency of corresponding responses from the affinity diagram.](img/4-LCdesignpatterns.jpg){fig-alt="A photo of a redpoll."}
 
-`Lesson learned: Analyzing on your own is hard, first affinity diagram was crap`
+`Challenges and learnings: Analyzing on your own is hard, first affinity diagram was not good`
 
-> This is a blockquote
-this one too?  
-yip
 
-but this one as well? 
 
 ## Develop: Designing to support user agency
 
@@ -166,31 +174,4 @@ but this one as well?
 
 
 
-`Setback: Ideating on your own is hard, (no time for testing)`
-
-My Master Thesis sheds light on the exploitative tactics with which online platforms and digital technologies systematically undermine user's self control. This loss of agency that users experience over their technology use comes with detrimental effects on their well-being.
-
-Based on these findings, I used experience prototyping to create 4 prototypes. These redesigs support user sense of agency 
-
-Taking one of most widespread social media platforms worldwide, my Master thesis explores and redesigns how design mechanisms influence user agency on Instagram.
-
-such as push notifications and autoplay
-
-
-Inspired by this, I stumbled upon the 
-
-
-Lessons learned: TIME, not testing
-Setbacks: probing is hell of work, ideating on your own is hard
-
-
-
-## Solution link
-Es gibt zwei Unterarten, A. h. hornemanni aus Grönland und den kanadischen Nachbarinseln sowie A. h. exilipes aus Nordamerika und Eurasien. Die grönländische Unterart ist größer und heller, manchmal überwiegend weiß. In Europa brütet der Polar-Birkenzeisig nur im nördlichsten Skandinavien. Im Winter hält er sich im gesamten Skandinavien und im Baltikum auf, Umherstreifende gelangen bis Island, Großbritannien und Mitteleuropa.
-
-
-Note that there are five types of callouts, including:
-`note`, `warning`, `important`, `tip`, and `caution`.
-
-hallo
-hallo
+`Challenges and learnings: Ideating on your own is hard, (no time for testing)`
