@@ -1,7 +1,7 @@
 ---
 title: Website
 description: |
-  My website is like a dipper - it goes up and down, up and d..
+  How I created this website and my choices along the way.
 date: 2024-01-29
 #site-url:
 image: ../../assets/img/wasseramsel.jpg
@@ -18,21 +18,6 @@ format:
   html:
     back-to-top-navigation: true
 ---
-
-::: {.callout-caution collapse="false" .column-body-outset}
-## TLDR {{< iconify fa-solid certificate size=0.75em >}} 
-
-###### Problem
-Green Kolding is a youth organization that aims to push climate and sustainability action in the municipality of Kolding, Denmark. Having started out with many early-attracted members shortly before the Covid-19 pandemic, the organization struggles to attract any participants at all ever since they started meeting again. Another problem is the member's uncertainty about what Green Kolding stands for.
-
-###### Approach
-I conceptualized and conducted a co-design workshop with members and non-members to explore and define Green Kolding's identity. We then interviewed the two heads of the organization. Analyzing the data with empathy mapping allowed us to identify the need for a website which communicates Green Kolding's identity and attracts new members. We developed a website prototype and conducted user experience tests with the target group.
-
-###### Solution
-The workshop outcomes were limited to impulses for Green Kolding's identity as participants who did not know Green Kolding prior to the workshop were numerically overrepresented and therfore overshadowed the opinions and perceptions of active members. Our interviews, on the other hand, revealed a deeper understanding of the organization's self-perception and needs. Testing our website prototype revealed that the organization's identity remains vague and discourages potential members from joining.
-
-:::
-
 
 ## Incubating...
 
