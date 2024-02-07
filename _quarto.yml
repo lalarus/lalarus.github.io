@@ -45,8 +45,9 @@ format:
       - scss/larry-theme-light.scss
 
     link-external-newwindow: true
-    # treat links that start with http://www.lalarus.github.io as internal links
-    link-external-filter: '^(?:http:|https:)\/\/www\.lalarus\.github\.io\/custom'
+    # treat links that start with http://www.larissalang.com or http://www.lalarus.github.io as internal links
+    link-external-filter: '^(?:http:|https:)\/\/(www\.)*(larissalang\.com|lalarus\.github\.io)\/.*$'
+
     back-to-top-navigation: true
     toc: true
     callout-icon: false
