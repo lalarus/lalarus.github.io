@@ -2,15 +2,17 @@
 
 // Fonts
 $font-size-base: 1rem !default; // Assumes the browser default, typically `16px`
-$font-family-sans-serif: "Neue Montreal", Arial, Helvetica, sans-serif;
-$font-family-monospace: "Dark Mono", "Fira Mono", monospace;
-$headings-font-family: "PPPangaia-Medium", serif;
+$font-family-sans-serif: "Neue Montreal", Arial, Helvetica, sans-serif !default;
+$font-family-monospace: "Dark Mono", "Fira Mono", monospace !default;
+$headings-font-family: "PPPangaia-Medium", serif !default;
 
 $spacing-standard: 0.05em;
 $spacing-wide: 0.1em;
 
 $font-weight-normal: 400;
 $font-weight-semibold: 530;
+
+$headings-font-weight-normal: 475;
 
 $font-size-large: $font-size-base * 2.8;
 $font-size-medium: $font-size-base * 2.0;
@@ -92,24 +94,29 @@ body {
 
 h1 /*code*/ {
   font-size: $font-size-base * 6.0 !important; /* =60px */
+  font-weight: $headings-font-weight-normal !important;
 }
    
 h2 {
   font-size: $font-size-base * 3.2 !important; /* =32px */
   border-bottom: none !important;
   padding-bottom: unset !important;
+  font-weight: $headings-font-weight-normal !important;
 }
 
 h3 {
   font-size: $font-size-base * 2.8 !important; /* =28px */
+  font-weight: $headings-font-weight-normal !important;
 }
 
 h4 {
   font-size: $font-size-base * 2.4 !important; /* =24px */
+  font-weight: $headings-font-weight-normal !important;
 }
 
 h5 {
   font-size: $font-size-base * 2.2 !important; /* =20px */
+  font-weight: $headings-font-weight-normal !important;
 }
 
 h6 {
