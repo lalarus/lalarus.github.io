@@ -9,16 +9,6 @@ format:
 
 In times where [businesses are built upon data collection](https://shoshanazuboff.com/book/about/), I am exploring how my designs can better account for human values. 
 
-So I chose to avoid data collection: this website does not have analytics, third-party web fonts or social network buttons that track you. No cookies, no cookie banner either.
+One approach is that I decided against any data collection on my website: this website does not have analytics, third-party web fonts or social network buttons that track you. No cookies, no cookie banner either.
 
-
-The "I do not track you" declaration is inspired by [Laura Kalbag](https://laurakalbag.com/).
-
-
-
-<!-- 
-That's why I avoid data collection on this website to respect user rights much better.
-
- decided against any cookie banners, by deciding against any cookies.
-
- -->
+The "I do not track you" declaration in the footer of my page is inspired by [Laura Kalbag](https://laurakalbag.com/). I warmly recommend her blog if you want to know more about rights-respecting design, accessibility and privacy in the web.

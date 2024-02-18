@@ -21,7 +21,7 @@ format:
 [GitHub &#x2197;](https://github.com/lalarus){.btn .btn-outline-primary .btn-lg .btn role="button"}
 
 <!-- target="_blank" opens internal link in a new window -->
-[CV &#x2197;](documents/24-01_CV-larissalang-web.pdf){.btn .btn-outline-primary .btn-lg .btn role="button" target="_blank"}
+[CV &#x2197;](documents/24-02_CV-larissalang-web.pdf){.btn .btn-outline-primary .btn-lg .btn role="button" target="_blank"}
 :::
 :::
 
@@ -94,13 +94,13 @@ B.A. Advertising and Market Communication <br>
 :::: {.grid #skillslang}
 ::: {.g-col-12 .g-col-sm-6 #skills}
 ###### Skills and tools
-- Design tools such as Figma, XD, InDesign and Illustrator. <br>
-- HTML and CSS | SASS <br>
-- CMS systems: Wordpress and TYPO3 <br>
+- Design tools: Figma, Adobe CC, Miro and Keynote. <br>
 - Conducting user studies by employing methods such as Design Thinking, Prototyping, User Testing. Moderating workshops on these topics. <br>
-- Implementing structured data markup to a website and making it (more) accessible by adhering to the WCAG guidelines. <br>
+- Implementing structured data markup on a website and making it (more) accessible by adhering to the WCAG guidelines. <br>
+- Understanding and visualizing quantitative & qualitative data. <br>
+- HTML and CSS/SASS | Bootstrap and basic Javascript <br>
+- CMS: Wordpress and TYPO3 | Google Analytics <br>
 - Approaching interfaces with a user-centered mindset. <br>
-- Understanding and visualizing complex contexts and data. <br>
 - Creative thinking. <br>
 - Collaborating in an agile team. <br>
 :::

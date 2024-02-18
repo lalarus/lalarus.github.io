@@ -1,5 +1,5 @@
 ---
-title: Green Kolding
+title: Exploring and defining an NGO's identity
 description: |
   In a team of three, we created a website prototype to communicate the organization's identity and attract new members.
 date: 2024-02-06

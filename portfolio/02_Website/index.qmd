@@ -1,17 +1,17 @@
 ---
-title: Website
+title: Programming my own website
 description: |
   How I created this website and my choices along the way.
 date: 2024-01-29
 #site-url:
-image: ../../assets/img/wasseramsel.jpg
+image: img/programmingwebsite-title.jpg
 image-alt: |
-  HIER FEHLT WAS!
+  tbd
 categories:
+  - programming
+  - UX
   - usability testing
   - brand identity
-  - UX
-  - programming
 open-graph: true
 toc: false
 format:

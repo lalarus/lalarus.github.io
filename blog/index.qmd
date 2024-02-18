@@ -29,6 +29,6 @@ format:
 
 ::: {#content-blog .text-medium}
 
-This is where I reference inspiring people and great resources on topics that I deeply care about. Like »values in design« and »ethics in technology«. I might also just write about my curiosity for XYZ. Or my love for heavy snowfall. Maybe we have some interests in common!
+This is where I reference inspiring people and great resources on topics that I deeply care about. Like »values in design« and »ethics in technology«. I might also just write about my latest design inspiration. Or my love for heavy snowfall. Maybe we have some interests in common!
 
 :::

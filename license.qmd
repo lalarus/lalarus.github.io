@@ -14,7 +14,7 @@ All icons on this website are free and open source icons provided by [Iconify](h
 ::: {.license-content #type}
 ###### Type
 Neue Montreal & Pangaia <br>
-Fonts by the [Pangram Pangram Foundry](https://pangrampangram.com/) are free to use for anything of personal nature.
+I use fonts by the [Pangram Pangram Foundry](https://pangrampangram.com/). They are free to use for anything of personal nature, with commercial licenses available for purchase.
 :::
 
 ::: {.license-content #blogposts}

@@ -44,9 +44,10 @@ More into a long-read? Then have a look at [my blog](blog/index.qmd). <br><br><b
   - Run accessibility check on the whole website
 - Have a nice own logo
 - Create a TLDR component of its own instead of tweaking Quarto's callout buttons
-- Add structured data (schema.org)
+- Add semantic/structured data markup ([schema.org](https://www.schema.org/))
 - Dark mode
 - Portfolio
+  - Finish 'Designing to support user agency'
   - Expand on 'Green Kolding'
   - Add TLDR for 'Coding my own website'
   - Filtering by tags: Add a list of categories (that allows user to remove filtering after they clicked on a tag)
