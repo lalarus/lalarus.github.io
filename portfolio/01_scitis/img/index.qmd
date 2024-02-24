@@ -1,0 +1,29 @@
+---
+title: Visualizing target quantity and actual quantity
+description: |
+   In my Master Thesis, I explored and redesigned design mechanisms on Instagram for a greater sense of user agency.
+date: 2024-02-20
+#site-url:
+image: img/designingforagency-title.jpg
+image-alt: |
+  A wooden table seen from bird's eye view with a cutter knife, a ruler and a printed sheet of paper lying on it
+categories:
+  - UX design
+  - data visualization
+open-graph: true
+toc: true
+toc-location: right
+#number-sections: true
+format:
+  html:
+    back-to-top-navigation: true
+---
+
+::: {.callout-caution collapse="false" .column-body-outset}
+## TLDR {{< iconify fa-solid certificate size=0.75em >}} 
+
+###### Other challenges
+- Reporting an error 
+- Different user roles = access rights / permissions 
+- Navigation architecture / filtering for hundreds of connected machines —> didn’t really work bc there were technical constraints 
+
