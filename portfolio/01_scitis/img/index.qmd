@@ -19,8 +19,6 @@ format:
     back-to-top-navigation: true
 ---
 
-::: {.callout-caution collapse="false" .column-body-outset}
-## TLDR {{< iconify fa-solid certificate size=0.75em >}} 
 
 ###### Other challenges
 - Reporting an error 

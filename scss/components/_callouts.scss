@@ -21,10 +21,11 @@ $callout-margin-bottom: 1.25rem !default;
 }
 
 .callout-caution {
-    background-color: $champagne-50 !important;
-    border-left-color: $champagne-100 !important;
+    background-color: $green-50 !important;
+    border-left-color: $red !important;
     margin-top: 1.5em !important;
     margin-bottom: 1.5em !important;
+    border: solid 1px $green-400 !important;
 }
 
 .callout-header {
@@ -32,10 +33,9 @@ $callout-margin-bottom: 1.25rem !default;
     font-family: $headings-font-family !important;
     font-weight: $headings-font-weight-normal !important;
     opacity: 100% !important;
-    background-color: $champagne-100 !important;
+    background-color: $green-200 !important;
     padding-left: 2em !important;
     padding-right: 1em !important;
-
 }
 
 // dropdown toggle
@@ -43,6 +43,17 @@ $callout-margin-bottom: 1.25rem !default;
     width: 2rem !important;
     height: 2rem !important;
     background-size: 2rem 2rem !important;
+
+}
+
+// drop-down icon when closed 
+.callout .callout-header[aria-expanded=false] .callout-toggle::before {
+    transform: none !important;
+}
+
+// drop-up icon when expanded
+.callout .callout-header[aria-expanded=true] .callout-toggle::before {
+    transform: rotate(-180deg) !important;
 }
 
 .callout-body {

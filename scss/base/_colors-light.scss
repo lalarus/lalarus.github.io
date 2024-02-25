@@ -5,15 +5,24 @@
 //$black: #091A19;
 $black: #000000;
 $white: #FFFFFF;
-$green: #1E5550;
-$purple: #745BE6;
 
+$purple: #745BE6;
+$red: #B00020;
+
+/* Material Design */
 $champagne-50: #F8EEE8;
 $champagne-100: #E6D4CD;
 $champagne-200: #d1b8af;
 
-$red: #B00020;
+/* https://www.color-hex.com/color/1e5550 */
+$green-500: #1E5550;
+$green-400: #4a7672;
+$green-300: #789996;
+$green-200: #a5bbb9;
+$green-100: #d2dddc;
+$green-50: #e8eeed;
 
+/* 2014 Material Design color palettes */
 $grey-50: #FAFAFA;
 $grey-100:#F5F5F5;
 $grey-200:#EEEEEE;
@@ -27,7 +36,7 @@ $grey-900: #212121;
 
 
 // Primary & secondary
-$primary: $green;
+$primary: $green-500;
 $text-primary: $white;
 
 $secondary: $purple;
@@ -39,7 +48,7 @@ $background: $white;
 $text-background: $black;
 
 $surface: $champagne-50;
-$text-surface: $green;
+$text-surface: $green-500;
 
 $warning: $red;
 $text-warning: $white;

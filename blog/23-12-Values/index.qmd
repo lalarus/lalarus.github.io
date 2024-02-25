@@ -14,7 +14,7 @@ code-annotations: below
 df-print: paged
 ---
 
-## Design is political
+##### Design is political
 Every design carries ethical responsibility. It was a lecture on »Value-based Design« during my time at [SDU](https://www.sdu.dk) that sparked my passion for ethics and responsibility in design.
 
 
