@@ -31,9 +31,9 @@ website:
       - text: "I do not track you."
         aria-label: "Accessibility Commitment"
         href: accessibility.qmd
-      - text: "Imprint"
-        aria-label: "Imprint"
-        href: "imprint.qmd"
+#      - text: "Imprint"
+#        aria-label: "Imprint"
+#        href: "imprint.qmd"
       - text: "License"
         aria-label: "License Details"
         href: license.qmd
