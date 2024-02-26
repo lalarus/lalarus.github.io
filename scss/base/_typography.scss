@@ -9,7 +9,7 @@ $headings-font-family: "PPPangaia-Medium", serif !default;
 $spacing-standard: 0.05em;
 $spacing-wide: 0.1em;
 
-$font-weight-normal: 400;
+$font-weight-normal: 450;
 $font-weight-semibold: 530;
 
 $headings-font-weight-normal: 475;
@@ -22,7 +22,7 @@ $font-size-small: $font-size-base * 1.4;
 
 /*-- scss:rules --*/
 
-/* pangaia-bold */
+/* pangaia-medium */
 @font-face {
     font-family: 'PPPangaia-Medium';
     font-style: normal;
@@ -55,6 +55,17 @@ $font-size-small: $font-size-base * 1.4;
          url('./assets/fonts/PPNeueMontreal-Book.otf') format('otf');
   }
   
+  /* neue-montreal-regular */
+  @font-face {
+    font-family: 'Neue Montreal';
+    font-style: normal;
+    font-weight: 450;
+    src: local(''),
+         url('./assets/fonts/PPNeueMontreal-Regular.woff') format('woff'),
+         url('./assets/fonts/PPNeueMontreal-Regular.woff2') format('woff2'),
+         url('./assets/fonts/PPNeueMontreal-Regular.otf') format('otf');
+  }
+
   /* neue-montreal-regular-italic */
   @font-face {
     font-family: 'Neue Montreal';
@@ -135,6 +146,7 @@ p {
   color: $text-background !important;
   font-family: $font-family-sans-serif !important;
   font-weight: $font-weight-normal !important;
+  font-style: normal !important;
   letter-spacing: $spacing-standard !important;
   //font-size: clamp($font-size-base * 1.6, 6.944vw + -3.306rem, $font-size-base * 3.2) !important;
   // font-size: clamp(var(--min-font-size),calc(35% + 1vw),var(--max-font-size));

@@ -8,16 +8,6 @@ format:
     back-to-top-navigation: false
 ---
 
-<!--
-<style>
-  body {
-  background-image: url("assets/img/IMG_1714.jpg")  ;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-</style>
--->
-
 :::: {.grid #hero-home}
 ::: {.g-col-12 .text-medium}
 [Welcome to my little corner 🐦‍⬛]{.text-large} 
@@ -63,19 +53,8 @@ I’m always looking for new things to do. So please come bother me for interest
 
 Got questions, or just want to reach out and say hello? I'm open for that, too! <br>
 You can find me on <iconify-icon icon="ph:linkedin-logo-light" id="contact-linkedin" width="1.6em"></iconify-icon> [LinkedIn](https://www.linkedin.com/in/larissalang/) and <iconify-icon icon="ph:github-logo-light" id="contact-github" width="1.4em"></iconify-icon> [GitHub](https://github.com/lalarus).
-Or, you can drop me an e-mail at [hello@larissalang.com]{.bolder}
+Or, you can drop me an e-mail at *hello[at]larissalang.com*
 ::::
-
-
-
-<!--
-<video id="myvideo" class="column-screen" autoplay loop width="15%">
-  <source src="assets/website-texture.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-  Your browser does not support the video tag.
-</video>
--->
-
 
 
 <!--
