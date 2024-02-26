@@ -6,13 +6,14 @@ image: ../../assets/img/bikesnow.jpg
 categories:
   - Snow
   - Life
-subtitle: >
-  Winter is here! And with it came some thoughts that occured to me on my daily bike rides into town.
-description: "Here's a short teaser"
+#subtitle: >
+#  Winter is here! And with it came some thoughts that occured to me on my daily bike rides into town.
+description: "Winter is here! And with it came some thoughts that occured to me on my daily bike rides into town."
 code-annotations: below
 df-print: paged
 ---
 
-## Incubating...
-
-🐣 This part is about to hatch!
+::: {.tbc}
+##### Incubating... {.unnumbered .unlisted}
+🐣 This part is about to hatch.
+:::

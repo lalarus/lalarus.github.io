@@ -57,8 +57,8 @@ I worked in this project on my own. My academic supervisor and sparring-partner 
 ##### Background
 :::: {.grid #selfcontrolfailure}
 :::  {.g-col-12 .g-col-sm-7 #text-selfcontrolfailure}
-Information and communication technologies (ICT) are designed in a way that makes them exceptionally hard to resist. While people’s failure rate is 31% for smoking and 28% for drinking alcohol, they fail to resist media use 78% of the time (see figure). This is because design mechanisms such as push notifications and autoplay create task interruptions and task-irrelevant thoughts that put an additional strain on the self-control capacity of media users.
-
+*Capturing attention at all costs*<br>
+Information and communication technologies (ICT) are designed in a way that makes them exceptionally hard to resist. While people’s failure rate is 31% for smoking and 28% for drinking alcohol, they fail to resist media use 78% of the time (see figure). This is because design mechanisms such as push notifications and autoplay create task interruptions and task-irrelevant thoughts that put an additional strain on the self-control capacity of 
 This loss of agency that users experience over their technology use comes with detrimental effects on their well-being. Short-term effects such as feelings of fruststration and guilt often translate to more long-term decreases in cognitive well-being, including behavioral addiction and reduced life satisfaction. I therefore asked: 
 
 > *How can we design interfaces that give back control (i.e., user agency) toward the people who interact with these interfaces?*
@@ -71,8 +71,8 @@ This loss of agency that users experience over their technology use comes with d
 :::
 ::::
 
-#### Process
-*Moving from exploration to ideation*<br>
+##### Process
+*Overall research process: moving from exploration to ideation*<br>
 To answer this question, my research study design followed a design thinking process (see figure). I also used IDEO's method cards to come up with suitable methods for the different phases of my research. Regarding the *Discover* phase, for example, I gleaned inspiration from the following three IDEO method cards: *Secondary research*, *Try it yourself*, and *Cultural probes*. 
 
 
@@ -80,20 +80,21 @@ To answer this question, my research study design followed a design thinking pro
 
 Analogue to the first Diamond of the design thinking process, I dedicated the first part of my research to exploring and understanding the problem. My research question was: 
 
-> *RQI: What existing design mechanisms in the Instagram mobile app influence sense of agency?*
+> *RQ I: What existing design mechanisms in the Instagram mobile app influence sense of agency?*
 
-The inquiries in this phase included desk research, a probe study and its analysis through affinity diagramming. The results revealed distinct design features across Instagram’s design mechanisms that made participants feel less or more in control. I further identified 4 higher-level design patterns that
+The inquiries in this phase included *desk research*, a *probe study* and its analysis through *affinity diagramming*. The results revealed distinct design features across Instagram’s design mechanisms that made participants feel less or more in control. I further identified 4 higher-level design patterns that
 describe how these design mechanisms undermine user sense of agency (see figure, visualized by four spherical shapes). 
-These results informed my second research question:
+The results informed my second research question:
 
-> *RQII: What are alternative design mechanisms in the Instagram mobile app that might support sense of agency?*
+> *RQ II: What are alternative design mechanisms in the Instagram mobile app that might support sense of agency?*
 
-Analogue to the second Diamond of the design thinking process, the second part of my research process was concerned with finding solutions through ideating. For this, I developed four *How might we (HMW) questions*. Each question was based on one of the four design patterns for low agency. After generating a wide range of ideas, I chose to continue with one idea for each design challenge which resulted in a total of four experience prototypes. For potential inquries in the future (see figure, visualized by using lower contrast) I propose user testings to test whether the developed experience prototypes successfully support user sense of agency.
+Analogue to the second Diamond of the design thinking process, the second part of my research process was concerned with finding solutions through ideating. For this, I developed four *How might we (HMW) questions*. Each question was based on one of the four design patterns for low agency. After generating a wide range of ideas, I chose to continue with one idea for each design challenge which resulted in a total of *four experience prototypes*. For potential inquries in the future I propose user testings to test whether the developed experience prototypes successfully support user sense of agency (see figure, visualized by using lower contrast).
 
 
 ![&#x2BA4; Research study design](img/1-researchstudydesign.jpg){fig-alt="A graphical representation of a research study design. It comprises two large rectangles with dotted borders. Outside the rectangle on the left is a text reading 'Phenomenon/problem' with an arrow pointing towards a text reading 'Aim'. Another arrow points from 'Aim' towards the inner space of the rectangle. Within this rectangle, a text in the top reads 'RQ1: What existing design mechanisms influence sense of agency?'. Below different research inquries and their dependencies to one another are visualized through various shapes and arrows. Reading from left to right, the different inquries are named: 'Desk research', 'Pilot probe study', 'Probe study' and 'Affinity diagram'. The shapes visualizing 'Affinity diagram' pass into the second large rectangle on the right side. Within this rectangle, a text in the top reads 'RQ2: What are alternative design mechanisms that might support sense of agency?'. Analogue to the first large rectangle, different research inquries and their dependencies to one another and to the inquries of the first large rectangle are visualized. Reading from left to right, the different inquries are named: 'Experience prototypes' and 'User testing'. Unlike the other inquries, 'User testing' is grayed out."}
 
-##### Outcomes
+<br><br>
+
 *Discover: From desk research to intervention*<br>
 I began my project with desk research, exploring the following three research areas: *dark patterns of interaction design*, *philosophy of technology* and *previous work on sense of agency for well-being*. 
 The results contributed an essential component of groundwork to my research as well as informed the further course of my research process. For example, there is a need for research to identify and examine design patterns that manipulate users into spending time and attention in an app against their best interests (so-called *attention capture dark patterns*). ^[Lukoff, K. (2022). *Designing to Support Sense of Agency for Time Spent on Digital Interfaces* [PhD Thesis]. University of Washington. ]
@@ -108,10 +109,10 @@ Besides the diary, each participant received a number of other materials (*see f
 ![&#x2BA4; The different materials included in one probe kit](img/2-probekitcontents.jpg){fig-alt="A photo of a redpoll."}
 
 
-::: {.lessonlearned}
+::: {.challenges}
 ##### Challenges
-
-Probe studies are a lot of work, instructions must be well thought-through.
+Probe studies require considerable time and effort.
+Instructions must be well thought through and leave no room for interpretation.
 :::
 
 
@@ -123,25 +124,22 @@ Probe studies are a lot of work, instructions must be well thought-through.
 
 ![&#x2BA4; A part of the finalized affinity diagram](img/3-affinitydiagram.jpg){fig-alt="A photo of a redpoll."}
 
-- PoV:
-  - Instagram users need to be more in control over how they spend their time in the Instagram app because current design mechanisms undermine their sense of agency, thereby deteriorating user well-being. This happens in four ways: by imposing unwanted information on users, by showing highly personalized content, by creating fear of missing out, and by determining the ease of an interaction.
+> Instagram users **need** to be more in control over how they spend their time in the Instagram app **because** current design mechanisms undermine their sense of agency, thereby deteriorating user well-being. This happens in four ways: by imposing unwanted information on users, by showing highly personalized content, by creating fear of missing out, and by determining the ease of an interaction.
 
 - 4 types of design patterns for least control
 - 3 types of design patterns for most control
 
 ![&#x2BA4;; Types of design patterns that classify design mechanisms that make people feel least in control over how they spend their time in the Instagram app. The description explains how a design pattern undermines user sense of agency. Design patterns are listed in the order of frequency of corresponding responses from the affinity diagram.](img/4-LCdesignpatterns.jpg){fig-alt="A photo of a redpoll."}
 
-::: {.lessonlearned}
+::: {.iterations}
 ##### Iterations
-
-Analyzing on your own is hard, first affinity diagram was not good
+Analyzing and clustering data on your own is difficult. After asking a second person for feedback, I discarded my first affinity diagram and started from scratch.
 :::
 
 
-*Develop: Designing to support user agency*<br>
+*Develop: designing to support user agency*<br>
 
-*DEVELOP*
-- 4 HMW questions / design challenges
+- 4 How-might-we (HMW) question, acting as design challenges
 - 4 prototypes 
 
 
@@ -150,7 +148,11 @@ Analyzing on your own is hard, first affinity diagram was not good
 ![&#x2BA4; Mockups of the original design (left) and the redesign (right) of the Reels mechanism.](img/5-prototype-easeofuse-800.jpg){fig-alt="A photo of a redpoll."}
 
 
-::: {.lessonlearned}
+::: {.challenges}
 ##### Challenges
-Ideating on your own is hard, (no time for testing)
+Ideating on your own is tedious and lacks valuable feedback and inspiration from others. Here, this left me with insufficient time to test my prototypes.
 :::
+
+
+
+##### Outcomes

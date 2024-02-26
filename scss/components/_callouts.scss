@@ -80,11 +80,49 @@ $callout-margin-bottom: 1.25rem !default;
 }
 
 
-/* Lesson learned */
-.lessonlearned {
-    border: 1px solid $black;
+/* Challenges */
+.challenges {
+    border: 1px solid $champagne-100;
     padding: 2em;
     margin-bottom: 4em;
+    background-color: $champagne-50;
+
+    h5 {
+        padding-bottom: 0.5em;
+    }
+
+    // `md` applies to small devices (landscape phones, less than 768px)
+    @media screen and (max-width: 767.98px) {
+        padding: 1em;
+    }
+}
+
+/* Iterations */
+.iterations {
+    border: 1px solid $champagne-100;
+    padding: 2em;
+    margin-bottom: 4em;
+    background-color: $champagne-50;
+
+    h5 {
+        padding-bottom: 0.5em;
+    }
+
+    // `md` applies to small devices (landscape phones, less than 768px)
+    @media screen and (max-width: 767.98px) {
+        padding: 1em;
+    }
+}
+
+
+/* To be continued */
+.tbc {
+    border-top: 1px solid $black;
+    border-left: 1px solid $black;
+    border-right: 1px solid $black;
+    padding: 2em;
+    margin-bottom: 4em;
+    margin-top: 4em;
 
     h5 {
         padding-bottom: 0.5em;

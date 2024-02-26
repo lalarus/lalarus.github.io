@@ -2,8 +2,8 @@
 
 /* Portfolio/Blog cards */
 .card {
-  background-color: $grey-200 !important;
-  border: 0px solid !important;
+  background-color: $white !important;
+  border: 1px solid $black !important;
   border-radius: $base-border-radius !important;
   // Hover effect
   transition: transform 0.2s ease;
@@ -12,7 +12,8 @@
     background-color: $grey-100 !important;
     // Hover effect
     transform: scale(1.025);
-    box-shadow: 0 4px 6px 0 rgba(22, 22, 26, 0.18);
+    //box-shadow: 0 4px 6px 0 rgba(22, 22, 26, 0.18);
+    border: solid 1px $black !important;
   }
 }
 
