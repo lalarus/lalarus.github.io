@@ -1,17 +1,18 @@
 [
   {
+    "listing": "/portfolio/index.html",
+    "items": [
+      "/portfolio/01_scitis/index.html",
+      "/portfolio/02_DesigningForAgency/index.html",
+      "/portfolio/03_GreenKolding/index.html",
+      "/portfolio/04_Website/index.html"
+    ]
+  },
+  {
     "listing": "/blog/index.html",
     "items": [
       "/blog/23-12-Values/index.html",
       "/blog/ThoughtsOnSnow/index.html"
-    ]
-  },
-  {
-    "listing": "/portfolio/index.html",
-    "items": [
-      "/portfolio/01_DesigningForAgency/index.html",
-      "/portfolio/02_Website/index.html",
-      "/portfolio/03_GreenKolding/index.html"
     ]
   }
 ]
