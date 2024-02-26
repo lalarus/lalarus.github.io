@@ -47,19 +47,6 @@ I enjoy fiddling around on a screen as much as taking some time off it. Like pac
 ### Who am I? 
 ### What do I specialize in?
 ### What is my main strength?
-
-- i have a passion for research and complexity
-- analytic mindset
-- thrive in a team
-- creativity 
-- curiosity 
-- teamplayer 
-
-- fiddling around with this website
-- baking bread
-- playing volleyball
-- going hiking
-
 -->
 
 
@@ -94,11 +81,12 @@ B.A. Advertising and Market Communication <br>
 :::: {.grid #skillslang}
 ::: {.g-col-12 .g-col-sm-6 #skills}
 ##### Skills and tools
-- Design tools: Figma, Adobe CC, Miro and Keynote. <br>
-- Conducting user studies by employing methods such as Design Thinking, Prototyping, User Testing. Moderating workshops on these topics. <br>
-- Implementing structured data markup on a website and making it (more) accessible by adhering to the WCAG guidelines. <br>
-- Understanding and visualizing quantitative & qualitative data. <br>
-- HTML and CSS/SASS | Bootstrap and basic Javascript <br>
+- Design tools: Figma, Adobe CC, Miro and Keynote.<br>
+- Conducting user studies by employing methods such as Design Thinking, Prototyping, User Testing. Moderating workshops on these topics.<br>
+- Combining quantitative & qualitative research.<br>
+- Generating customer insights and user journeys and deriving strategic design decisions for relevant touchpoints from it.<br>
+- Implementing structured data markup (Schema) and ensuring WCAG compliance.<br>
+- HTML and CSS/SASS | Bootstrap and basic Javascript<br>
 - CMS: Wordpress and TYPO3 | Google Analytics <br>
 - Approaching interfaces with a user-centered mindset. <br>
 - Creative thinking. <br>
