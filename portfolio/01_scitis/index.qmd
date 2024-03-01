@@ -10,7 +10,7 @@ image-alt: |
 categories:
   - UX design
   - data visualization
-  - user flow
+  - user flows
   - information architecture
 open-graph: true
 toc: true
@@ -20,10 +20,10 @@ format:
   html:
     back-to-top-navigation: true
 ---
-##### Team
+#### Team
 Depending on the specific project, the team consisted of 1 product owner, 1 UI designer, 1 UX designer and several developers and data engineers. My role as a UX designer included initial [design research]{.highlight}, creating [user flows]{.highlight} and early [sketches]{.highlight}, [low- and high-fidelity prototyping]{.highlight} as well as [validation testing]{.highlight}.<br><br>
 
-##### Background
+#### Background
 scitis.io offers an IoT framework to optimize production processes in various industriy sectors such as metalworking, energy, process engineering and packaging. Their Cloudplug is a hardware devices that collects data from various sources, e.g. production equipment, automation systems, and sensors. Sending the data to the Cloud Backend, the scitis IoT platform allows the monitoring of production processes in real-time, collecting production data and quality data, tracking production workflows, controlling machines, and analyzing production data to improve efficiency and quality of production. The interface allows manufacturers to identify bottlenecks and inefficiencies in their operation and take corrective action, resulting in increased productivity and reduced downtime.<br><br>
 
 
@@ -40,6 +40,6 @@ scitis.io offers an IoT framework to optimize production processes in various in
 
 
 ::: {.tbc}
-##### Incubating... {.unnumbered .unlisted}
+#### Incubating... {.unnumbered .unlisted}
 🐣 This part is about to hatch.
 :::

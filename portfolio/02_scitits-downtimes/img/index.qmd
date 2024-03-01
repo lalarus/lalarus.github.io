@@ -1,0 +1,71 @@
+---
+title: Recording production downtimes to increase Overall Equipment Efficiency (OEE)
+description: |
+   I implemented a new funcitionality that allows process operators and shift supervisors to record downtimes during production.
+date: 2024-01-14
+#site-url:
+image: img/designingforagency-title.jpg
+image-alt: |
+  A wooden table seen from bird's eye view with a cutter knife, a ruler and a printed sheet of paper lying on it
+categories:
+  - UX design
+  - user flows
+  - data visualization
+open-graph: true
+toc: true
+toc-location: right
+#number-sections: true
+format:
+  html:
+    back-to-top-navigation: true
+---
+
+#### Team
+The team consisted of 1 product owner and several developers and data engineers. My role as a UX designer included design research, user flows, prototyping and visual design.<br><br>
+
+#### Background
+Lorenz, a manufacturer with multiple production lines and sites,
+- record production downtimes
+- consistent and systematic recording allows for analysis --> detect bottlenecks / inefficiences -> corrective action -> productivity + increased downtime -> increased OEE 
+
+OPERATOR --> known and unknown causes
+- How can I become aware of a downtime happening?
+
+- How can I verify the cause of a downtime?
+- How can I change/supplement the cause of a downtime?
+- How can I add an (unscheduled) downtime manually?
+
+
+SHIFT SUPERVISOR --> scheduled and unscheduled
+- How can I get an overview of all downtimes? (Gesamtzahl auch wichtig)
+- How can I edit entries retrospectively?
+  - split downtime in two causes (scheduled only)
+  - edit timestamp
+
+
+
+#### Process
+- overview: what are objectives, needs
+
+anforderungen an das visual design: 
+- optimized for tablet (big buttons, easily differentiable)
+- easy onboarding
+- as little as possible clicks to task completion
+
+- user flows for each user group
+- sketches
+- prototyping
+
+#### Outcome
+- prototypes 
+- UI elements: confirm | change/supplement | add | split downtime | edit timestamp
+- 2 kinds of causes: known | unknown
+- 2 kinds of downtimes: scheduled | unscheduled
+- types of causes: Setup, disruption, repairs, cleaning, bottleneck
+
+##### Challenges
+- no interviews with actual customers --> what are needs? --> user testing
+
+##### Iterations 
+- Typ Stillstand -> von ausgeschrieben zu icon
+- Zeige Meldungen der letzten --> angepasst an user und schicht (8h)

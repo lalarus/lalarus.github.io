@@ -24,14 +24,14 @@ format:
 ::: {.callout-caution collapse="false" .column-body-outset}
 ## TLDR {{< iconify fa-solid certificate size=0.75em >}} 
 
-###### Problem
+###### Problem {.unnumbered}
 In today's attention economy, digital interfaces [undermine self-control]{.highlight}. This results in detrimental effects on user's well-being. I therefore explored how we can design interfaces that give back control (i.e. user agency) toward the people who interact with these interfaces. <br><br>
 
-###### Approach
+###### Approach {.unnumbered}
 Following a design thinking approach, I used [desk research]{.highlight}, [probe studies]{.highlight} and [affinity mapping]{.highlight} to explore how design mechanisms on Instagram support and undermine user control. Through [experience prototyping]{.highlight}, I then developed alternative design patterns that support sense of agency.<br><br>
 
 
-###### Solution
+###### Solution {.unnumbered}
 I identified six design patterns that describe how design mechanisms on Instagram support and undermine user control. I further developed [4 prototypes]{.highlight} that redesign Instagram's design mechanisms for greater user agency.
 
 :::
@@ -49,15 +49,15 @@ Analyzing and synthesizing my data allowed me to identify [six design patterns]{
 
 -->
 
-##### Team
+#### Team
 I worked in this project on my own. My academic supervisor and sparring-partner was [Eva Knutz](https://portal.findresearcher.sdu.dk/en/persons/evak). Please do reach out to me if you are interested in reading the whole study.<br><br>
 
 <!-- Information technology is tightly woven through our contemporary lives, offering broad access to communication, knowledge, and entertainment. However, this wealth of information has made attention a scarce and therefore precious resource. This has resulted in a competition in which a very small number of exeptionally powerful organizations are **continuously vying for people's attention**. Their technologies and products present **ubiquitous temptations** that frequently clash with other important activities in our lives. <br><br>
 -->
-##### Background
+#### Background
 :::: {.grid #selfcontrolfailure}
 :::  {.g-col-12 .g-col-sm-7 #text-selfcontrolfailure}
-*Capturing attention at all costs*<br>
+##### Capturing attention at all costs
 Information and communication technologies (ICT) are designed in a way that makes them exceptionally hard to resist. While people’s failure rate is 31% for smoking and 28% for drinking alcohol, they fail to resist media use 78% of the time (see figure). This is because design mechanisms such as push notifications and autoplay create task interruptions and task-irrelevant thoughts that put an additional strain on the self-control capacity of 
 This loss of agency that users experience over their technology use comes with detrimental effects on their well-being. Short-term effects such as feelings of fruststration and guilt often translate to more long-term decreases in cognitive well-being, including behavioral addiction and reduced life satisfaction. I therefore asked: 
 
@@ -71,8 +71,8 @@ This loss of agency that users experience over their technology use comes with d
 :::
 ::::
 
-##### Process
-*Overall research process: moving from exploration to ideation*<br>
+#### Process
+##### I. Overall research process: moving from exploration to ideation
 To answer this question, my research study design followed a design thinking process (see figure). I also used IDEO's method cards to come up with suitable methods for the different phases of my research. Regarding the *Discover* phase, for example, I gleaned inspiration from the following three IDEO method cards: *Secondary research*, *Try it yourself*, and *Cultural probes*. 
 
 
@@ -95,7 +95,7 @@ Analogue to the second Diamond of the design thinking process, the second part o
 
 <br><br>
 
-*Discover: From desk research to intervention*<br>
+##### II. Discover: From desk research to intervention
 I began my project with desk research, exploring the following three research areas: *dark patterns of interaction design*, *philosophy of technology* and *previous work on sense of agency for well-being*. 
 The results contributed an essential component of groundwork to my research as well as informed the further course of my research process. For example, there is a need for research to identify and examine design patterns that manipulate users into spending time and attention in an app against their best interests (so-called *attention capture dark patterns*). ^[Lukoff, K. (2022). *Designing to Support Sense of Agency for Time Spent on Digital Interfaces* [PhD Thesis]. University of Washington. ]
 
@@ -116,7 +116,7 @@ Instructions must be well thought through and leave no room for interpretation.
 :::
 
 
-*Define: Bringing all the data together*<br>
+##### III. Define: Bringing all the data together
 
 
 
@@ -137,7 +137,7 @@ Analyzing and clustering data on your own is difficult. After asking a second pe
 :::
 
 
-*Develop: designing to support user agency*<br>
+##### VI. Develop: designing to support user agency
 
 - 4 How-might-we (HMW) question, acting as design challenges
 - 4 prototypes 
@@ -155,4 +155,4 @@ Ideating on your own is tedious and lacks valuable feedback and inspiration from
 
 
 
-##### Outcomes
+#### Outcomes
