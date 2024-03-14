@@ -7,8 +7,15 @@
     "text": "In times where businesses are built upon data collection, I am exploring how my designs can better account for human values.\nOne approach is that I decided against any data collection on my website: this website does not have analytics, third-party web fonts or social network buttons that track you. No cookies, no cookie banner either.\nThe “I do not track you” declaration in the footer of my page is inspired by Laura Kalbag. I warmly recommend her blog if you want to know more about rights-respecting design, accessibility and privacy in the web."
   },
   {
-    "objectID": "portfolio/04_Website/index.html",
-    "href": "portfolio/04_Website/index.html",
+    "objectID": "portfolio/02_scitis-downtimes/img/index.html",
+    "href": "portfolio/02_scitis-downtimes/img/index.html",
+    "title": "Recording production downtimes to increase Overall Equipment Efficiency (OEE)",
+    "section": "",
+    "text": "Team\nThe team consisted of 1 product owner and several developers and data engineers. My role as a UX designer included design research, user flows, prototyping and visual design.\n\n\nBackground\nLorenz, a manufacturer with multiple production lines and sites, - record production downtimes - consistent and systematic recording allows for analysis –&gt; detect bottlenecks / inefficiences -&gt; corrective action -&gt; productivity + increased downtime -&gt; increased OEE\nOPERATOR –&gt; known and unknown causes - How can I become aware of a downtime happening?\n\nHow can I verify the cause of a downtime?\nHow can I change/supplement the cause of a downtime?\nHow can I add an (unscheduled) downtime manually?\n\nSHIFT SUPERVISOR –&gt; scheduled and unscheduled - How can I get an overview of all downtimes? (Gesamtzahl auch wichtig) - How can I edit entries retrospectively? - split downtime in two causes (scheduled only) - edit timestamp\n\n\nProcess\n\noverview: what are objectives, needs\n\nanforderungen an das visual design: - optimized for tablet (big buttons, easily differentiable) - easy onboarding - as little as possible clicks to task completion\n\nuser flows for each user group\nsketches\nprototyping\n\n\n\nOutcome\n\nprototypes\nUI elements: confirm | change/supplement | add | split downtime | edit timestamp\n2 kinds of causes: known | unknown\n2 kinds of downtimes: scheduled | unscheduled\ntypes of causes: Setup, disruption, repairs, cleaning, bottleneck\n\n\nChallenges\n\nno interviews with actual customers –&gt; what are needs? –&gt; user testing\n\n\n\nIterations\n\nTyp Stillstand -&gt; von ausgeschrieben zu icon\nZeige Meldungen der letzten –&gt; angepasst an user und schicht (8h)\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "portfolio/05_Website/index.html",
+    "href": "portfolio/05_Website/index.html",
     "title": "Programming my own website",
     "section": "",
     "text": "Incubating…\n🐣 This part is about to hatch.\n\n\n\n\n Back to top"
@@ -18,21 +25,42 @@
     "href": "portfolio/index.html",
     "title": "Portfolio",
     "section": "",
-    "text": "Here’s what I do: my work ranges from projects in interdisciplanary teams, assignments during my time at the University of Southern Denmark, to my own fiddling-arounds in my spare time. I aim to describe each project as a whole, including its detours and setbacks. After all, failure is part of the design process! \nApart from that, don’t hesitate to reach out if you want to know more about a specific project.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRefining and customizing an Industrial IoT platform\n\n\n\nUX design\n\n\ndata visualization\n\n\nuser flow\n\n\ninformation architecture\n\n\n\nI implemented new functionalities in scitis’ existing IoT framework as well as worked on customized features for customers.\n\n\n\n\n\n\n\n\n\n\n\n\n\nDesigning to support user agency\n\n\n\ndesign probes\n\n\nprototyping\n\n\nvalues in design\n\n\ndigital well-being\n\n\n\nIn my Master Thesis, I explored and redesigned design mechanisms on Instagram for a greater sense of user agency.\n\n\n\n\n\n\n\n\n\n\n\n\n\nExploring and defining an NGO’s identity\n\n\n\nuser studies\n\n\nbrand identity\n\n\nux testing\n\n\nsustainability\n\n\n\nIn a team of three, we created a website prototype to communicate the organization’s identity and attract new members.\n\n\n\n\n\n\n\n\n\n\n\n\n\nProgramming my own website\n\n\n\nprogramming\n\n\nUX\n\n\nusability testing\n\n\nbrand identity\n\n\n\nHow I created this website and my choices along the way.\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Here’s what I do: my work ranges from projects in interdisciplanary teams, assignments during my time at the University of Southern Denmark, to my own fiddling-arounds in my spare time. I aim to describe each project as a whole, including its detours and setbacks. After all, failure is part of the design process! \nApart from that, don’t hesitate to reach out if you want to know more about a specific project.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRefining and customizing an Industrial IoT platform\n\n\n\nUX design\n\n\ndata visualization\n\n\nuser flows\n\n\ninformation architecture\n\n\n\nI implemented new functionalities in scitis’ existing IoT framework as well as worked on customized features for customers.\n\n\n\n\n\n\n\n\n\n\n\n\n\nRecording production downtimes to increase Overall Equipment Efficiency (OEE)\n\n\n\nUX design\n\n\nuser flows\n\n\ndata visualization\n\n\n\nI implemented a new funcitionality that allows process operators and shift supervisors to record downtimes during production.\n\n\n\n\n\n\n\n\n\n\n\n\n\nDesigning to support user agency\n\n\n\ndesign probes\n\n\nprototyping\n\n\nvalues in design\n\n\ndigital well-being\n\n\n\nIn my Master Thesis, I explored and redesigned design mechanisms on Instagram for a greater sense of user agency.\n\n\n\n\n\n\n\n\n\n\n\n\n\nExploring and defining an NGO’s identity\n\n\n\nuser studies\n\n\nbrand identity\n\n\nux testing\n\n\nsustainability\n\n\n\nIn a team of three, we created a website prototype to communicate the organization’s identity and attract new members.\n\n\n\n\n\n\n\n\n\n\n\n\n\nProgramming my own website\n\n\n\nprogramming\n\n\nUX\n\n\nusability testing\n\n\nbrand identity\n\n\n\nHow I created this website and my choices along the way.\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "portfolio/01_scitis/index.html",
-    "href": "portfolio/01_scitis/index.html",
-    "title": "Refining and customizing an Industrial IoT platform",
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
     "section": "",
-    "text": "Team\nDepending on the specific project, the team consisted of 1 product owner, 1 UI designer, 1 UX designer and several developers and data engineers. My role as a UX designer included initial design research, creating user flows and early sketches, low- and high-fidelity prototyping as well as validation testing.\n\n\nBackground\nscitis.io offers an IoT framework to optimize production processes in various industriy sectors such as metalworking, energy, process engineering and packaging. Their Cloudplug is a hardware devices that collects data from various sources, e.g. production equipment, automation systems, and sensors. Sending the data to the Cloud Backend, the scitis IoT platform allows the monitoring of production processes in real-time, collecting production data and quality data, tracking production workflows, controlling machines, and analyzing production data to improve efficiency and quality of production. The interface allows manufacturers to identify bottlenecks and inefficiencies in their operation and take corrective action, resulting in increased productivity and reduced downtime.\n\n\nCustomer-specific projects\n\nVisualizing target quantity and actual quantity on a customized dashboardThe Lorenz Bahlsen Snack-World GmbH & Co KG Germany\nDeveloping a navigation architecture for the filtering and displayal of several hundreds of connected production machinesIngersoll Rand Inc.\n\n\n\n\nGeneral platform improvements\n\nAdapting the interface for multiple user roles with different user flows and access rights\nReporting production errors and downtimes\n\n\n\nIncubating…\n🐣 This part is about to hatch.\n\n\n\n\n Back to top"
+    "text": "This is where I reference inspiring people and great resources on topics that I deeply care about. Like »values in design« and »ethics in technology«. I might also just write about my latest design inspiration. Or my love for heavy snowfall. Maybe we have some interests in common!\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\nEvery design is political\n\n\n\n\n\n\n\nValues\n\n\nTechnology\n\n\nDesign\n\n\n\n\nThoughts on why it is so important to consider values in design. Image: Photo courtesy NYC Municipal Archives.\n\n\n\n\n\n\nDec 3, 2023\n\n\n\n\n\n\n  \n\n\n\n\nSome thoughts on snow\n\n\n\n\n\n\n\nSnow\n\n\nLife\n\n\n\n\nWinter is here! And with it came some thoughts that occured to me on my daily bike rides into town.\n\n\n\n\n\n\nDec 3, 2023\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "blog/23-12-Values/index.html",
-    "href": "blog/23-12-Values/index.html",
-    "title": "Every design is political",
+    "objectID": "blog/ThoughtsOnSnow/index.html",
+    "href": "blog/ThoughtsOnSnow/index.html",
+    "title": "Some thoughts on snow",
     "section": "",
-    "text": "Design is political\nEvery design carries ethical responsibility. It was a lecture on »Value-based Design« during my time at SDU that sparked my passion for ethics and responsibility in design.\n\n\nIncubating…\n🐣 This part is about to hatch.\n\n\n\n\n Back to top"
+    "text": "Incubating…\n🐣 This part is about to hatch.\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "About",
+    "section": "",
+    "text": "👋🏻 I’m Larry, a curious designer based in Stockholm, who is passionate about using design to help make complex issues accessible and to create meaningful change.\n\nLinkedIn ↗\nGitHub ↗\n\nCV ↗"
+  },
+  {
+    "objectID": "about/index.html#text-about-2",
+    "href": "about/index.html#text-about-2",
+    "title": "About",
+    "section": "Even more about me",
+    "text": "Even more about me\n\n\nWork experience\nInteraction and User Experience (UX) Designer  Freelance / 2014 - 2023\nUX Designer  scitis.io GmbH, Stuttgart, Germany / 2021\nProject Manager Communications and Innovation Programs  bwcon GmbH, Stuttgart / 2019 - 2020\n\n\nEducation\nM.Sc. Information Technology (IT) – Web Communication Design  Syddansk Universitet, Kolding, Denmark / 2021 - 2023\nB.A. Graphic Design and Communication (ERASMUS)  Linköpings Universitet, Norrköping, Sweden / 2016 - 2017\nB.A. Advertising and Market Communication  Hochschule der Medien, Stuttgart, Germany / 2014 - 2019\n\n\n\n\n\nSkills and tools\n\nDesign tools: Figma, Adobe CC, Sketch, and Miro.\nConducting user studies by employing methods such as Design Thinking, Prototyping, User Testing. Facilitating workshops on these topics.\nUnderstanding and visualizing quantitative & qualitative data.\nImplementing structured data markup on a website and making it more accessible by adhering to the WCAG 2.1 guidelines.\nGenerating customer insights and user journeys and deriving strategic decisions and creative concepts for relevant touchpoints.\nHTML and CSS/SASS | Bootstrap and basic JavaScript.\nApproaching interfaces with a user-centered mindset.\nCreative thinking.\nCollaborating in an agile team.\n\n\n\n\nLanguages\n\nGerman, Native \nEnglish, Fluent \nSwedish, Conversational \nDanish, Intermediate \nFrench, Elementary"
+  },
+  {
+    "objectID": "about/index.html#contact",
+    "href": "about/index.html#contact",
+    "title": "About",
+    "section": "Contact ",
+    "text": "Contact \nI’m always looking for new things to do. So please come bother me for interesting collaborations.\nGot questions, or just want to reach out and say hello? I’m open for that, too!  You can find me on  LinkedIn and  GitHub. Or, you can drop me an e-mail at hello@larissalang.com"
   },
   {
     "objectID": "index.html",
@@ -49,57 +77,36 @@
     "text": "Contact \nI’m always looking for new things to do. So please come bother me for interesting collaborations.\nGot questions, or just want to reach out and say hello? I’m open for that, too!  You can find me on  LinkedIn and  GitHub. Or, you can drop me an e-mail at hello[at]larissalang.com"
   },
   {
-    "objectID": "about/index.html",
-    "href": "about/index.html",
-    "title": "About",
+    "objectID": "blog/23-12-Values/index.html",
+    "href": "blog/23-12-Values/index.html",
+    "title": "Every design is political",
     "section": "",
-    "text": "👋🏻 I’m Larry, a curious designer based in Stockholm, who is passionate about using design to help make complex issues accessible and to create meaningful change.\n\nLinkedIn ↗\nGitHub ↗\n\nCV ↗"
+    "text": "Design is political\nEvery design carries ethical responsibility. It was a lecture on »Value-based Design« during my time at SDU that sparked my passion for ethics and responsibility in design.\n\n\nIncubating…\n🐣 This part is about to hatch.\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "about/index.html#text-about-2",
-    "href": "about/index.html#text-about-2",
-    "title": "About",
-    "section": "Even more about me",
-    "text": "Even more about me\n\n\nWork experience\nInteraction and User Experience (UX) Designer  Freelance / 2014 - 2023\nUX Designer  scitis.io GmbH, Stuttgart, Germany / 2021\nProject Manager Communications and Innovation Programs  bwcon GmbH, Stuttgart / 2019 - 2020\n\n\nEducation\nM.Sc. Information Technology (IT) – Web Communication Design  Syddansk Universitet, Kolding, Denmark / 2021 - 2023\nB.A. Graphic Design and Communication (ERASMUS)  Linköpings Universitet, Norrköping, Sweden / 2016 - 2017\nB.A. Advertising and Market Communication  Hochschule der Medien, Stuttgart, Germany / 2014 - 2019\n\n\n\n\n\nSkills and tools\n\nDesign tools: Figma, Adobe CC, Miro and Keynote.\nConducting user studies by employing methods such as Design Thinking, Prototyping, User Testing. Moderating workshops on these topics.\nCombining quantitative & qualitative research.\nGenerating customer insights and user journeys and deriving strategic design decisions for relevant touchpoints from it.\nImplementing structured data markup (Schema) and ensuring WCAG compliance.\nHTML and CSS/SASS | Bootstrap and basic Javascript\nCMS: Wordpress and TYPO3 | Google Analytics \nApproaching interfaces with a user-centered mindset. \nCreative thinking. \nCollaborating in an agile team. \n\n\n\n\nLanguages\n\nGerman, Native \nEnglish, Fluent \nSwedish, Conversational \nDanish, Intermediate \nFrench, Elementary"
-  },
-  {
-    "objectID": "about/index.html#contact",
-    "href": "about/index.html#contact",
-    "title": "About",
-    "section": "Contact ",
-    "text": "Contact \nI’m always looking for new things to do. So please come bother me for interesting collaborations.\nGot questions, or just want to reach out and say hello? I’m open for that, too!  You can find me on  LinkedIn and  GitHub. Or, you can drop me an e-mail at hello@larissalang.com"
-  },
-  {
-    "objectID": "blog/ThoughtsOnSnow/index.html",
-    "href": "blog/ThoughtsOnSnow/index.html",
-    "title": "Some thoughts on snow",
+    "objectID": "portfolio/01_scitis/index.html",
+    "href": "portfolio/01_scitis/index.html",
+    "title": "Refining and customizing an Industrial IoT platform",
     "section": "",
-    "text": "Incubating…\n🐣 This part is about to hatch.\n\n\n\n\n Back to top"
+    "text": "Team\nDepending on the specific project, the team consisted of 1 product owner, 1 UI designer, 1 UX designer and several developers and data engineers. My role as a UX designer included initial design research, creating user flows and early sketches, low- and high-fidelity prototyping as well as validation testing.\n\n\nBackground\nscitis.io offers an IoT framework to optimize production processes in various industriy sectors such as metalworking, energy, process engineering and packaging. Their Cloudplug is a hardware devices that collects data from various sources, e.g. production equipment, automation systems, and sensors. Sending the data to the Cloud Backend, the scitis IoT platform allows the monitoring of production processes in real-time, collecting production data and quality data, tracking production workflows, controlling machines, and analyzing production data to improve efficiency and quality of production. The interface allows manufacturers to identify bottlenecks and inefficiencies in their operation and take corrective action, resulting in increased productivity and reduced downtime.\n\nCustomer-specific projects\n\nVisualizing target quantity and actual quantity on a customized dashboardThe Lorenz Bahlsen Snack-World GmbH & Co KG Germany\nDeveloping a navigation architecture for the filtering and displayal of several hundreds of connected production machinesIngersoll Rand Inc.\n\n\n\n\nGeneral platform improvements\n\nAdapting the interface for multiple user roles with different user flows and access rights\nReporting production errors and downtimes\n\n\n\n\nIncubating…\n🐣 This part is about to hatch.\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Blog",
-    "section": "",
-    "text": "This is where I reference inspiring people and great resources on topics that I deeply care about. Like »values in design« and »ethics in technology«. I might also just write about my latest design inspiration. Or my love for heavy snowfall. Maybe we have some interests in common!\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\nEvery design is political\n\n\n\n\n\n\n\nValues\n\n\nTechnology\n\n\nDesign\n\n\n\n\nThoughts on why it is so important to consider values in design. Image: Photo courtesy NYC Municipal Archives.\n\n\n\n\n\n\nDec 3, 2023\n\n\n\n\n\n\n  \n\n\n\n\nSome thoughts on snow\n\n\n\n\n\n\n\nSnow\n\n\nLife\n\n\n\n\nWinter is here! And with it came some thoughts that occured to me on my daily bike rides into town.\n\n\n\n\n\n\nDec 3, 2023\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "portfolio/02_DesigningForAgency/index.html",
-    "href": "portfolio/02_DesigningForAgency/index.html",
+    "objectID": "portfolio/03_DesigningForAgency/index.html",
+    "href": "portfolio/03_DesigningForAgency/index.html",
     "title": "Designing to support user agency",
     "section": "",
-    "text": "TLDR \n\n\n\n\n\n\n\nIn today’s attention economy, digital interfaces undermine self-control. This results in detrimental effects on user’s well-being. I therefore explored how we can design interfaces that give back control (i.e. user agency) toward the people who interact with these interfaces. \n\n\n\nFollowing a design thinking approach, I used desk research, probe studies and affinity mapping to explore how design mechanisms on Instagram support and undermine user control. Through experience prototyping, I then developed alternative design patterns that support sense of agency.\n\n\n\nI identified six design patterns that describe how design mechanisms on Instagram support and undermine user control. I further developed 4 prototypes that redesign Instagram’s design mechanisms for greater user agency.\nDefine: Bringing all the data together\nDevelop: designing to support user agency"
+    "text": "TLDR \n\n\n\n\n\n\n\nIn today’s attention economy, digital interfaces undermine self-control. This results in detrimental effects on user’s well-being. I therefore explored how we can design interfaces that give back control (i.e. user agency) toward the people who interact with these interfaces. \n\n\n\nFollowing a design thinking approach, I used desk research, probe studies and affinity mapping to explore how design mechanisms on Instagram support and undermine user control. Through experience prototyping, I then developed alternative design patterns that support sense of agency.\n\n\n\nI identified six design patterns that describe how design mechanisms on Instagram support and undermine user control. I further developed 4 prototypes that redesign Instagram’s design mechanisms for greater user agency."
   },
   {
-    "objectID": "portfolio/02_DesigningForAgency/index.html#footnotes",
-    "href": "portfolio/02_DesigningForAgency/index.html#footnotes",
+    "objectID": "portfolio/03_DesigningForAgency/index.html#footnotes",
+    "href": "portfolio/03_DesigningForAgency/index.html#footnotes",
     "title": "Designing to support user agency",
     "section": "Footnotes",
-    "text": "Footnotes\n\n\nDelaney, L., & Lades, L. K. (2017). Present Bias and Everyday Self-Control Failures: A Day Reconstruction Study. Journal of Behavioral Decision Making, 30(5), 1157–1167. https://doi.org/10.1002/bdm.2031 ↩︎\nLukoff, K. (2022). Designing to Support Sense of Agency for Time Spent on Digital Interfaces [PhD Thesis]. University of Washington. ↩︎"
+    "text": "Footnotes\n\n\nDelaney, L., & Lades, L. K. (2017). Present Bias and Everyday Self-Control Failures: A Day Reconstruction Study. Journal of Behavioral Decision Making, 30(5), 1157–1167. https://doi.org/10.1002/bdm.2031 ↩︎\nLukoff, K. (2022). Designing to Support Sense of Agency for Time Spent on Digital Interfaces [PhD Thesis]. University of Washington. ↩︎\nHartson, H. R. (2012). The UX Book: Process and guidelines for ensuring a quality user experience. Morgan Kaufmann/Elsevier. ↩︎"
   },
   {
-    "objectID": "portfolio/03_GreenKolding/index.html",
-    "href": "portfolio/03_GreenKolding/index.html",
+    "objectID": "portfolio/04_GreenKolding/index.html",
+    "href": "portfolio/04_GreenKolding/index.html",
     "title": "Exploring and defining an NGO’s identity",
     "section": "",
     "text": "TLDR \n\n\n\n\n\n\nProblem\nAs a local youth organization that aims to push climate and sustainability action, Green Kolding struggles to attract participants. Another problem is its members’ uncertainty about what Green Kolding stands for.\n\n\nApproach\nI conceptualized and conducted a co-design workshop to explore and define Green Kolding’s identity. We then interviewed the two heads of the organization. Analyzing the data with empathy mapping identified the need for a website which communicates Green Kolding’s identity and attracts new members. We developed a website prototype and conducted user experience tests with the target group.\n\n\nSolution\nThe workshop’s goal was to define Green Kolding’s identity but this was difficult because the number of attendants who regularly engage with Green Kolding was very low. Despite this, our interviews led to a deeper understanding of the organization’s self-perception and needs. We addressed those needs with a website prototype but testing it revealed that Green Kolding’s identity remains vague and discourages potential members from joining.\n\n\n\n\n\nIncubating…\n🐣 This part is about to hatch.\n\n\n\n\n Back to top"
