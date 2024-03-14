@@ -57,8 +57,7 @@ I worked in this project on my own. My academic supervisor and sparring-partner 
 #### Background
 :::: {.grid #selfcontrolfailure}
 :::  {.g-col-12 .g-col-sm-7 #text-selfcontrolfailure}
-##### Capturing attention at all costs
-Information and communication technologies (ICT) are designed in a way that makes them exceptionally hard to resist. While people’s failure rate is 31% for smoking and 28% for drinking alcohol, they fail to resist media use 78% of the time (see figure). This is because design mechanisms such as push notifications and autoplay create task interruptions and task-irrelevant thoughts that put an additional strain on the self-control capacity of 
+Information and communication technologies (ICT) are designed in a way that makes them exceptionally hard to resist. While people’s failure rate is 31% for smoking and 28% for drinking alcohol, they fail to resist media use 78% of the time (see figure). This is because design mechanisms such as push notifications and autoplay create task interruptions and task-irrelevant thoughts that put an additional strain on the self-control capacity of media users.<br>
 This loss of agency that users experience over their technology use comes with detrimental effects on their well-being. Short-term effects such as feelings of fruststration and guilt often translate to more long-term decreases in cognitive well-being, including behavioral addiction and reduced life satisfaction. I therefore asked: 
 
 > *How can we design interfaces that give back control (i.e., user agency) toward the people who interact with these interfaces?*
@@ -104,7 +103,11 @@ Each probe kit included 2 assignments and 2 corresponding diaries (*see figure*)
 
 ![&#x2BA4; A snapshot of the creation process of a diary (top-left), the cover of a final diary (top-right), and the first double page of a low control diary (bottom)](img/2-probediary-variant.jpg){fig-alt="The photo in the top-left corner shows a snapshot of the creation process of a diary. The photo in the top-right corner shows the cover of a final diary. In the bottom is the first double page of a low control diary"}
 
-Besides the diary, each participant received a number of other materials (*see figure*). For example, the envelope for study day 1 contained straps to attach the diary to the back of a smartphone (see figure, A.2)
+Besides the diaries, each participant received a number of other materials (*see figure*).
+
+To accompany you in your daily routine, the diary is meant to be attached to your smartphone’s case. 
+
+ For example, the envelope for study day 1 contained straps to attach the diary to the back of a smartphone (see figure, A.2)
 
 ![&#x2BA4; The different materials included in one probe kit](img/2-probekitcontents.jpg){fig-alt="A photo of a redpoll."}
 
