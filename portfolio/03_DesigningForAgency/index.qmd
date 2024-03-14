@@ -36,33 +36,19 @@ I identified six design patterns that describe how design mechanisms on Instagra
 
 :::
 
-
-<!--
-
-###### Approach
-Following a design thinking approach, I used [desk research]{.highlight}, [probe studies]{.highlight} and [affinity mapping]{.highlight} to explore how design mechanisms on Instagram support and undermine user control. My results updated and substantiated the initital problem statement and informed 4 design challenges. I explored these design challenges with [experience prototyping]{.highlight}, developing alternative design patterns that might support sense of agency.<br><br>
-
-
-###### Solution
-
-Analyzing and synthesizing my data allowed me to identify [six design patterns]{.highlight} that describe how design mechanisms on Instagram support and undermine user control. Based on these results, I redesigned four existing design mechanisms on Instagram. Each of these [prototype]{.highlight} presents a best practice in how to design for greater user agency.
-
--->
-
 #### Team
 I worked in this project on my own. My academic supervisor and sparring-partner was [Eva Knutz](https://portal.findresearcher.sdu.dk/en/persons/evak). Please do reach out to me if you are interested in reading the whole study.<br><br>
 
-<!-- Information technology is tightly woven through our contemporary lives, offering broad access to communication, knowledge, and entertainment. However, this wealth of information has made attention a scarce and therefore precious resource. This has resulted in a competition in which a very small number of exeptionally powerful organizations are **continuously vying for people's attention**. Their technologies and products present **ubiquitous temptations** that frequently clash with other important activities in our lives. <br><br>
--->
+
 #### Background
 :::: {.grid #selfcontrolfailure}
 :::  {.g-col-12 .g-col-sm-7 #text-selfcontrolfailure}
-Information and communication technologies (ICT) are designed in a way that makes them exceptionally hard to resist. While people’s failure rate is 31% for smoking and 28% for drinking alcohol, they fail to resist media use 78% of the time (see figure). This is because design mechanisms such as push notifications and autoplay create task interruptions and task-irrelevant thoughts that put an additional strain on the self-control capacity of media users.<br>
+Information and communication technologies (ICT) are designed in a way that makes them exceptionally hard to resist. While people’s failure rate is 31% for smoking and 28% for drinking alcohol, they fail to resist media use 78% of the time (*see figure*). This is because design mechanisms such as push notifications and autoplay create task interruptions and task-irrelevant thoughts that put an additional strain on the self-control capacity of media users.<br>
 This loss of agency that users experience over their technology use comes with detrimental effects on their well-being. Short-term effects such as feelings of fruststration and guilt often translate to more long-term decreases in cognitive well-being, including behavioral addiction and reduced life satisfaction. I therefore asked: 
 
 > *How can we design interfaces that give back control (i.e., user agency) toward the people who interact with these interfaces?*
 
-<br><br>
+<br>
 
 :::
 ::: {.g-col-12 .g-col-sm-5 #img-selfcontrolfailure}
@@ -92,70 +78,84 @@ Analogue to the second Diamond of the design thinking process, the second part o
 
 ![&#x2BA4; Research study design](img/1-researchstudydesign.jpg){fig-alt="A graphical representation of a research study design. It comprises two large rectangles with dotted borders. Outside the rectangle on the left is a text reading 'Phenomenon/problem' with an arrow pointing towards a text reading 'Aim'. Another arrow points from 'Aim' towards the inner space of the rectangle. Within this rectangle, a text in the top reads 'RQ1: What existing design mechanisms influence sense of agency?'. Below different research inquries and their dependencies to one another are visualized through various shapes and arrows. Reading from left to right, the different inquries are named: 'Desk research', 'Pilot probe study', 'Probe study' and 'Affinity diagram'. The shapes visualizing 'Affinity diagram' pass into the second large rectangle on the right side. Within this rectangle, a text in the top reads 'RQ2: What are alternative design mechanisms that might support sense of agency?'. Analogue to the first large rectangle, different research inquries and their dependencies to one another and to the inquries of the first large rectangle are visualized. Reading from left to right, the different inquries are named: 'Experience prototypes' and 'User testing'. Unlike the other inquries, 'User testing' is grayed out."}
 
-<br><br>
+<br>
 
 ##### II. Discover: From desk research to intervention
 I began my project with desk research, exploring the following three research areas: *dark patterns of interaction design*, *philosophy of technology* and *previous work on sense of agency for well-being*. 
-The results contributed an essential component of groundwork to my research as well as informed the further course of my research process. For example, there is a need for research to identify and examine design patterns that manipulate users into spending time and attention in an app against their best interests (so-called *attention capture dark patterns*). ^[Lukoff, K. (2022). *Designing to Support Sense of Agency for Time Spent on Digital Interfaces* [PhD Thesis]. University of Washington. ]
+The results contributed an essential component of groundwork to my research and informed the further course of my research process. For example, there is a need for research to identify and examine design patterns that manipulate users into spending time and attention in an app against their best interests (so-called *attention capture dark patterns*). ^[Lukoff, K. (2022). *Designing to Support Sense of Agency for Time Spent on Digital Interfaces* [PhD Thesis]. University of Washington. ]
 
-I then designed and conducted my own intervention: a probe study with a total of 12 participants. My aim was to collect user experiences and form an empathic understanding of how existing design mechanisms in the Instagram mobile app influence user sense of agency. 
-Each probe kit included 2 assignments and 2 corresponding diaries (*see figure*). The first assignment asked participants to name and explain things that made them feel *least in control (LC)* of how they spend their time on Instagram. Thereafter, the second assignment asked them to name and explain things that made them feel *most in control (MC)*.
+I then designed and conducted my own intervention: a probe study with a total of 12 participants. My aim was to collect user experiences and form an empathic understanding of how existing design mechanisms in the Instagram mobile app influence user sense of agency.<br>
+Each probe kit included 2 assignments and 2 corresponding diaries (*see figure*). The first assignment asked participants to name and explaing things that made them feel *least in control (LC)* of how they spend their time on Instagram. Thereafter, the second assignment asked them to name and explain things that made them feel *most in control (MC)*.
 
 ![&#x2BA4; A snapshot of the creation process of a diary (top-left), the cover of a final diary (top-right), and the first double page of a low control diary (bottom)](img/2-probediary-variant.jpg){fig-alt="The photo in the top-left corner shows a snapshot of the creation process of a diary. The photo in the top-right corner shows the cover of a final diary. In the bottom is the first double page of a low control diary"}
 
 Besides the diaries, each participant received a number of other materials (*see figure*).
+For example, the probe kit contained rubber bands to attach the diary to the back of a smartphone (*see figure, A.2*). This way, the diary accompanied participants in their daily routines.
 
-To accompany you in your daily routine, the diary is meant to be attached to your smartphone’s case. 
-
- For example, the envelope for study day 1 contained straps to attach the diary to the back of a smartphone (see figure, A.2)
-
-![&#x2BA4; The different materials included in one probe kit](img/2-probekitcontents.jpg){fig-alt="A photo of a redpoll."}
+![&#x2BA4; The different materials included in one probe kit](img/2-probekitcontents.jpg){fig-alt="Different materials included in one probe kit are spread out on a table, seen from bird's eye view."}
 
 
 ::: {.challenges}
 ##### Challenges
-Probe studies require considerable time and effort.
-Instructions must be well thought through and leave no room for interpretation.
+1. **Probe studies require considerable time and effort.**<br>
+I underestimated the time that was required for participant recruitment, material preparation & shipment and on-going communication with participants. Moreover, almost half of all participants delayed the start of their assignment phase due to personal reasons. Also, since my sample included participants from different countries, delivery times varied and participants received their probe kits at different times. 
+
+
+2. **Instructions must be well thought through and leave no room for interpretation.**<br>
+While I committed a lot of effort to create comprehensive and clear instructions, some participants sought my advice during the assignment phase. I was particularly surprised that one participant did not understand how to attach the diary to their phone even though I had created step-by-step illustrations for it.
 :::
 
 
 ##### III. Define: Bringing all the data together
+I used affinity diagramming to analyze and synthesize the data gained from my probes studies. Affinity diagramming is a technique used to organize and make sense of large amounts of unstructured, far-ranging, and seemingly dissimilar qualitative data ^[Hartson, H. R. (2012). *The UX Book: Process and guidelines for ensuring a quality user experience.* Morgan Kaufmann/Elsevier. ]. I therefore found it a suitable tool for analyzing the fragmented and unclear nature of my probe study results.<br>
+The final affinity diagram included 89 (89%) of all responses, grouping them into several clusters (pink labels) and two overarching themes (green labels) (*see figures*).
 
+![&#x2BA4; Affinity notes created from the data gained from the probe studies](img/3-affinitynotes.jpg){fig-alt=""}
 
-
-![&#x2BA4; Affinity notes created from the data gained from the probe studies](img/3-affinitynotes.jpg){fig-alt="A photo of a redpoll."}
-
-![&#x2BA4; A part of the finalized affinity diagram](img/3-affinitydiagram.jpg){fig-alt="A photo of a redpoll."}
-
-> Instagram users **need** to be more in control over how they spend their time in the Instagram app **because** current design mechanisms undermine their sense of agency, thereby deteriorating user well-being. This happens in four ways: by imposing unwanted information on users, by showing highly personalized content, by creating fear of missing out, and by determining the ease of an interaction.
-
-- 4 types of design patterns for least control
-- 3 types of design patterns for most control
-
-![&#x2BA4;; Types of design patterns that classify design mechanisms that make people feel least in control over how they spend their time in the Instagram app. The description explains how a design pattern undermines user sense of agency. Design patterns are listed in the order of frequency of corresponding responses from the affinity diagram.](img/4-LCdesignpatterns.jpg){fig-alt="A photo of a redpoll."}
+![&#x2BA4; A part of the finalized affinity diagram](img/3-affinitydiagram.jpg){fig-alt=""}
 
 ::: {.iterations}
 ##### Iterations
-Analyzing and clustering data on your own is difficult. After asking a second person for feedback, I discarded my first affinity diagram and started from scratch.
+**Analyzing and clustering data on your own is difficult.**<br> After asking a second person for feedback, I discarded my first affinity diagram and started from scratch.
 :::
 
+The affinity diagram revealed distinct design mechanisms that influence user sense of agency in the Instagram app. They can be classified into 6 higher-level design patterns that describe *how* these design mechanism support or undermine user control.<br>
+One example for such a higher-level design pattern for low control is the *imposing* design pattern (*see figure*). *Imposing* design patterns include design mechanisms that impose unwanted information on a user. Notifications and Ads were the two design mechanisms that undermined user agency most by being too imposing. The corresponding response from one participant stated:
 
-##### VI. Develop: designing to support user agency
+> “Trending reels notification – Instagram prompts me to watch the most watched reels in Denmark today even though I have never asked for it.”
 
-- 4 How-might-we (HMW) question, acting as design challenges
-- 4 prototypes 
+![&#x2BA4;; Types of design patterns that classify design mechanisms that make people feel least in control over how they spend their time in the Instagram app. The description explains how a design pattern undermines user sense of agency. Design patterns are listed in the order of frequency of corresponding responses from the affinity diagram.](img/4-LCdesignpatterns.jpg){fig-alt=""}
 
 
-![&#x2BA4; Mockups of the original design (left) and the redesign (right) of the Feed and Stories mechanisms.](img/5-prototype-fomo-800.jpg){fig-alt="A photo of a redpoll."}
+Finally, I condensed my Define phase results into a actionable problem statement, the so-called *Point of View (POV)*. The POV brings the process of understanding the problem to an end and at the same time acts as a link to the following *Develop* phase:
 
-![&#x2BA4; Mockups of the original design (left) and the redesign (right) of the Reels mechanism.](img/5-prototype-easeofuse-800.jpg){fig-alt="A photo of a redpoll."}
+> Instagram users <br> **need** <br> to be more in control over how they spend their time in the Instagram app <br> **because** <br> current design mechanisms undermine their sense of agency, thereby deteriorating user well-being. This happens in four ways: by imposing unwanted information on users, by showing highly personalized content, by creating fear of missing out, and by determining the ease of an interaction.
+
+<br>
+
+
+##### IV. Develop: designing to support user agency
+The Develop phase of my research process related to the second research questio  – i.e., *what are alternative design mechanisms in the Instagram mobile app that might support sense of agency?*<br><br>
+Picking up on the insights articulated in the POV, I first developed four *How might we (HMW)* questions. I used them as design challenges to foster the exploration of new ideas, concepts, and solutions. For example, regarding *ease-of-use* design patterns, I formulated the following HMW question: *how might we redesign design mechanisms that determine how easily users can interact with the interface?*<br><br>
+I then used experience prototyping to develop solutions to these four HMW questions. For example, one experience prototype was a redesign of the Reels mechanism (*see figure*). It addressed the challenge mentioned above of redesigning *ease-of-use* patterns for a greater sense of user agency. The redesign focused on how easily users were able to see and consume new content. Results from the probe studies had shown that the frictionless design of the Reels mechanism undermined user control. More specifically, the ease of the scrolling gesture entrapped users in an “endless loop of content”, making it hard for users to stop seeing more reels. Therefore, my experience prototype did not feature continuous scrolling but instead included a microboundary.
+
+
+<!-- 
+![&#x2BA4; Mockups of the original design (left) and the redesign (right) of the Feed and Stories mechanisms.](img/5-prototype-fomo-800.jpg){fig-alt=""}
+-->
+
+![&#x2BA4; Mockups of the original design (left) and the redesign (right) of the Reels mechanism.](img/5-prototype-easeofuse-800.jpg){fig-alt=""}
 
 
 ::: {.challenges}
 ##### Challenges
-Ideating on your own is tedious and lacks valuable feedback and inspiration from others. Here, this left me with insufficient time to test my prototypes.
+**Ideating on your own is tedious and lacks valuable feedback and inspiration from others.**<br> Here, this left me with insufficient time to test my prototypes.
 :::
 
 
 
 #### Outcomes
+My probe study results identify six design patterns that describe how design mechanisms
+on Instagram support and undermine user control. Most notably, existing design mechanisms on Instagram made participants feel low in control in four ways: by imposing unwanted information, by showing highly personalized content, by creating fear of missing out, and by determining the ease of an interaction.<br><br>
+Based on these findings, my experience prototypes explore alternative design mechanisms that might support user sense of agency. They constitute redesigns of the following four design mechanisms in the Instagram app: Notifications, the General app UI, Feed & Stories, and Reels. The prototypes present best practices in how to design for greater user agency.<br><br>
+However, ideating and developing these prototypes did not involve any co-creation activities. Future studies are needed to validate whether the redesigns successfully support digital well-being.
