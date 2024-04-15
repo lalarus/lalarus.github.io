@@ -16,7 +16,7 @@ This is the very first website I'm coding for myself. And maybe you know the str
 
 Meanwhile:
 [Learn more about me](about/index.qmd) or have a dip into [my portfolio](portfolio/index.qmd).<br>
-More into a long-read? Then have a look at [my blog](blog/index.qmd). <br><br><br>
+ <br><br><br>
 :::
 ::::
 

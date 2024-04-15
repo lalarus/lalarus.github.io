@@ -17,9 +17,7 @@ website:
       - text: About
         href: about/index.qmd
       - text: Portfolio
-        href: portfolio/index.qmd
-      - text: Blog
-        href: blog/index.qmd   
+        href: portfolio/index.qmd  
     pinned: false
 
   page-footer:
