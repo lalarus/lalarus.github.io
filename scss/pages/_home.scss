@@ -1,0 +1,20 @@
+/*-- scss:rules --*/
+
+
+#hero-home {
+    padding-bottom: 4em;
+}
+
+
+/* space between heading and the content */
+#featured-projects h2 {
+    margin-bottom: 1em;
+}
+
+/* make the text break nicer on bigger screens */
+#hero-home {
+
+    @media screen and (min-width: 1127px) {
+    padding-right: 3em;
+    }
+}

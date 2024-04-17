@@ -14,7 +14,7 @@
 
     // moves items to the start (=top) of the container on large screens with 2 columns
     // so the heading "about" is at the top
-    // on smaller screens (1 column), solana's default CSS aligns items centered in the container
+    // on smaller screens (1 column), solana's default CSS aligns items centered in the container (align-items: center)
     @media screen and (min-width: 992px) {
         align-items: flex-start !important;
         gap: 0px 150px;

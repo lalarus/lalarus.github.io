@@ -1,51 +1,68 @@
 ---
-title: "Hallo!"
+title: "Hallo! 🐦‍⬛"
 patetitle: "Larissa Lang"
 toc: false
+image: about/img/about_larry.jpg
+image-title: hej, that's me!
+image-alt: "Medium close-up shot of a woman in her late twenties with curly hair and a headband, looking into the lens and smiling"
+about:
+  template: solana
+  image-width: 24em
+  id: hero-home
+
+listing: 
+- id: blog
+  contents: 
+    - "portfolio/*/index.qmd"
+  sort: name asc
+  type: grid
+  grid-columns: 3
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  fields: [title, categories, image, description]
+  max-items: 3
+  image-height: "100%"
+
 format:
   html: 
     page-layout: full
     back-to-top-navigation: false
 ---
 
-:::: {.grid #hero-home}
-::: {.g-col-12 .text-medium}
-[Welcome to my little corner 🐦‍⬛]{.text-large} 
+:::: {#hero-home .text-large}
+👋🏻 I’m Larry, a curious and analytical UX designer who also codes. My main strengths are user studies and concept creation. 
 
-This is the very first website I'm coding for myself. And maybe you know the struggle: as soon as it's something for you – or even worse, *about* you – it suddenly takes you forever. That's why this space is still looking a bit blank, so bear with me!
+[Learn more about me](about/index.qmd) or have a dip into [my portfolio](portfolio/index.qmd).
 
-Meanwhile:
-[Learn more about me](about/index.qmd) or have a dip into [my portfolio](portfolio/index.qmd).<br>
- <br><br><br>
+
+::: {.button-about}
+[LinkedIn &#x2197;](https://www.linkedin.com/in/larissalang/){.btn .btn-outline-primary .btn-lg .btn role="button"}
+
+[GitHub &#x2197;](https://github.com/lalarus){.btn .btn-outline-primary .btn-lg .btn role="button"}
+
+<!-- target="_blank" opens internal link in a new window -->
+[CV &#x2197;](documents/24-02_CV-larissalang-web.pdf){.btn .btn-outline-primary .btn-lg .btn role="button" target="_blank"}
 :::
 ::::
 
-:::: {.grid #updates-home}
-::: {.g-col-12 .g-col-md-6 .emphasize-card #updateoftheweek}
-##### Update of the week:
-- 2 days ago ⎯ Came up with an idea for my new logo! It includes [this absolute favorite bird of mine](https://ebird.org/species/hoared/).
+
+:::: {#featured-projects}
+## Featured projects
+
+::: {#blog}
 :::
 
-:::{.g-col-12 .g-col-md-6 .emphasize-card #wishlist}
-##### Ever-growing website wishlist:
-- Accessibility
-  - Add fig-alt text on all images
-  - Add breadcrumbs
-  - Run accessibility check on the whole website
-- Have a nice own logo
-- Create a TLDR component of its own instead of tweaking Quarto's callout buttons
-- Add semantic/structured data markup ([schema.org](https://www.schema.org/))
-- Dark mode
-- Portfolio
-  - Finish 'Designing to support user agency'
-  - Expand on 'Green Kolding'
-  - Add TLDR for 'Coding my own website'
-  - Filtering by tags: Add a list of categories (that allows user to remove filtering after they clicked on a tag)
-- Blog
-  - Write 'Every design is political'
-
-:::
 ::::
+
+
+
+
+
+
+
+
+
 
 :::: {#about-contact}
 ## Contact <iconify-icon icon="fa-solid:certificate" id="contact-certificate" width="0.75em"></iconify-icon>

@@ -13,7 +13,7 @@ format:
     page-layout: full
 ---
 ::: {#hero-about .text-large}
-👋🏻 I’m Larry, a curious designer based in Stockholm, who is passionate about using design to help make complex issues accessible and to create meaningful change. 
+👋🏻 I’m Larry, a German designer based in Stockholm, who is passionate about using design to help make complex issues accessible and to create meaningful change. 
 
 ::: {.button-about}
 [LinkedIn &#x2197;](https://www.linkedin.com/in/larissalang/){.btn .btn-outline-primary .btn-lg .btn role="button"}
@@ -28,7 +28,7 @@ format:
 
 :::: {.grid #text-about-1}
 ::: {.g-col-12 .g-col-md-7}
-##### I'm a designer with an analytic mindset ... 
+##### I'm a curious designer with an analytic mindset ... 
 My main strength is my analytic mindset and my passion for research and complexity. I design to create understanding, spark compassion, and drive action. With my interdisciplinary background in human-computer interaction and branding, I call user studies and team collaboration the heart of my work approach. 
 :::
 
