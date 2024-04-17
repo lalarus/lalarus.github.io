@@ -56,4 +56,10 @@ img {
     }
 }
 
-/**/ /**/ /**//**/ /**/ /**/ /**/ /**/
+/**/ /**/ /**//**/ /**/ /**/ /**/ /**/ 
+
+// move icon down to align with text
+#about-dots {
+    position: relative !important;
+    top: 0.2em !important;
+}

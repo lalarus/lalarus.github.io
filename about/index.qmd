@@ -13,7 +13,7 @@ format:
     page-layout: full
 ---
 ::: {#hero-about .text-large}
-👋🏻 I’m Larry, a German designer based in Stockholm, who is passionate about using design to help make complex issues accessible and to create meaningful change. 
+<iconify-icon icon="solar:chat-dots-bold" id="about-dots" width="1em"></iconify-icon> I’m a German designer based in Stockholm, who is passionate about using design to help make complex issues accessible and to create meaningful change. 
 
 ::: {.button-about}
 [LinkedIn &#x2197;](https://www.linkedin.com/in/larissalang/){.btn .btn-outline-primary .btn-lg .btn role="button"}
@@ -98,7 +98,7 @@ B.A. Advertising and Market Communication <br>
 - German, [Native]{.lighter} <br>
 - English, [Fluent]{.lighter} <br>
 - Swedish, [Conversational]{.lighter} <br>
-- Danish, [Intermediate]{.lighter} <br>
+- Danish, [Elementary]{.lighter} <br>
 - French, [Elementary]{.lighter} <br>
 :::
 

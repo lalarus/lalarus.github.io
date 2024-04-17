@@ -129,7 +129,7 @@ One example for such a higher-level design pattern for low control is the *impos
 
 Finally, I condensed my Define phase results into a actionable problem statement, the so-called *Point of View (POV)*. The POV brings the process of understanding the problem to an end and at the same time acts as a link to the following *Develop* phase:
 
-> Instagram users <br> **need** <br> to be more in control over how they spend their time in the Instagram app <br> **because** <br> current design mechanisms undermine their sense of agency, thereby deteriorating user well-being. This happens in four ways: by imposing unwanted information on users, by showing highly personalized content, by creating fear of missing out, and by determining the ease of an interaction.
+> Instagram users [need]{.highlight} to be more in control over how they spend their time in the Instagram app [because]{.highlight} current design mechanisms undermine their sense of agency, thereby deteriorating user well-being. This happens in four ways: by imposing unwanted information on users, by showing highly personalized content, by creating fear of missing out, and by determining the ease of an interaction.
 
 <br>
 

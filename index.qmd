@@ -33,7 +33,7 @@ format:
 :::: {#hero-home .text-large}
 👋🏻 I’m Larry, a curious and analytical UX designer who also codes. My main strengths are user studies and concept creation. 
 
-[Learn more about me](about/index.qmd) or have a dip into [my portfolio](portfolio/index.qmd).
+[Learn more about me](about/index.qmd) or dive into [my portfolio](portfolio/index.qmd).
 
 
 ::: {.button-about}
