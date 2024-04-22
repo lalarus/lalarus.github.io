@@ -81,15 +81,16 @@ B.A. Advertising and Market Communication <br>
 :::: {.grid #skillslang}
 ::: {.g-col-12 .g-col-sm-6 #skills}
 ##### Skills and tools
-- Design tools: Figma, Adobe CC, Sketch, and Miro.<br>
-- Conducting user studies by employing methods such as Design Thinking, Prototyping, User Testing. Facilitating workshops on these topics.<br>
-- Understanding and visualizing quantitative & qualitative data.<br>
-- Implementing structured data markup on a website and making it more accessible by adhering to the WCAG 2.1 guidelines.<br>
-- Generating customer insights and user journeys and deriving strategic decisions and creative concepts for relevant touchpoints.<br>
-- HTML and CSS/SASS | Bootstrap and basic JavaScript.<br>
-- Approaching interfaces with a user-centered mindset.<br>
-- Creative thinking.<br>
-- Collaborating in an agile team.<br>
+- Design tools: Figma, Adobe CC, Sketch, and Miro.
+- HTML and CSS/SASS | Bootstrap and basic JavaScript.
+- Creating wireframes, mock-ups and low- to high-fidelity prototypes.
+- Conducting user studies by choosing and combining suitable qualitative and quantitative research methods.
+- Mapping and analyzing user behavior and needs by developing user flows and user journeys.
+- Facilitating workshops such as Design Thinking and Participatory Design.
+- Formulating acceptance criteria and presenting progress to different stakeholders.
+- Implementing structured data markup on a website and making it more accessible by adhering to the WCAG 2.1 guidelines.
+- Approaching interfaces with a user-centered mindset.
+- Collaborating in an agile team.
 :::
 
 
