@@ -95,8 +95,8 @@ For example, the probe kit contained rubber bands to attach the diary to the bac
 ![&#x2BA4; The different materials included in one probe kit](img/2-probekitcontents.jpg){fig-alt="Different materials included in one probe kit are spread out on a table, seen from bird's eye view."}
 
 
-::: {.challenges}
-##### Challenges
+::: {.learnings}
+##### Learnings
 1. **Probe studies require considerable time and effort.**<br>
 I underestimated the time that was required for participant recruitment, material preparation & shipment and on-going communication with participants. Moreover, almost half of all participants delayed the start of their assignment phase due to personal reasons. Also, since my sample included participants from different countries, delivery times varied and participants received their probe kits at different times. 
 
@@ -147,8 +147,8 @@ I then used experience prototyping to develop solutions to these four HMW questi
 ![&#x2BA4; Mockups of the original design (left) and the redesign (right) of the Reels mechanism.](img/5-prototype-easeofuse-800.jpg){fig-alt=""}
 
 
-::: {.challenges}
-##### Challenges
+::: {.learnings}
+##### Learnings
 **Ideating on your own is tedious and lacks valuable feedback and inspiration from others.**<br> Here, this left me with insufficient time to test my prototypes.
 :::
 
