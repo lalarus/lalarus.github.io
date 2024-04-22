@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Larissa Lang - Hallo!</title>
+<title>Larissa Lang - Hallo! 🐦‍⬛</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,10 +31,11 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./assets/img/favicon.ico" rel="icon">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -61,7 +62,38 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-projects .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-categories','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-projects'] = new List('listing-projects', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 </head>
 
@@ -94,10 +126,6 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./portfolio/index.html" rel="" target="">
  <span class="menu-text">Portfolio</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./blog/index.html" rel="" target="">
- <span class="menu-text">Blog</span></a>
-  </li>  
 </ul>
             <div class="quarto-navbar-tools">
 </div>
@@ -111,73 +139,145 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content page-columns page-full column-page" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
+
+
+<div class="quarto-about-solana column-page">
+  <div class="about-entity">
+    <div class="entity-contents">
+      <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Hallo!</h1>
+<h1 class="title">Hallo! 🐦‍⬛</h1>
 </div>
-
-
-
 <div class="quarto-title-meta">
-
-    
-  
-    
   </div>
-  
+</header> 
+      <div class="about-contents"><div id="hero-home" class="text-large">
+<p>👋🏻 I’m Larry, a curious and analytical UX designer who also codes. My main strengths are user studies and concept creation.</p>
+<p><a href="./about/index.html">Learn more about me</a> or dive into <a href="./portfolio/index.html">my portfolio</a>.</p>
+<div class="button-about">
+<p><a href="https://www.linkedin.com/in/larissalang/" class="btn btn-outline-primary btn-lg btn" role="button">LinkedIn ↗</a></p>
+<p><a href="https://github.com/lalarus" class="btn btn-outline-primary btn-lg btn" role="button">GitHub ↗</a></p>
+<!-- target="_blank" opens internal link in a new window -->
+<p><a href="about/documents/24-04_CV-larissalang-web.pdf" class="btn btn-outline-primary btn-lg btn" role="button" target="_blank">CV ↗</a></p>
+</div>
+</div></div>
+    </div>
+    <img src="about/img/about_larry.jpg" alt="Medium close-up shot of a woman in her late twenties with curly hair and a headband, looking into the lens and smiling" class="about-image
+  rounded " style="width: 24em;" title="hej, that's me!">
+  </div>
+</div>
 
-</header>
-
-<div id="hero-home" class="grid">
-<div class="g-col-12 text-medium">
-<p><span class="text-large">Welcome to my little corner 🐦‍⬛</span></p>
-<p>This is the very first website I’m coding for myself. And maybe you know the struggle: as soon as it’s something for you – or even worse, <em>about</em> you – it suddenly takes you forever. That’s why this space is still looking a bit blank, so bear with me!</p>
-<p>Meanwhile: <a href="./about/index.html">Learn more about me</a> or have a dip into <a href="./portfolio/index.html">my portfolio</a>.<br> More into a long-read? Then have a look at <a href="./blog/index.html">my blog</a>. <br><br><br></p>
+<section id="featured-projects" class="level2">
+<h2 data-anchor-id="featured-projects">Featured projects</h2>
+<div id="listing-projects" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="design probes,prototyping,values in design,digital well-being" data-listing-date-sort="1705186800000" data-listing-file-modified-sort="1713778476705" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="12">
+<a href="./portfolio/01_DesigningForAgency/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./portfolio/01_DesigningForAgency/img/designingforagency-title.jpg" class="thumbnail-image card-img" style="height: 100%;" alt="A wooden table seen from bird&amp;#039;s eye view with a cutter knife, a ruler and a printed sheet of paper lying on it
+">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Designing to support user agency
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('design probes'); return false;">
+design probes
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('prototyping'); return false;">
+prototyping
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('values in design'); return false;">
+values in design
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('digital well-being'); return false;">
+digital well-being
 </div>
 </div>
-<div id="updates-home" class="grid">
-<div id="updateoftheweek" class="g-col-12 g-col-md-6 emphasize-card">
-<section id="update-of-the-week" class="level5">
-<h5 class="anchored" data-anchor-id="update-of-the-week">Update of the week:</h5>
-<ul>
-<li>2 days ago ⎯ Came up with an idea for my new logo! It includes <a href="https://ebird.org/species/hoared/">this absolute favorite bird of mine</a>.</li>
-</ul>
+<div class="card-text listing-description">
+<p>In my Master Thesis, I explored and redesigned design mechanisms on Instagram for a greater sense of user agency.</p>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="UX design,data visualization,user flows,information architecture" data-listing-date-sort="1708383600000" data-listing-file-modified-sort="1710460253932" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./portfolio/02_scitis/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./portfolio/02_scitis/img/scitis-title.jpg" class="thumbnail-image card-img" style="height: 100%;" alt="A smartphone, a tablet and an edge device positioned next to each other. A dashboard can be seen on the screens of both the smartphone and the tablet.
+">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Refining and customizing an Industrial IoT platform
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('UX design'); return false;">
+UX design
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('data visualization'); return false;">
+data visualization
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('user flows'); return false;">
+user flows
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('information architecture'); return false;">
+information architecture
+</div>
+</div>
+<div class="card-text listing-description">
+<p>I implemented new functionalities in scitis’ existing IoT framework as well as worked on customized features for customers.</p>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="user studies,brand identity,ux testing,sustainability" data-listing-date-sort="1707174000000" data-listing-file-modified-sort="1710460253959" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./portfolio/04_GreenKolding/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./portfolio/04_GreenKolding/img/greenkolding-title.jpg" class="thumbnail-image card-img" style="height: 100%;" alt="Three young woman wearing winter clothes and holding cardboard signs. The sign of the woman on the far left reads in Danish: the ice is melting while we are waiting
+">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Exploring and defining an NGO’s identity
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('user studies'); return false;">
+user studies
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('brand identity'); return false;">
+brand identity
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('ux testing'); return false;">
+ux testing
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('sustainability'); return false;">
+sustainability
+</div>
+</div>
+<div class="card-text listing-description">
+<p>In a team of three, we created a website prototype to communicate the organization’s identity and attract new members.</p>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
 </section>
-</div>
-<div id="wishlist" class="g-col-12 g-col-md-6 emphasize-card">
-<section id="ever-growing-website-wishlist" class="level5">
-<h5 class="anchored" data-anchor-id="ever-growing-website-wishlist">Ever-growing website wishlist:</h5>
-<ul>
-<li>Accessibility
-<ul>
-<li>Add fig-alt text on all images</li>
-<li>Add breadcrumbs</li>
-<li>Run accessibility check on the whole website</li>
-</ul></li>
-<li>Have a nice own logo</li>
-<li>Create a TLDR component of its own instead of tweaking Quarto’s callout buttons</li>
-<li>Add semantic/structured data markup (<a href="https://www.schema.org/">schema.org</a>)</li>
-<li>Dark mode</li>
-<li>Portfolio
-<ul>
-<li>Finish ‘Designing to support user agency’</li>
-<li>Expand on ‘Green Kolding’</li>
-<li>Add TLDR for ‘Coding my own website’</li>
-<li>Filtering by tags: Add a list of categories (that allows user to remove filtering after they clicked on a tag)</li>
-</ul></li>
-<li>Blog
-<ul>
-<li>Write ‘Every design is political’</li>
-</ul></li>
-</ul>
-</section>
-</div>
-</div>
 <div id="about-contact">
 <section id="contact" class="level2">
-<h2 class="anchored" data-anchor-id="contact">Contact <iconify-icon icon="fa-solid:certificate" id="contact-certificate" width="0.75em"></iconify-icon></h2>
+<h2 data-anchor-id="contact">Contact <iconify-icon icon="fa-solid:certificate" id="contact-certificate" width="0.75em"></iconify-icon></h2>
 <p>I’m always looking for new things to do. So please come bother me for interesting collaborations.</p>
 <p>Got questions, or just want to reach out and say hello? I’m open for that, too! <br> You can find me on <iconify-icon icon="ph:linkedin-logo-light" id="contact-linkedin" width="1.6em"></iconify-icon> <a href="https://www.linkedin.com/in/larissalang/">LinkedIn</a> and <iconify-icon icon="ph:github-logo-light" id="contact-github" width="1.4em"></iconify-icon> <a href="https://github.com/lalarus">GitHub</a>. Or, you can drop me an e-mail at <em>hello[at]larissalang.com</em></p>
 </section>
@@ -185,6 +285,8 @@ ul.task-list li input[type="checkbox"] {
 <!--
 [Learn more about me &#x2197;](about.qmd){.btn .btn-outline-primary .btn-lg .btn role="button"}
 -->
+
+
 
 
 
@@ -209,13 +311,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
