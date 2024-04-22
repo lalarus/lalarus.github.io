@@ -4,6 +4,9 @@ description: |
    In my Master Thesis, I explored and redesigned design mechanisms on Instagram for a greater sense of user agency.
 date: 2024-01-14
 #site-url:
+lightbox:
+  match: auto
+  effect: fade
 image: img/designingforagency-title.jpg
 image-alt: |
   A wooden table seen from bird's eye view with a cutter knife, a ruler and a printed sheet of paper lying on it

@@ -4,6 +4,9 @@ description: |
    I implemented new functionalities in scitis' existing IoT framework as well as worked on customized features for customers. 
 date: 2024-02-20
 #site-url:
+lightbox:
+  match: auto
+  effect: fade
 image: img/scitis-title.jpg
 image-alt: |
   A smartphone, a tablet and an edge device positioned next to each other. A dashboard can be seen on the screens of both the smartphone and the tablet.

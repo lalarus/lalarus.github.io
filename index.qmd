@@ -56,14 +56,6 @@ format:
 ::::
 
 
-
-
-
-
-
-
-
-
 :::: {#about-contact}
 ## Contact <iconify-icon icon="fa-solid:certificate" id="contact-certificate" width="0.75em"></iconify-icon>
 I’m always looking for new things to do. So please come bother me for interesting collaborations.

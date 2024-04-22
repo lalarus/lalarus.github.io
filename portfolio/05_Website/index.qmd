@@ -4,6 +4,9 @@ description: |
   How I created this website and my choices along the way.
 date: 2024-01-29
 #site-url:
+lightbox:
+  match: auto
+  effect: fade
 image: img/programmingwebsite-title.jpg
 image-alt: |
   tbd
