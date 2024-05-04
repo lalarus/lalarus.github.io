@@ -41,9 +41,15 @@ a {
     transition-duration: $link-transition-duration;
 }
 
-
+/*
 // Images
 img {
+    border-radius: $base-border-radius !important;
+}
+*/
+
+// Images
+.round {
     border-radius: $base-border-radius !important;
 }
 
@@ -56,10 +62,4 @@ img {
     }
 }
 
-/**/ /**/ /**//**/ /**/ /**/ /**/ /**/ 
-
-// move icon down to align with text
-#about-dots {
-    position: relative !important;
-    top: 0.2em !important;
-}
+/**/ /**/ /**//**/ /**/ /**/ /**/ /**/ /**/

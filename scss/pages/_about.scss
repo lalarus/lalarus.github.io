@@ -41,6 +41,12 @@
 
 #work-experience, #education, #skills, #languages {
     padding-bottom: 2em;
+
+// move speech bubble icon down to align with text
+#about-dots {
+    position: relative !important;
+    top: 0.2em !important;
+}
 }
 
 /* filler */
