@@ -42,7 +42,7 @@ format:
 [GitHub &#x2197;](https://github.com/lalarus){.btn .btn-outline-primary .btn-lg .btn role="button"}
 
 <!-- target="_blank" opens internal link in a new window -->
-[CV &#x2197;](about/documents/24-04_CV-larissalang-web.pdf){.btn .btn-outline-primary .btn-lg .btn role="button" target="_blank"}
+[CV &#x2197;](about/documents/CV-larissalang-web.pdf){.btn .btn-outline-primary .btn-lg .btn role="button" target="_blank"}
 :::
 ::::
 
