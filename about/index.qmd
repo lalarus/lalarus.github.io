@@ -28,17 +28,17 @@ format:
 
 :::: {.grid #text-about-1}
 ::: {.g-col-12 .g-col-md-7}
-##### I'm a curious designer with an analytic mindset ... 
+##### [I'm a curious designer with an analytic mindset ...]{.highlight2 .italics} 
 My main strength is my analytic mindset and my passion for research and complexity. I design to create understanding, spark compassion, and drive action. With my interdisciplinary background in human-computer interaction and branding, I call user studies and team collaboration the heart of my work approach. 
 :::
 
 ::: { .g-col-12 .g-col-md-7 .g-start-md-6 style="grid-row: 2"}
-##### ... who recently began coding ...
+##### [... who recently began coding ...]{.highlight2 .italics}
 I also enjoy talking to different stakeholders and presenting progress to clients. Sometimes I also code, like this website. Once I become fascinated by something, I can immerse myself fully in it (which is why I actually code a lot right now). You’ll usually find me talking about ethics in design, initiatives and people that drive climate action, or great data visualization.
 :::
 
 ::: {.g-col-12 .g-col-md-7 .g-start-md-2 style="grid-row: 3"}
-##### ... and stops by a (skiing) trail as soon as she sees one.
+##### [... and stops by a (skiing) trail as soon as she sees one.]{.highlight2 .italics}
 I enjoy fiddling around on a screen as much as taking some time off it. Like packing a tent and spending some days on a hike. The smell of roasted onions in the pan. Feeling the strain in my body during a run. Or playing countless rounds of [Doppelkopf](https://en.wikipedia.org/wiki/Doppelkopf) with friends (I grew up in Germany).
 :::
 ::::
@@ -81,16 +81,19 @@ B.A. Advertising and Market Communication <br>
 :::: {.grid #skillslang}
 ::: {.g-col-12 .g-col-sm-6 #skills}
 ##### Skills and tools
-- Design tools: Figma, Adobe CC, Sketch, and Miro.<br>
-- Conducting user studies by employing methods such as Design Thinking, Prototyping, User Testing. Facilitating workshops on these topics.<br>
-- Understanding and visualizing quantitative & qualitative data.<br>
-- Implementing structured data markup on a website and making it more accessible by adhering to the WCAG 2.1 guidelines.<br>
-- Generating customer insights and user journeys and deriving strategic decisions and creative concepts for relevant touchpoints.<br>
-- HTML and CSS/SASS | Bootstrap and basic JavaScript.<br>
-- Approaching interfaces with a user-centered mindset.<br>
-- Creative thinking.<br>
-- Collaborating in an agile team.<br>
+- Design tools: Figma, Adobe CC, Sketch, and Miro.
+- HTML and CSS/SASS | Bootstrap and basic JavaScript.
+- Creating wireframes, mock-ups and low- to high-fidelity prototypes.
+- Conducting user studies by choosing and combining suitable qualitative and quantitative research methods.
+- Mapping and analyzing user behavior and needs by developing user flows and user journeys.
+- Facilitating workshops such as Design Thinking and Participatory Design.
+- Formulating acceptance criteria and presenting progress to different stakeholders.
+- Implementing structured data markup on a website and making it more accessible by adhering to the WCAG 2.1 guidelines.
+- Approaching interfaces with a user-centered mindset.
+- Collaborating in an agile team.
 :::
+
+
 
 
 ::: {.g-col-12 .g-col-sm-6 #languages}

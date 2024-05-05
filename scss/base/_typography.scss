@@ -88,6 +88,28 @@ $font-size-small: $font-size-base * 1.4;
          url('./assets/fonts/PPNeueMontreal-Medium.otf') format('otf');
   }
 
+  /* neue-montreal-mono-regular */
+  @font-face {
+    font-family: 'Neue Montreal Mono';
+    font-style: normal;
+    font-weight: 450;
+    src: local(''),
+         url('./assets/fonts/PPNeueMontrealMono-Regular.woff') format('woff'),
+         url('./assets/fonts/PPNeueMontrealMono-Regular.woff2') format('woff2'),
+         url('./assets/fonts/PPNeueMontrealMono-Regular.otf') format('otf');
+  }
+
+  /* neue-montreal-mono-medium */
+  @font-face {
+    font-family: 'Neue Montreal Mono';
+    font-style: normal;
+    font-weight: 530;
+    src: local(''),
+         url('./assets/fonts/PPNeueMontrealMono-Medium.woff') format('woff'),
+         url('./assets/fonts/PPNeueMontrealMono-Medium.woff2') format('woff2'),
+         url('./assets/fonts/PPNeueMontrealMono-Medium.otf') format('otf');
+  }
+
 
 // 62.5% Font Size Trick
 html {
@@ -121,13 +143,16 @@ h3 {
 }
 
 h4 {
-  font-size: $font-size-base * 2.4 !important; /* =24px */
-  font-weight: $headings-font-weight-normal !important;
+  font-size: $font-size-base * 2.0 !important; /* =24px */
+  font-family: Neue Montreal Mono !important;
+  font-weight: 450 !important;
+  line-height: 1.5 !important;
 }
 
 h5 {
-  font-size: $font-size-base * 2.0 !important; /* =22px */
-  font-weight: $headings-font-weight-normal !important;
+  font-size: $font-size-base * 1.8 !important; /* =20px */
+  font-family: Neue Montreal Mono !important;
+  font-weight: 530 !important;
   color: $grey-900 !important;
 }
 
@@ -177,8 +202,16 @@ p {
 // highlighting words in purple
 .highlight {
   background-color: $secondary;
-  color: $text-secondary;
+  color: $white;
   padding: 2px 4px;
+}
+
+// highlighting words in green
+.highlight2 {
+  background-color: $green-400;
+  color: $white;
+  padding: 2px 4px;
+  border-radius: 2px;
 }
 
 strong {
