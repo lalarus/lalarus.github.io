@@ -3,8 +3,8 @@
 // Links
 //$body-bg: $blue;
 //$body-color: $grey;
-$link-color: $text-background;
-$link-hover-color: $secondary;
+$link-color: $black;
+$link-hover-color: $purple;
 $link-transition-duration: 350ms;
 //$input-bg: $grey;
 //$popover-bg: $grey;
@@ -31,17 +31,17 @@ $base-border-radius: 2rem;
 
 
 // Navbar
-$navbar-bg: $background !default;
-$navbar-fg: $text-background !default;
+$navbar-bg: $white !default;
+$navbar-fg: $black !default;
 
 // Sidebar
 $sidebar-bg: $grey-200 !default;
-$sidebar-fg: $text-background !default;
+$sidebar-fg: $black !default;
 
 
 // Footer
-$footer-bg: $background !default;
-$footer-fg: $text-background !default;
+$footer-bg: $white !default;
+$footer-fg: $black !default;
 
 
 // Padding

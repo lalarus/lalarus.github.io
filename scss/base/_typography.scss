@@ -169,7 +169,7 @@ h6 {
 // Body text 
 p {
   font-size: $font-size-body !important; /* =16px */
-  color: $text-background !important;
+  color: $black !important;
   font-family: $font-family-sans-serif !important;
   font-weight: $font-weight-normal !important;
   font-style: normal !important;
@@ -201,7 +201,7 @@ p {
 
 // highlighting words in purple
 .highlight {
-  background-color: $secondary;
+  background-color: $purple;
   color: $white;
   padding: 2px 4px;
 }
@@ -221,7 +221,7 @@ strong {
 // Figure caption
 figcaption {
   font-size: $font-size-base * 1.4 !important; /* = 14 px */
-  color: $text-background !important;
+  color: $black !important;
   font-family: $font-family-sans-serif !important;
   font-weight: $font-weight-normal !important;
   letter-spacing: $spacing-standard !important;
@@ -235,7 +235,7 @@ ul {
 
 li {
   font-size: $font-size-body !important; /* =16px */
-  color: $text-background !important;
+  color: $black !important;
   font-family: $font-family-sans-serif !important;
   font-weight: $font-weight-normal !important;
   letter-spacing: $spacing-standard !important;
@@ -245,6 +245,6 @@ li {
 
 // Blockquotes
 blockquote {
-  border-color: $secondary !important;
+  border-color: $purple !important;
   margin-bottom: 2rem !important;
 }
