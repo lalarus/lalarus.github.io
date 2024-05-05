@@ -27,23 +27,23 @@ format:
 ::: {.callout-caution collapse="false" .column-body-outset}
 ## TLDR {{< iconify fa-solid certificate size=0.75em >}} 
 
-###### Problem {.unnumbered}
+##### Problem {.unnumbered}
 In today's attention economy, digital interfaces [undermine self-control]{.highlight}. This results in detrimental effects on user's well-being. I therefore explored how we can design interfaces that give back control (i.e. user agency) toward the people who interact with these interfaces. <br><br>
 
-###### Approach {.unnumbered}
+##### Approach {.unnumbered}
 Following a design thinking approach, I used [desk research]{.highlight}, [probe studies]{.highlight} and [affinity mapping]{.highlight} to explore how design mechanisms on Instagram support and undermine user control. Through [experience prototyping]{.highlight}, I then developed alternative design patterns that support sense of agency.<br><br>
 
 
-###### Solution {.unnumbered}
+##### Solution {.unnumbered}
 I identified six design patterns that describe how design mechanisms on Instagram support and undermine user control. I further developed [4 prototypes]{.highlight} that redesign Instagram's design mechanisms for greater user agency.
 
 :::
 
-#### Team
+## Team
 I worked in this project on my own. My academic supervisor and sparring-partner was [Eva Knutz](https://portal.findresearcher.sdu.dk/en/persons/evak). Please do reach out to me if you are interested in reading the whole study.<br><br>
 
 
-#### Background
+## Background
 :::: {.grid #selfcontrolfailure}
 :::  {.g-col-12 .g-col-sm-7 #text-selfcontrolfailure}
 Information and communication technologies (ICT) are designed in a way that makes them exceptionally hard to resist. While people’s failure rate is 31% for smoking and 28% for drinking alcohol, they fail to resist media use 78% of the time (*see figure*). This is because design mechanisms such as push notifications and autoplay create task interruptions and task-irrelevant thoughts that put an additional strain on the self-control capacity of media users.<br>
@@ -55,16 +55,16 @@ This loss of agency that users experience over their technology use comes with d
 
 :::
 ::: {.g-col-12 .g-col-sm-5 #img-selfcontrolfailure}
-![&#x2BA4; Media use shows the highest self-control failure rate of all 14 types of temptations. ^[Delaney, L., & Lades, L. K. (2017). Present Bias and Everyday Self-Control Failures: A Day Reconstruction Study. *Journal of Behavioral Decision Making, 30*(5), 1157–1167. https://doi.org/10.1002/bdm.2031 ]](img/0-Selfcontrolfailure.jpg){fig-alt="A 2-column table which lists different types of temptations in the first column. For each temptation, the second column states the failure rate of resisting the temptation. For example, the desire to drink alcohol fails to be resistedd in 33% of occasions."}
+![&#x2BA4; Media use shows the highest self-control failure rate of all 14 types of temptations. ^[Delaney, L., & Lades, L. K. (2017). Present Bias and Everyday Self-Control Failures: A Day Reconstruction Study. *Journal of Behavioral Decision Making, 30*(5), 1157–1167. https://doi.org/10.1002/bdm.2031 ]](img/0-Selfcontrolfailure.jpg){fig-alt="A 2-column table which lists different types of temptations in the first column. For each temptation, the second column states the failure rate of resisting the temptation. For example, the desire to drink alcohol fails to be resistedd in 33% of occasions." .round}
 :::
 ::::
 
-#### Process
+## Process
 ##### I. Overall research process: moving from exploration to ideation
 To answer this question, my research study design followed a design thinking process (see figure). I also used IDEO's method cards to come up with suitable methods for the different phases of my research. Regarding the *Discover* phase, for example, I gleaned inspiration from the following three IDEO method cards: *Secondary research*, *Try it yourself*, and *Cultural probes*. 
 
 
-![&#x2BA4; IDEO method cards that were selected in different phases of the research process, mapped on the Double Diamond design process model.](img/1-designthinkingmethodcards.jpg){fig-alt="Two images separated by a vertical line. The image on the left shows a visualization of the Design thinking process model. Icons in blue that represent different types of method cards are mapped onto different phases in the model. The image on the right shows a hand holding a set of four method cards by IDEO"}
+![&#x2BA4; IDEO method cards that were selected in different phases of the research process, mapped on the Double Diamond design process model.](img/1-designthinkingmethodcards.jpg){fig-alt="Two images separated by a vertical line. The image on the left shows a visualization of the Design thinking process model. Icons in blue that represent different types of method cards are mapped onto different phases in the model. The image on the right shows a hand holding a set of four method cards by IDEO" .round}
 
 Analogue to the first Diamond of the design thinking process, I dedicated the first part of my research to exploring and understanding the problem. My research question was: 
 
@@ -79,7 +79,7 @@ The results informed my second research question:
 Analogue to the second Diamond of the design thinking process, the second part of my research process was concerned with finding solutions through ideating. For this, I developed four *How might we (HMW) questions*. Each question was based on one of the four design patterns for low agency. After generating a wide range of ideas, I chose to continue with one idea for each design challenge which resulted in a total of *four experience prototypes*. For potential inquries in the future I propose user testings to test whether the developed experience prototypes successfully support user sense of agency (see figure, visualized by using lower contrast).
 
 
-![&#x2BA4; Research study design](img/1-researchstudydesign.jpg){fig-alt="A graphical representation of a research study design. It comprises two large rectangles with dotted borders. Outside the rectangle on the left is a text reading 'Phenomenon/problem' with an arrow pointing towards a text reading 'Aim'. Another arrow points from 'Aim' towards the inner space of the rectangle. Within this rectangle, a text in the top reads 'RQ1: What existing design mechanisms influence sense of agency?'. Below different research inquries and their dependencies to one another are visualized through various shapes and arrows. Reading from left to right, the different inquries are named: 'Desk research', 'Pilot probe study', 'Probe study' and 'Affinity diagram'. The shapes visualizing 'Affinity diagram' pass into the second large rectangle on the right side. Within this rectangle, a text in the top reads 'RQ2: What are alternative design mechanisms that might support sense of agency?'. Analogue to the first large rectangle, different research inquries and their dependencies to one another and to the inquries of the first large rectangle are visualized. Reading from left to right, the different inquries are named: 'Experience prototypes' and 'User testing'. Unlike the other inquries, 'User testing' is grayed out."}
+![&#x2BA4; Research study design](img/1-researchstudydesign.jpg){fig-alt="A graphical representation of a research study design. It comprises two large rectangles with dotted borders. Outside the rectangle on the left is a text reading 'Phenomenon/problem' with an arrow pointing towards a text reading 'Aim'. Another arrow points from 'Aim' towards the inner space of the rectangle. Within this rectangle, a text in the top reads 'RQ1: What existing design mechanisms influence sense of agency?'. Below different research inquries and their dependencies to one another are visualized through various shapes and arrows. Reading from left to right, the different inquries are named: 'Desk research', 'Pilot probe study', 'Probe study' and 'Affinity diagram'. The shapes visualizing 'Affinity diagram' pass into the second large rectangle on the right side. Within this rectangle, a text in the top reads 'RQ2: What are alternative design mechanisms that might support sense of agency?'. Analogue to the first large rectangle, different research inquries and their dependencies to one another and to the inquries of the first large rectangle are visualized. Reading from left to right, the different inquries are named: 'Experience prototypes' and 'User testing'. Unlike the other inquries, 'User testing' is grayed out." .round}
 
 <br>
 
@@ -90,12 +90,12 @@ The results contributed an essential component of groundwork to my research and 
 I then designed and conducted my own intervention: a probe study with a total of 12 participants. My aim was to collect user experiences and form an empathic understanding of how existing design mechanisms in the Instagram mobile app influence user sense of agency.<br>
 Each probe kit included 2 assignments and 2 corresponding diaries (*see figure*). The first assignment asked participants to name and explaing things that made them feel *least in control (LC)* of how they spend their time on Instagram. Thereafter, the second assignment asked them to name and explain things that made them feel *most in control (MC)*.
 
-![&#x2BA4; A snapshot of the creation process of a diary (top-left), the cover of a final diary (top-right), and the first double page of a low control diary (bottom)](img/2-probediary-variant.jpg){fig-alt="The photo in the top-left corner shows a snapshot of the creation process of a diary. The photo in the top-right corner shows the cover of a final diary. In the bottom is the first double page of a low control diary"}
+![&#x2BA4; A snapshot of the creation process of a diary (top-left), the cover of a final diary (top-right), and the first double page of a low control diary (bottom)](img/2-probediary-variant.jpg){fig-alt="The photo in the top-left corner shows a snapshot of the creation process of a diary. The photo in the top-right corner shows the cover of a final diary. In the bottom is the first double page of a low control diary" .round}
 
 Besides the diaries, each participant received a number of other materials (*see figure*).
 For example, the probe kit contained rubber bands to attach the diary to the back of a smartphone (*see figure, A.2*). This way, the diary accompanied participants in their daily routines.
 
-![&#x2BA4; The different materials included in one probe kit](img/2-probekitcontents.jpg){fig-alt="Different materials included in one probe kit are spread out on a table, seen from bird's eye view."}
+![&#x2BA4; The different materials included in one probe kit](img/2-probekitcontents.jpg){fig-alt="Different materials included in one probe kit are spread out on a table, seen from bird's eye view." .round}
 
 
 ::: {.learnings}
@@ -113,9 +113,9 @@ While I committed a lot of effort to create comprehensive and clear instructions
 I used affinity diagramming to analyze and synthesize the data gained from my probes studies. Affinity diagramming is a technique used to organize and make sense of large amounts of unstructured, far-ranging, and seemingly dissimilar qualitative data ^[Hartson, H. R. (2012). *The UX Book: Process and guidelines for ensuring a quality user experience.* Morgan Kaufmann/Elsevier. ]. I therefore found it a suitable tool for analyzing the fragmented and unclear nature of my probe study results.<br>
 The final affinity diagram included 89 (89%) of all responses, grouping them into several clusters (pink labels) and two overarching themes (green labels) (*see figures*).
 
-![&#x2BA4; Affinity notes created from the data gained from the probe studies](img/3-affinitynotes.jpg){fig-alt=""}
+![&#x2BA4; Affinity notes created from the data gained from the probe studies](img/3-affinitynotes.jpg){fig-alt="" .round}
 
-![&#x2BA4; A part of the finalized affinity diagram](img/3-affinitydiagram.jpg){fig-alt=""}
+![&#x2BA4; A part of the finalized affinity diagram](img/3-affinitydiagram.jpg){fig-alt="" .round}
 
 ::: {.iterations}
 ##### Iterations
@@ -127,7 +127,7 @@ One example for such a higher-level design pattern for low control is the *impos
 
 > “Trending reels notification – Instagram prompts me to watch the most watched reels in Denmark today even though I have never asked for it.”
 
-![&#x2BA4;; Types of design patterns that classify design mechanisms that make people feel least in control over how they spend their time in the Instagram app. The description explains how a design pattern undermines user sense of agency. Design patterns are listed in the order of frequency of corresponding responses from the affinity diagram.](img/4-LCdesignpatterns.jpg){fig-alt=""}
+![&#x2BA4;; Types of design patterns that classify design mechanisms that make people feel least in control over how they spend their time in the Instagram app. The description explains how a design pattern undermines user sense of agency. Design patterns are listed in the order of frequency of corresponding responses from the affinity diagram.](img/4-LCdesignpatterns.jpg){fig-alt="" .round}
 
 
 Finally, I condensed my Define phase results into a actionable problem statement, the so-called *Point of View (POV)*. The POV brings the process of understanding the problem to an end and at the same time acts as a link to the following *Develop* phase:
@@ -157,7 +157,7 @@ I then used experience prototyping to develop solutions to these four HMW questi
 
 
 
-#### Outcomes
+## Outcomes
 My probe study results identify six design patterns that describe how design mechanisms
 on Instagram support and undermine user control. Most notably, existing design mechanisms on Instagram made participants feel low in control in four ways: by imposing unwanted information, by showing highly personalized content, by creating fear of missing out, and by determining the ease of an interaction.<br><br>
 Based on these findings, my experience prototypes explore alternative design mechanisms that might support user sense of agency. They constitute redesigns of the following four design mechanisms in the Instagram app: Notifications, the General app UI, Feed & Stories, and Reels. The prototypes present best practices in how to design for greater user agency.<br><br>
