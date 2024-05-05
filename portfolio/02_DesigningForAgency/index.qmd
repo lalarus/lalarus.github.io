@@ -27,14 +27,14 @@ format:
 ::: {.callout-caution collapse="false" .column-body-outset}
 ## TLDR {{< iconify fa-solid certificate size=0.75em >}} 
 
-##### Problem {.unnumbered}
+##### Problem
 In today's attention economy, digital interfaces [undermine self-control]{.highlight}. This results in detrimental effects on user's well-being. I therefore explored how we can design interfaces that give back control (i.e. user agency) toward the people who interact with these interfaces. <br><br>
 
-##### Approach {.unnumbered}
+##### Approach
 Following a design thinking approach, I used [desk research]{.highlight}, [probe studies]{.highlight} and [affinity mapping]{.highlight} to explore how design mechanisms on Instagram support and undermine user control. Through [experience prototyping]{.highlight}, I then developed alternative design patterns that support sense of agency.<br><br>
 
 
-##### Solution {.unnumbered}
+##### Solution
 I identified six design patterns that describe how design mechanisms on Instagram support and undermine user control. I further developed [4 prototypes]{.highlight} that redesign Instagram's design mechanisms for greater user agency.
 
 :::
