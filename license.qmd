@@ -19,7 +19,7 @@ I use fonts by the [Pangram Pangram Foundry](https://pangrampangram.com/). They 
 
 ::: {.license-content #type}
 #### Images
-- Image on Clusterportal card: Mockup &#xA9; berlionemore_contributor / Freepik
+- Mockup on Clusterportal card &#xA9; [berlionemore_contributor](https://www.freepik.com/author/berlionemorecontributor) / Freepik
 :::
 
 

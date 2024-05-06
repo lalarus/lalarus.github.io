@@ -61,3 +61,11 @@ a {
 }
 
 /**/ /**//**/
+
+/* make the text break nicer on bigger screens */
+#hero-about {
+
+    @media screen and (min-width: 1127px) {
+    padding-right: 1.8em;
+    }
+}

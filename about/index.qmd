@@ -13,7 +13,7 @@ format:
     page-layout: full
 ---
 ::: {#hero-about .text-large}
-<iconify-icon icon="solar:chat-dots-bold" id="about-dots" width="1em"></iconify-icon> Hej! I’m a German UX designer based in Stockholm. With my unique understanding of design research and coding, I make complex topics understandable and accessible.
+<iconify-icon icon="solar:chat-dots-bold" id="about-dots" width="1em"></iconify-icon> Hej! I’m a German UX designer based in Stockholm. With my unique combination of design research and frontend dev skills, I make complex topics understandable and accessible.
 
 ::: {.button-about}
 [LinkedIn &#x2197;](https://www.linkedin.com/in/larissalang/){.btn .btn-outline-primary .btn-lg .btn role="button"}
