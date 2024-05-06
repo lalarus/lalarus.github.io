@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2024-05-05">
+<meta name="description" content="Based on workshops and interviews, I developed a clickable prototype and a design specification document.">
 
-<title>Larissa Lang – Hallo! 🐦‍⬛</title>
+<title>Larissa Lang – Redesigning a website for a federal state in Germany</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,25 +25,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./assets/img/favicon.ico" rel="icon">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
-<script src="site_libs/quarto-contrib/iconify-1.0.7/iconify-icon.min.js"></script>
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../assets/img/favicon.ico" rel="icon">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-contrib/iconify-1.0.7/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -69,66 +70,14 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-projects .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-title','listing-categories','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-projects'] = new List('listing-projects', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
+<meta property="og:title" content="Larissa Lang - Redesigning a website for a federal state in Germany">
+<meta property="og:description" content="Based on workshops and interviews, I developed a clickable prototype and a design specification document.">
+<meta property="og:image" content="https://larissalang.com/portfolio/01_ClusterportalBW/img/clusterportal-title.jpg">
+<meta property="og:site_name" content="Larissa Lang">
+<meta property="og:image:alt" content="A notebook computer against a dark background, the landingpage of a website.
+">
 </head>
 
 <body class="nav-fixed">
@@ -138,7 +87,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Larissa Lang</span>
     </a>
   </div>
@@ -149,15 +98,15 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about/index.html"> 
+    <a class="nav-link" href="../../about/index.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./portfolio/index.html"> 
+    <a class="nav-link" href="../../portfolio/index.html"> 
 <span class="menu-text">Portfolio</span></a>
   </li>  
 </ul>
@@ -168,164 +117,169 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
-<!-- main -->
-<main class="content page-columns page-full column-page" id="quarto-document-content">
-
-
-
-
-<div class="quarto-about-solana column-page">
-  <div class="about-entity">
-    <div class="entity-contents">
-      <header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Hallo! 🐦‍⬛</h1>
-</div>
-<div class="quarto-title-meta column-page">
-  </div>
-</header> 
-      <div class="about-contents"><div id="hero-home" class="text-large">
-<p>👋🏻 I’m Larry, a curious and analytical UX designer who also codes. My main strengths are user studies and concept creation.</p>
-<p><a href="./about/index.html">Learn more about me</a> or dive into <a href="./portfolio/index.html">my portfolio</a>.</p>
-<div class="button-about">
-<p><a href="https://www.linkedin.com/in/larissalang/" class="btn btn-outline-primary btn-lg" role="button">LinkedIn ↗</a></p>
-<p><a href="https://github.com/lalarus" class="btn btn-outline-primary btn-lg" role="button">GitHub ↗</a></p>
-<!-- target="_blank" opens internal link in a new window -->
-<p><a href="about/documents/CV-larissalang-web.pdf" class="btn btn-outline-primary btn-lg" role="button" target="_blank">CV ↗</a></p>
-</div>
-</div></div>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul class="collapse">
+  <li><a href="#team" id="toc-team" class="nav-link active" data-scroll-target="#team">Team</a></li>
+  <li><a href="#duration" id="toc-duration" class="nav-link" data-scroll-target="#duration">Duration</a></li>
+  <li><a href="#process" id="toc-process" class="nav-link" data-scroll-target="#process">Process</a></li>
+  <li><a href="#impact" id="toc-impact" class="nav-link" data-scroll-target="#impact">Impact</a></li>
+  </ul>
+</nav>
     </div>
-    <img src="about/img/about_larry.jpg" alt="Medium close-up shot of a woman in her late twenties with curly hair and a headband, looking into the lens and smiling" class="about-image
-  rounded " style="width: 24em;" title="hej, that's me!">
+<!-- main -->
+<main class="content page-columns page-full" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Redesigning a website for a federal state in Germany</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">co-design workshop</div>
+    <div class="quarto-category">interviews</div>
+    <div class="quarto-category">prototyping</div>
+    <div class="quarto-category">technical feasibility</div>
+  </div>
+  </div>
+
+<div>
+  <div class="description">
+    <p>Based on workshops and interviews, I developed a clickable prototype and a design specification document.</p>
   </div>
 </div>
 
-<section id="featured-projects" class="level2">
-<h2 data-anchor-id="featured-projects">Featured projects</h2>
-<div id="listing-projects" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="co-design workshop,interviews,prototyping,technical feasibility" data-listing-date-sort="1714860000000" data-listing-file-modified-sort="1715003925580" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="997">
-<a href="./portfolio/01_ClusterportalBW/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./portfolio/01_ClusterportalBW/img/clusterportal-title.jpg" class="thumbnail-image card-img" style="height: 100%;" alt="A notebook computer against a dark background, the landingpage of a website.
-">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Redesigning a website for a federal state in Germany
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('co-design workshop'); return false;">
-co-design workshop
+
+<div class="quarto-title-meta">
+
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">May 5, 2024</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<div class="column-body-outset callout callout-style-default callout-caution no-icon callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="true" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('interviews'); return false;">
-interviews
+<div class="callout-title-container flex-fill">
+TLDR <iconify-icon inline="" icon="fa-solid:certificate" style="font-size: 0.75em;"></iconify-icon>
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('prototyping'); return false;">
-prototyping
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('technical feasibility'); return false;">
-technical feasibility
-</div>
-</div>
-<div class="card-text listing-description">
-<p>Based on workshops and interviews, I developed a clickable prototype and a design specification document.</p>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="design probes,prototyping,values in design,digital well-being" data-listing-date-sort="1705186800000" data-listing-file-modified-sort="1714939048968" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="12" data-listing-word-count-sort="2247">
-<a href="./portfolio/02_DesigningForAgency/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./portfolio/02_DesigningForAgency/img/designingforagency-title.jpg" class="thumbnail-image card-img" style="height: 100%;" alt="A wooden table seen from bird&amp;#039;s eye view with a cutter knife, a ruler and a printed sheet of paper lying on it
-">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Designing to support user agency
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('design probes'); return false;">
-design probes
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('prototyping'); return false;">
-prototyping
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('values in design'); return false;">
-values in design
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('digital well-being'); return false;">
-digital well-being
-</div>
-</div>
-<div class="card-text listing-description">
-<p>In my Master Thesis, I explored and redesigned design mechanisms on Instagram for a greater sense of user agency.</p>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="UX design,data visualization,user flows,information architecture" data-listing-date-sort="1708383600000" data-listing-file-modified-sort="1714939005101" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="221">
-<a href="./portfolio/03_scitis/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./portfolio/03_scitis/img/scitis-title.jpg" class="thumbnail-image card-img" style="height: 100%;" alt="A smartphone, a tablet and an edge device positioned next to each other. A dashboard can be seen on the screens of both the smartphone and the tablet.
-">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Refining and customizing an Industrial IoT platform
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('UX design'); return false;">
-UX design
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('data visualization'); return false;">
-data visualization
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('user flows'); return false;">
-user flows
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('information architecture'); return false;">
-information architecture
-</div>
-</div>
-<div class="card-text listing-description">
-<p>I implemented new functionalities in scitis’ existing IoT framework as well as worked on customized features for customers.</p>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse show">
+<div class="callout-body-container callout-body">
+<section id="product" class="level4">
+<h4 class="anchored" data-anchor-id="product">Product</h4>
+<p>Clusterportal In A Federal State is a <span class="highlight">website</span> that aims to foster cooperation and innovation systems, enabling regional businesses to master transformation challenges and structural change. Its core service is a <span class="highlight">database</span> listing all cluster initiatives, clusters and state-wide networks in a federal state of Germany.<br><br></p>
 </section>
-<div id="about-contact">
-<section id="contact" class="level2">
-<h2 data-anchor-id="contact">Contact <iconify-icon icon="fa-solid:certificate" id="contact-certificate" width="0.75em"></iconify-icon></h2>
-<p>I’m always looking for new things to do. So please come bother me for interesting collaborations.</p>
-<p>Got questions, or just want to reach out and say hello? I’m open for that, too! <br> You can find me on <iconify-icon icon="ph:linkedin-logo-light" id="contact-linkedin" width="1.6em"></iconify-icon> <a href="https://www.linkedin.com/in/larissalang/">LinkedIn</a> and <iconify-icon icon="ph:github-logo-light" id="contact-github" width="1.4em"></iconify-icon> <a href="https://github.com/lalarus">GitHub</a>. Or, you can drop me an e-mail at <em>hello[at]larissalang.com</em></p>
+<section id="problem" class="level4">
+<h4 class="anchored" data-anchor-id="problem">Problem</h4>
+<p>All stakeholders criticized the website’s design as outdated, too text-heavy and counterintuitive. Website visits were generally low and the client was undecided as to whom the website should address at all.<br><br></p>
+</section>
+<section id="solution" class="level4">
+<h4 class="anchored" data-anchor-id="solution">Solution</h4>
+<p>I created a clickable <span class="highlight">website prototype</span> and a <span class="highlight">design specification document</span>, outlining which technical and design criteria the future website should fulfill.</p>
 </section>
 </div>
-<!--
-[Learn more about me &#x2197;](about.qmd){.btn .btn-outline-primary .btn-lg .btn role="button"}
--->
+</div>
+</div>
+<section id="team" class="level2">
+<h2 class="anchored" data-anchor-id="team">Team</h2>
+<p>We worked in this project in a team of 5. My colleagues were design thinking facilitators while I was solely responsible for prototyping, design and technical feedback, and the final hand-off. I also co-facilitated workshops and analyzed interviews.</p>
+</section>
+<section id="duration" class="level2">
+<h2 class="anchored" data-anchor-id="duration">Duration</h2>
+<p>9 weeks.</p>
+</section>
+<section id="process" class="level2 clusterportal">
+<h2 class="clusterportal anchored" data-anchor-id="process">Process</h2>
+<section id="clusterportal-in-a-federal-state-aims-to-foster-cooperation-and-innovation-between-companies-and-businesses-in-the-state." class="level3">
+<h3 class="anchored" data-anchor-id="clusterportal-in-a-federal-state-aims-to-foster-cooperation-and-innovation-between-companies-and-businesses-in-the-state."><span class="highlight2">Clusterportal In A Federal State aims to foster cooperation and innovation between companies and businesses in the state.</span></h3>
+<p>The website’s core service is a database listing all cluster initiatives, clusters and state-wide networks in the federal state. Complemented by information on funding programs, industry news and persons to connect, the website aims to enable regional businesses to master transformation challenges and structural change.</p>
+</section>
+<section id="however-the-websites-current-appearance-is-far-from-being-called-innovative." class="level3">
+<h3 class="anchored" data-anchor-id="however-the-websites-current-appearance-is-far-from-being-called-innovative."><span class="highlight2">However, the website’s current appearance is far from being called innovative.</span></h3>
+<p>For this reason, the state’s ministry of Economic Affairs asked us to develop a redesigned Clusterportal. We put together a 9-week long design thinking process which involved all relevant stakeholders. Rooted in this user-centered approach, we aimed to develop the content, structure and requirements for a redesigned Clusterportal.</p>
+</section>
+<section id="the-kick-off-workshop-reveals-this-project-is-more-than-just-a-design-refresh." class="level3">
+<h3 class="anchored" data-anchor-id="the-kick-off-workshop-reveals-this-project-is-more-than-just-a-design-refresh."><span class="highlight2">The kick-off workshop reveals: this project is more than just a design refresh.</span></h3>
+<p>As expected, the workshop participants described the current design of Clusterportal as outdated, too text-heavy, and not intuitive. Beyond that, we identified an even more profound problem: it was unclear to our client whether and how different stakeholders were using the website. Moreover, they were undecided as to whom the website should address at all. We therefore had the participants work with context &amp; stakeholder maps as well as HMW questions, defining the status-quo, target groups and objectives.</p>
+</section>
+<section id="of-the-content-is-not-relevant-for-me-stakeholder-interviews-shed-light-on-current-usage-pain-points-and-needs." class="level3">
+<h3 class="anchored" data-anchor-id="of-the-content-is-not-relevant-for-me-stakeholder-interviews-shed-light-on-current-usage-pain-points-and-needs."><span class="highlight2"><em>“80% of the content is not relevant for me”</em>: Stakeholder interviews shed light on current usage, pain points and needs.</span></h3>
+<p>We conducted 10 semi-structured interviews with representatives of all three target groups – that was, cluster managers, business development managers, and company representatives. They commonly voiced the following concern: Clusterportal comes across as a self-promotion campaign for the state instead of meeting the needs of information seeking, networking and exchange.</p>
+<section id="learnings" class="level4 learnings">
+<h4 class="anchored" data-anchor-id="learnings">Learnings</h4>
+<p><strong>Recruiting (the right) interview participants requires considerable time and effort.</strong><br> We had 3 weeks to come up with a suitable interview guide based on the workshop results, recruit participants from all three target groups, conduct interviews, and analyze them. It turned out that 2 stakeholders – business development managers and company representatives – were not easy to recruit. Given the tight schedule, we were thus able to interview much fewer people from these target groups compared to the cluster managers.</p>
+</section>
+</section>
+<section id="we-conduct-a-co-design-workshop-to-move-from-interview-insights-to-idea-generation." class="level3">
+<h3 class="anchored" data-anchor-id="we-conduct-a-co-design-workshop-to-move-from-interview-insights-to-idea-generation."><span class="highlight2">We conduct a co-design workshop to move from interview insights to idea generation.</span></h3>
+<p>We presented our interview results during a second workshop with our client. Based on these insights, we had the participants develop personas that provided a clear picture of the three stakeholder groups. We then tasked them with sketching a subpage for each target group through card sorting and paper prototyping.</p>
+</section>
+<section id="where-my-main-contribution-comes-in-creating-clickable-prototypes." class="level3">
+<h3 class="anchored" data-anchor-id="where-my-main-contribution-comes-in-creating-clickable-prototypes."><span class="highlight2">Where my main contribution comes in: Creating clickable prototypes.</span></h3>
+<p>I created a clickable prototype that featured a dedicated area for each target group. In doing so, I incorporated the three design suggestions from the workshop. For the overall design, I chose a cleaner and text-reduced card layout because interviewees had criticized the current website as cluttered, counterintuitive, and non-responsive.</p>
+</section>
+<section id="after-a-third-workshop-of-prototype-testing-and-gathering-feedback-i-am-faced-with-the-challenge-of-creating-a-final-prototype-that-considers-everything-we-have-learned-so-far." class="level3">
+<h3 class="anchored" data-anchor-id="after-a-third-workshop-of-prototype-testing-and-gathering-feedback-i-am-faced-with-the-challenge-of-creating-a-final-prototype-that-considers-everything-we-have-learned-so-far."><span class="highlight2">After a third workshop of prototype testing and gathering feedback, I am faced with the challenge of creating a final prototype that considers everything we have learned so far.</span></h3>
+<p>Meeting the need of all three target groups, the final prototype showcases events, success stories and news prominently on the landing page. I also designed for the needs of each target group. For example, to enable cluster managers to network and market their own cluster, each subpage now features a contact card which includes the person’s profile picture, responsibilities, and main areas of advice.</p>
+</section>
+<section id="the-outcome-a-website-prototype-and-a-design-specification-document" class="level3">
+<h3 class="anchored" data-anchor-id="the-outcome-a-website-prototype-and-a-design-specification-document"><span class="highlight2">The outcome: a website prototype and a design specification document</span></h3>
+<p>The hand-off was preceded by several rounds of iteration with the client (see challenge). Apart from the prototype, I was also responsible for creating a design specification document as part of the client’s future request for proposal (RFP) for the website’s implementation. The document describes which technical and design criteria the future website should fulfill. The prototype visualizes the information structure and layout of the new website portal.</p>
+<section id="learnings-1" class="level4 learnings">
+<h4 class="anchored" data-anchor-id="learnings-1">Learnings</h4>
+<p><strong>Political interests can hamper a user-centered design.</strong><br> The client wished to abandon many design suggestions during the final iterations at the end of the project. Instead, the client asked to include and highlight content that had previously been considered too political and irrelevant by workshop participants and interview respondents alike.</p>
+</section>
+</section>
+</section>
+<section id="impact" class="level2">
+<h2 class="anchored" data-anchor-id="impact">Impact</h2>
+<p>While the website didn’t launch, to track success and impact, I would have monitored the following:</p>
+<ul>
+<li><em>Happiness</em>:<br>
+<ul>
+<li>Growth in <strong>positive feedback</strong> compared to previous interviews, indicating stakeholders find Clusterportal well-structured, intuitive, and meeting their needs.</li>
+</ul></li>
+<li><em>Engagement</em>:<br>
+<ul>
+<li>Increased <strong>overall session length</strong> on the website as well as increased <strong>page impressions</strong> for news, showing that the website is well-structured and shows relevant content.</li>
+</ul></li>
+<li><em>Adoption</em>:<br>
+<ul>
+<li>Growth in <strong>website visits</strong> (unique visitors) and <strong>newsletter subscriptions</strong>, reflecting more stakeholders discovering the portal.</li>
+</ul></li>
+<li><em>Retention</em>:<br>
+<ul>
+<li>Lower <strong>bounce-rates</strong>, indicating stakeholders find what they are looking for on the portal.</li>
+</ul></li>
+<li><em>Task success</em>:<br>
+<ul>
+<li>Increased <strong>sign-ups</strong> for events and funding programs through the website, suggesting the website is successful in helping stakeholders find and take part in relevant activities.</li>
+<li>Growth in <strong>clicks</strong> on e-mail &amp; phone links indicating that stakeholders find relevant contact persons to get in touch with.</li>
+</ul></li>
+</ul>
 
 
+</section>
 
-
-
-</main> <!-- /main -->
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -346,6 +300,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
@@ -756,12 +717,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
-    <a class="nav-link" href="./accessibility.html">
+    <a class="nav-link" href="../../accessibility.html">
 <p>I do not track you.</p>
 </a>
   </li>  
     <li class="nav-item">
-    <a class="nav-link" href="./license.html">
+    <a class="nav-link" href="../../license.html">
 <p>License</p>
 </a>
   </li>  

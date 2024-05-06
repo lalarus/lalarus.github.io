@@ -2,8 +2,9 @@
   {
     "listing": "/index.html",
     "items": [
-      "/portfolio/01_DesigningForAgency/index.html",
-      "/portfolio/02_scitis/index.html",
+      "/portfolio/01_ClusterportalBW/index.html",
+      "/portfolio/02_DesigningForAgency/index.html",
+      "/portfolio/03_scitis/index.html",
       "/portfolio/04_GreenKolding/index.html",
       "/portfolio/05_Website/index.html"
     ]
@@ -11,8 +12,9 @@
   {
     "listing": "/portfolio/index.html",
     "items": [
-      "/portfolio/01_DesigningForAgency/index.html",
-      "/portfolio/02_scitis/index.html",
+      "/portfolio/01_ClusterportalBW/index.html",
+      "/portfolio/02_DesigningForAgency/index.html",
+      "/portfolio/03_scitis/index.html",
       "/portfolio/04_GreenKolding/index.html",
       "/portfolio/05_Website/index.html"
     ]
