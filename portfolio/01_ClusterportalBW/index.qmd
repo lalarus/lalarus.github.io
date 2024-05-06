@@ -1,12 +1,12 @@
 ---
-title: Redesigning a website for a federal state in Germany.
+title: Redesigning a website for a federal state in Germany
 description: |
    Based on workshops and interviews, I developed a clickable prototype and a design specification document.
 date: 2024-05-05
 #site-url:
-image: img/designingforagency-title.jpg
+image: img/clusterportal-title.jpg
 image-alt: |
-  A wooden table seen from bird's eye view with a cutter knife, a ruler and a printed sheet of paper lying on it
+  A notebook computer against a dark background, the landingpage of a website.
 categories:
   - co-design workshop
   - interviews
@@ -31,15 +31,8 @@ Clusterportal In A Federal State is a [website]{.highlight} that aims to foster 
 #### Problem
 All stakeholders criticized the website's design as outdated, too text-heavy and counterintuitive. Website visits were generally low and the client was undecided as to whom the website should address at all.<br><br>
 
-#### Impact
-While the website didn’t launch, to track success and impact, I would have monitored the following:
-
-- **Happiness**: Growth in [positive feedback]{.highlight} compared to previous interviews, indicating stakeholders find Clusterportal well-structured, intuitive, and meeting their needs.
-- **Engagement**: Increased [overall session length]{.highlight} on the website as well as increased [page impressions]{.highlight} for news, showing that the website is well-structured and shows relevant content.
-- **Adoption**: Growth in [website visits]{.highlight} (unique visitors) and [newsletter subscriptions]{.highlight}, reflecting more stakeholders discovering the portal.
-- **Retention**: Lower [bounce-rates]{.highlight}, indicating stakeholders find what they are looking for on the portal.
-- **Task success**: Increased [sign-ups]{.highlight} for events and funding programs through the website, suggesting the website is successful in helping stakeholders find and take part in relevant activities. Growth in [clicks]{.highlight} on e-mail & phone links indicating that stakeholders find relevant contact persons to get in touch with.
-
+#### Solution
+I created a clickable [website prototype]{.highlight} and a [design specification document]{.highlight}, outlining which technical and design criteria the future website should fulfill. 
 
 :::
 
@@ -87,3 +80,18 @@ The hand-off was preceded by several rounds of iteration with the client (see ch
 **Political interests can hamper a user-centered design.**<br>
 The client wished to abandon many design suggestions during the final iterations at the end of the project. Instead, the client asked to include and highlight content that had previously been considered too political and irrelevant by workshop participants and interview respondents alike.
 :::
+
+## Impact
+While the website didn’t launch, to track success and impact, I would have monitored the following:
+
+- *Happiness*:<br>
+  - Growth in **positive feedback** compared to previous interviews, indicating stakeholders find Clusterportal well-structured, intuitive, and meeting their needs.
+- *Engagement*:<br>
+  - Increased **overall session length** on the website as well as increased **page impressions** for news, showing that the website is well-structured and shows relevant content.
+- *Adoption*:<br>
+  - Growth in **website visits** (unique visitors) and **newsletter subscriptions**, reflecting more stakeholders discovering the portal.
+- *Retention*:<br>
+  - Lower **bounce-rates**, indicating stakeholders find what they are looking for on the portal.
+- *Task success*:<br>
+  - Increased **sign-ups** for events and funding programs through the website, suggesting the website is successful in helping stakeholders find and take part in relevant activities. 
+  - Growth in **clicks** on e-mail & phone links indicating that stakeholders find relevant contact persons to get in touch with.

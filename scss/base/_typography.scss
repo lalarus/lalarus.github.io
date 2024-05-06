@@ -17,6 +17,7 @@ $nmmono-medium: 530;
 
 $nm-regular: 450;
 $nm-medium: 530;
+$nm-bold: 800;
 
 // Font size
 $font-size-large: $font-size-base * 2.8;
@@ -91,6 +92,17 @@ $font-size-small: $font-size-base * 1.4;
          url('./assets/fonts/PPNeueMontreal-Medium.woff') format('woff'),
          url('./assets/fonts/PPNeueMontreal-Medium.woff2') format('woff2'),
          url('./assets/fonts/PPNeueMontreal-Medium.otf') format('otf');
+  }
+
+  /* neue-montreal-bold */
+  @font-face {
+    font-family: 'Neue Montreal';
+    font-style: normal;
+    font-weight: 800;
+    src: local(''),
+         url('./assets/fonts/PPNeueMontreal-Bold.woff') format('woff'),
+         url('./assets/fonts/PPNeueMontreal-Bold.woff2') format('woff2'),
+         url('./assets/fonts/PPNeueMontreal-Bold.otf') format('otf');
   }
 
   /* neue-montreal-mono-regular */
@@ -223,8 +235,16 @@ p {
   border-radius: 2px;
 }
 
+// highlighting words in bright purple
+.highlight3 {
+  background-color: $purple-100;
+  color: $black;
+  padding: 2px 4px;
+  border-radius: 2px;
+}
+
 strong {
-  font-weight: $nm-medium !important;
+  font-weight: $nm-bold !important;
 }
 
 // Figure caption

@@ -13,7 +13,7 @@ format:
     page-layout: full
 ---
 ::: {#hero-about .text-large}
-<iconify-icon icon="solar:chat-dots-bold" id="about-dots" width="1em"></iconify-icon> I’m a German designer based in Stockholm, who is passionate about using design to help make complex issues accessible and to create meaningful change. 
+<iconify-icon icon="solar:chat-dots-bold" id="about-dots" width="1em"></iconify-icon> Hej! I’m a German UX designer based in Stockholm. With my unique understanding of design research and coding, I make complex topics understandable and accessible.
 
 ::: {.button-about}
 [LinkedIn &#x2197;](https://www.linkedin.com/in/larissalang/){.btn .btn-outline-primary .btn-lg .btn role="button"}
@@ -28,22 +28,23 @@ format:
 
 :::: {.grid #text-about-1}
 ::: {.g-col-12 .g-col-md-7}
-#### [I'm a curious designer with an analytic mindset ...]{.highlight2 .italics} 
-My main strength is my analytic mindset and my passion for research and complexity. I design to create understanding, spark compassion, and drive action. With my interdisciplinary background in human-computer interaction and branding, I call user studies and team collaboration the heart of my work approach. 
+#### [I'm a UX reseracher ...]{.highlight2 .italics} 
+My main strength is my [analytic]{.highlight3} mindset and my passion for research and complexity. I have conducted several design research projects in the past where I was responsible for study design, data analysis and concept development. Playing volleyball at a competitive level for many years led me to call good communication and [team collaboration]{.highlight3} the heart of my work approach. With my background in [workshop facilitation]{.highlight3} and as [founder of a social startup]{.highlight3}, I also enjoy presenting and talking to different stakeholders.
 :::
 
 ::: { .g-col-12 .g-col-md-7 .g-start-md-6 style="grid-row: 2"}
 #### [... who recently began coding ...]{.highlight2 .italics}
-I also enjoy talking to different stakeholders and presenting progress to clients. Sometimes I also code, like this website. Once I become fascinated by something, I can immerse myself fully in it (which is why I actually code a lot right now). You’ll usually find me talking about ethics in design, initiatives and people that drive climate action, or great data visualization.
+Sometimes I also [code]{.highlight3}, like this website. Once I become fascinated by something, I can immerse myself fully in it (which is why I actually code a lot right now). You’ll usually find me talking about ethics in design, initiatives and people that drive climate action, or great data visualization. Because every design is political!
 :::
 
 ::: {.g-col-12 .g-col-md-7 .g-start-md-2 style="grid-row: 3"}
-#### [... and stops by a (skiing) trail as soon as she sees one.]{.highlight2 .italics}
-I enjoy fiddling around on a screen as much as taking some time off it. Like packing a tent and spending some days on a hike. The smell of roasted onions in the pan. Feeling the strain in my body during a run. Or playing countless rounds of [Doppelkopf](https://en.wikipedia.org/wiki/Doppelkopf) with friends (I grew up in Germany).
+#### [... and hops on a (skiing) trail as soon as she sees one.]{.highlight2 .italics}
+I enjoy fiddling around on a screen as much as taking some time off it. Like [packing a tent]{.highlight3} and spending some days on a hike. The smell of [roasted onions]{.highlight3} in the pan. Choosing the yarn for my next [knitting]{.highlight3} project. Or playing countless rounds of [Doppelkopf](https://en.wikipedia.org/wiki/Doppelkopf) with friends.
 :::
 ::::
 
 <!--
+With my interdisciplinary background in human-computer interaction and branding 
 ### Who am I? 
 ### What do I specialize in?
 ### What is my main strength?
