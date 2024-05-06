@@ -25,13 +25,13 @@ format:
 ::: {.callout-caution collapse="false" .column-body-outset}
 ## TLDR {{< iconify fa-solid certificate size=0.75em >}} 
 
-##### Product
+#### Product
 Clusterportal In A Federal State is a [website]{.highlight} that aims to foster cooperation and innovation systems, enabling regional businesses to master transformation challenges and structural change. Its core service is a [database]{.highlight} listing all cluster initiatives, clusters and state-wide networks in a federal state of Germany.<br><br>
 
-##### Problem
+#### Problem
 All stakeholders criticized the website's design as outdated, too text-heavy and counterintuitive. Website visits were generally low and the client was undecided as to whom the website should address at all.<br><br>
 
-##### Impact
+#### Impact
 While the website didn’t launch, to track success and impact, I would have monitored the following:
 
 - **Happiness**: Growth in [positive feedback]{.highlight} compared to previous interviews, indicating stakeholders find Clusterportal well-structured, intuitive, and meeting their needs.
@@ -51,39 +51,39 @@ We worked in this project in a team of 5. My colleagues were design thinking fac
 
 ## Process {.clusterportal}
 
-#### [Clusterportal In A Federal State aims to foster cooperation and innovation between companies and businesses in the state.]{.highlight2}
+### [Clusterportal In A Federal State aims to foster cooperation and innovation between companies and businesses in the state.]{.highlight2}
 The website’s core service is a database listing all cluster initiatives, clusters and state-wide networks in the federal state. Complemented by information on funding programs, industry news and persons to connect, the website aims to enable regional businesses to master transformation challenges and structural change.
 
-#### [However, the website's current appearance is far from being called innovative.]{.highlight2}
+### [However, the website's current appearance is far from being called innovative.]{.highlight2}
 For this reason, the state's ministry of Economic Affairs asked us to develop a redesigned Clusterportal. We put together a 9-week long design thinking process which involved all relevant stakeholders. Rooted in this user-centered approach, we aimed to develop the content, structure and requirements for a redesigned Clusterportal.
 
-#### [The kick-off workshop reveals: this project is more than just a design refresh.]{.highlight2}
+### [The kick-off workshop reveals: this project is more than just a design refresh.]{.highlight2}
 As expected, the workshop participants described the current design of Clusterportal as outdated, too text-heavy, and not intuitive. Beyond that, we identified an even more profound problem: it was unclear to our client whether and how different stakeholders were using the website. Moreover, they were undecided as to whom the website should address at all. 
 We therefore had the participants work with context & stakeholder maps as well as HMW questions, defining the status-quo, target groups and objectives.
 
-#### [*“80% of the content is not relevant for me”*: Stakeholder interviews shed light on current usage, pain points and needs.]{.highlight2}
+### [*“80% of the content is not relevant for me”*: Stakeholder interviews shed light on current usage, pain points and needs.]{.highlight2}
 We conducted 10 semi-structured interviews with representatives of all three target groups – that was, cluster managers, business development managers, and company representatives. They commonly voiced the following concern: Clusterportal comes across as a self-promotion campaign for the state instead of meeting the needs of information seeking, networking and exchange. 
 
 ::: {.learnings}
-##### Learnings
+#### Learnings
 **Recruiting (the right) interview participants requires considerable time and effort.**<br>
 We had 3 weeks to come up with a suitable interview guide based on the workshop results, recruit participants from all three target groups, conduct interviews, and analyze them. It turned out that 2 stakeholders – business development managers and company representatives – were not easy to recruit. Given the tight schedule, we were thus able to interview much fewer people from these target groups compared to the cluster managers.
 :::
 
-#### [We conduct a co-design workshop to move from interview insights to idea generation.]{.highlight2}
+### [We conduct a co-design workshop to move from interview insights to idea generation.]{.highlight2}
 We presented our interview results during a second workshop with our client. Based on these insights, we had the participants develop personas that provided a clear picture of the three stakeholder groups. We then tasked them with sketching a subpage for each target group through card sorting and paper prototyping.
 
-#### [Where my main contribution comes in: Creating clickable prototypes.]{.highlight2}
+### [Where my main contribution comes in: Creating clickable prototypes.]{.highlight2}
 I created a clickable prototype that featured a dedicated area for each target group. In doing so, I incorporated the three design suggestions from the workshop. For the overall design, I chose a cleaner and text-reduced card layout because interviewees had criticized the current website as cluttered, counterintuitive, and non-responsive.
 
-#### [After a third workshop of prototype testing and gathering feedback, I am faced with the challenge of creating a final prototype that considers everything we have learned so far.]{.highlight2}
+### [After a third workshop of prototype testing and gathering feedback, I am faced with the challenge of creating a final prototype that considers everything we have learned so far.]{.highlight2}
 Meeting the need of all three target groups, the final prototype showcases events, success stories and news prominently on the landing page. I also designed for the needs of each target group. For example, to enable cluster managers to network and market their own cluster, each subpage now features a contact card which includes the person’s profile picture, responsibilities, and main areas of advice. 
 
-#### [The outcome: a website prototype and a design specification document]{.highlight2}
+### [The outcome: a website prototype and a design specification document]{.highlight2}
 The hand-off was preceded by several rounds of iteration with the client (see challenge). Apart from the prototype, I was also responsible for creating a design specification document as part of the client’s future request for proposal (RFP) for the website’s implementation. The document describes which technical and design criteria the future website should fulfill. The prototype visualizes the information structure and layout of the new website portal.
 
 ::: {.learnings}
-##### Learnings
+#### Learnings
 **Political interests can hamper a user-centered design.**<br>
 The client wished to abandon many design suggestions during the final iterations at the end of the project. Instead, the client asked to include and highlight content that had previously been considered too political and irrelevant by workshop participants and interview respondents alike.
 :::

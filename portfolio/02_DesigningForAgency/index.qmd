@@ -27,14 +27,14 @@ format:
 ::: {.callout-caution collapse="false" .column-body-outset}
 ## TLDR {{< iconify fa-solid certificate size=0.75em >}} 
 
-##### Problem
+#### Problem
 In today's attention economy, digital interfaces [undermine self-control]{.highlight}. This results in detrimental effects on user's well-being. I therefore explored how we can design interfaces that give back control (i.e. user agency) toward the people who interact with these interfaces. <br><br>
 
-##### Approach
+#### Approach
 Following a design thinking approach, I used [desk research]{.highlight}, [probe studies]{.highlight} and [affinity mapping]{.highlight} to explore how design mechanisms on Instagram support and undermine user control. Through [experience prototyping]{.highlight}, I then developed alternative design patterns that support sense of agency.<br><br>
 
 
-##### Solution
+#### Solution
 I identified six design patterns that describe how design mechanisms on Instagram support and undermine user control. I further developed [4 prototypes]{.highlight} that redesign Instagram's design mechanisms for greater user agency.
 
 :::
@@ -60,7 +60,7 @@ This loss of agency that users experience over their technology use comes with d
 ::::
 
 ## Process
-##### I. Overall research process: moving from exploration to ideation
+#### I. Overall research process: moving from exploration to ideation
 To answer this question, my research study design followed a design thinking process (see figure). I also used IDEO's method cards to come up with suitable methods for the different phases of my research. Regarding the *Discover* phase, for example, I gleaned inspiration from the following three IDEO method cards: *Secondary research*, *Try it yourself*, and *Cultural probes*. 
 
 
@@ -83,7 +83,7 @@ Analogue to the second Diamond of the design thinking process, the second part o
 
 <br>
 
-##### II. Discover: From desk research to intervention
+#### II. Discover: From desk research to intervention
 I began my project with desk research, exploring the following three research areas: *dark patterns of interaction design*, *philosophy of technology* and *previous work on sense of agency for well-being*. 
 The results contributed an essential component of groundwork to my research and informed the further course of my research process. For example, there is a need for research to identify and examine design patterns that manipulate users into spending time and attention in an app against their best interests (so-called *attention capture dark patterns*). ^[Lukoff, K. (2022). *Designing to Support Sense of Agency for Time Spent on Digital Interfaces* [PhD Thesis]. University of Washington. ]
 
@@ -99,7 +99,7 @@ For example, the probe kit contained rubber bands to attach the diary to the bac
 
 
 ::: {.learnings}
-##### Learnings
+#### Learnings
 1. **Probe studies require considerable time and effort.**<br>
 I underestimated the time that was required for participant recruitment, material preparation & shipment and on-going communication with participants. Moreover, almost half of all participants delayed the start of their assignment phase due to personal reasons. Also, since my sample included participants from different countries, delivery times varied and participants received their probe kits at different times. 
 
@@ -109,7 +109,7 @@ While I committed a lot of effort to create comprehensive and clear instructions
 :::
 
 
-##### III. Define: Bringing all the data together
+#### III. Define: Bringing all the data together
 I used affinity diagramming to analyze and synthesize the data gained from my probes studies. Affinity diagramming is a technique used to organize and make sense of large amounts of unstructured, far-ranging, and seemingly dissimilar qualitative data ^[Hartson, H. R. (2012). *The UX Book: Process and guidelines for ensuring a quality user experience.* Morgan Kaufmann/Elsevier. ]. I therefore found it a suitable tool for analyzing the fragmented and unclear nature of my probe study results.<br>
 The final affinity diagram included 89 (89%) of all responses, grouping them into several clusters (pink labels) and two overarching themes (green labels) (*see figures*).
 
@@ -118,7 +118,7 @@ The final affinity diagram included 89 (89%) of all responses, grouping them int
 ![&#x2BA4; A part of the finalized affinity diagram](img/3-affinitydiagram.jpg){fig-alt="" .round}
 
 ::: {.iterations}
-##### Iterations
+#### Iterations
 **Analyzing and clustering data on your own is difficult.**<br> After asking a second person for feedback, I discarded my first affinity diagram and started from scratch.
 :::
 
@@ -137,7 +137,7 @@ Finally, I condensed my Define phase results into a actionable problem statement
 <br>
 
 
-##### IV. Develop: designing to support user agency
+#### IV. Develop: designing to support user agency
 The Develop phase of my research process related to the second research questio  – i.e., *what are alternative design mechanisms in the Instagram mobile app that might support sense of agency?*<br><br>
 Picking up on the insights articulated in the POV, I first developed four *How might we (HMW)* questions. I used them as design challenges to foster the exploration of new ideas, concepts, and solutions. For example, regarding *ease-of-use* design patterns, I formulated the following HMW question: *how might we redesign design mechanisms that determine how easily users can interact with the interface?*<br><br>
 I then used experience prototyping to develop solutions to these four HMW questions. For example, one experience prototype was a redesign of the Reels mechanism (*see figure*). It addressed the challenge mentioned above of redesigning *ease-of-use* patterns for a greater sense of user agency. The redesign focused on how easily users were able to see and consume new content. Results from the probe studies had shown that the frictionless design of the Reels mechanism undermined user control. More specifically, the ease of the scrolling gesture entrapped users in an “endless loop of content”, making it hard for users to stop seeing more reels. Therefore, my experience prototype did not feature continuous scrolling but instead included a microboundary.
@@ -151,7 +151,7 @@ I then used experience prototyping to develop solutions to these four HMW questi
 
 
 ::: {.learnings}
-##### Learnings
+#### Learnings
 **Ideating on your own is tedious and lacks valuable feedback and inspiration from others.**<br> Here, this left me with insufficient time to test my prototypes.
 :::
 

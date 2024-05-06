@@ -25,13 +25,13 @@ format:
 ::: {.callout-caution collapse="false" .column-body-outset}
 ## TLDR {{< iconify fa-solid certificate size=0.75em >}} 
 
-##### Problem
+#### Problem
 As a local youth organization that aims to push climate and sustainability action, Green Kolding struggles to [attract participants]{.highlight}. Another problem is its members' uncertainty about what Green Kolding stands for.<br><br>
 
-##### Approach
+#### Approach
 I conceptualized and conducted a [co-design workshop]{.highlight} to explore and define Green Kolding's identity. We then [interviewed]{.highlight} the two heads of the organization. Analyzing the data with [empathy mapping]{.highlight} identified the need for a website which communicates Green Kolding's identity and attracts new members. We developed a website prototype and conducted [user experience tests]{.highlight} with the target group.<br><br>
 
-##### Solution
+#### Solution
 The workshop's goal was to [define Green Kolding's identity]{.highlight} but this was difficult because the number of attendants who regularly engage with Green Kolding was very low.
 Despite this, our interviews led to a deeper understanding of the organization's self-perception and needs. We addressed those needs with a [website prototype]{.highlight} but testing it revealed that Green Kolding's identity remains vague and discourages potential members from joining.
 :::

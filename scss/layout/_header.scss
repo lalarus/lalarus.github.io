@@ -21,7 +21,7 @@
 // title/logo
 .navbar-title {
   font-size: $font-size-body !important;
-  font-weight: $font-weight-semibold !important;
+  font-weight: $nm-medium !important;
   color: $navbar-fg !important;
   text-transform: uppercase !important;
   letter-spacing: $spacing-wide !important;
@@ -35,7 +35,7 @@
 // links
 .navbar-nav .nav-link {
     font-size: $font-size-body !important;
-    font-weight: $font-weight-semibold !important;
+    font-weight: $nm-medium !important;
     color: $navbar-fg !important;
     text-transform: uppercase !important;
     border-bottom: 2px solid transparent;    

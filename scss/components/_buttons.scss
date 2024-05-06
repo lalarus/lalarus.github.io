@@ -11,7 +11,7 @@
     padding: 1.25rem 2.5rem !important;
     text-transform: uppercase;
     letter-spacing: $spacing-standard;
-    font-weight: $font-weight-semibold !important;
+    font-weight: $nm-medium !important;
 
     &:hover {
         background-color: $champagne-50 !important;
@@ -46,7 +46,7 @@
     font-size: $font-size-base * 1.0 !important; /* =10px */
     color: $black !important;
     font-family: $font-family-sans-serif !important;
-    font-weight: $font-weight-semibold !important;
+    font-weight: $nm-medium !important;
     letter-spacing: $spacing-wide !important;
     text-transform: uppercase !important;
 
@@ -69,7 +69,7 @@
     font-size: $font-size-base * 1.6 !important; /* =16px */
     color: $black !important;
     font-family: $font-family-sans-serif !important;
-    font-weight: $font-weight-semibold !important;
+    font-weight: $nm-medium !important;
     letter-spacing: $spacing-wide !important;
 }
 

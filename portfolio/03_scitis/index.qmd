@@ -30,14 +30,14 @@ Depending on the specific project, the team consisted of 1 product owner, 1 UI d
 scitis.io offers an IoT framework to optimize production processes in various industry sectors such as metalworking, energy, process engineering and packaging. Their Cloudplug is a hardware devices that collects data from various sources, e.g. production equipment, automation systems, and sensors. Sending the data to the Cloud Backend, the scitis IoT platform allows the monitoring of production processes in real-time, collecting production data and quality data, tracking production workflows, controlling machines, and analyzing production data to improve efficiency and quality of production. The interface allows manufacturers to identify bottlenecks and inefficiencies in their operation and take corrective action, resulting in increased productivity and reduced downtime.<br><br>
 
 
-##### Customer-specific projects
+#### Customer-specific projects
 - Visualizing target quantity and actual quantity on a customized dashboard<br>[The Lorenz Bahlsen Snack-World GmbH & Co KG Germany]{.lighter}
 
 - Developing a navigation architecture for the filtering and displayal of several hundreds of connected production machines<br>[Ingersoll Rand Inc.]{.lighter}
 
 <br>
 
-##### General platform improvements
+#### General platform improvements
 - Adapting the interface for multiple user roles with different user flows and access rights
 - Reporting production errors and downtimes
 

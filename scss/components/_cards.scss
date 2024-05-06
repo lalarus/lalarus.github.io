@@ -28,7 +28,11 @@
 }
 
 // targets title on card
-.card-title {
+.card-title.listing-title {
+  font-family: Neue Montreal Mono !important;
+  font-size: $font-size-base * 2.0 !important; /* =20px */
+  font-weight: $nmmono-regular !important;
+  line-height: 1.5 !important;
   padding-bottom: $h5-default-pb !important;
 }
 
@@ -43,3 +47,4 @@
       padding-bottom: $h5-default-pb !important;
   }
 }
+

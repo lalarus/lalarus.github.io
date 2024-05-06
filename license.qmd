@@ -7,12 +7,12 @@ format:
     back-to-top-navigation: false
 ---
 ::: {.license-content #icons}
-##### Icons
+#### Icons
 All icons on this website are free and open source icons provided by [Iconify](https://icon-sets.iconify.design/). I use the [quarto-iconify extension](https://github.com/mcanouil/quarto-iconify).<br><br>
 :::
 
 ::: {.license-content #type}
-##### Type
+#### Type
 Neue Montreal & Pangaia <br>
 I use fonts by the [Pangram Pangram Foundry](https://pangrampangram.com/). They are free to use for anything of personal nature, with commercial licenses available for purchase.<br><br>
 :::

@@ -1,19 +1,24 @@
 /*-- scss:defaults --*/
 
-// Fonts
+// Font type
 $font-size-base: 1rem !default; // Assumes the browser default, typically `16px`
 $font-family-sans-serif: "Neue Montreal", Arial, Helvetica, sans-serif !default;
-$font-family-monospace: "Dark Mono", "Fira Mono", monospace !default;
+$font-family-monospace: "Neue Montreal Mono", "Dark Mono", "Fira Mono", monospace !default;
 $headings-font-family: "PPPangaia-Medium", serif !default;
 
+// Font weight
 $spacing-standard: 0.05em;
 $spacing-wide: 0.1em;
 
-$font-weight-normal: 450;
-$font-weight-semibold: 530;
+$pangaia-medium: 475;
 
-$headings-font-weight-normal: 475;
+$nmmono-regular: 450;
+$nmmono-medium: 530;
 
+$nm-regular: 450;
+$nm-medium: 530;
+
+// Font size
 $font-size-large: $font-size-base * 2.8;
 $font-size-medium: $font-size-base * 2.0;
 $font-size-body: $font-size-base * 1.6;
@@ -127,42 +132,46 @@ body {
 
 h1 /*code*/ {
   font-size: $font-size-base * 6.0 !important; /* =60px */
-  font-weight: $headings-font-weight-normal !important;
+  font-weight: $pangaia-medium !important;
 }
    
 h2 {
   font-size: $font-size-base * 3.2 !important; /* =32px */
   border-bottom: none !important;
   padding-bottom: unset !important;
-  font-weight: $headings-font-weight-normal !important;
+  font-weight: $pangaia-medium !important;
 }
 
 h3 {
-  font-size: $font-size-base * 2.8 !important; /* =28px */
-  font-weight: $headings-font-weight-normal !important;
-}
-
-h4 {
-  font-size: $font-size-base * 2.0 !important; /* =24px */
-  font-family: Neue Montreal Mono !important;
-  font-weight: 450 !important;
+  font-family: $font-family-monospace !important;
+  font-size: $font-size-base * 2.0 !important; /* =20px */
+  font-weight: $nmmono-regular !important;
   line-height: 1.5 !important;
 }
 
+h4 {
+  font-family: $font-family-monospace !important;
+  font-size: $font-size-base * 1.8 !important; /* =18px */
+  font-weight: $nmmono-medium !important;
+  color: $grey-900 !important;
+}
+
 h5 {
-  font-size: $font-size-base * 1.8 !important; /* =20px */
-  font-family: Neue Montreal Mono !important;
-  font-weight: 530 !important;
+  font-size: $font-size-base * 1.6 !important; /* =16px */
+  font-family: $font-family-monospace !important;
+  text-transform: uppercase !important;
+  font-weight: $nmmono-medium !important;
+  letter-spacing: $spacing-wide !important;
   color: $grey-900 !important;
 }
 
 h6 {
-  font-size: $font-size-body !important; /* =16px */
-  font-family: $font-family-sans-serif !important;
+  font-size: $font-size-base * 1.2 !important; /* =14px */
+  font-family: $font-family-monospace !important;
+  font-weight: $nm-medium !important;
   text-transform: uppercase !important;
-  font-weight: $font-weight-semibold !important;
   letter-spacing: $spacing-standard !important;
-
+  color: $grey-900 !important;
 }
 
 
@@ -171,7 +180,7 @@ p {
   font-size: $font-size-body !important; /* =16px */
   color: $black !important;
   font-family: $font-family-sans-serif !important;
-  font-weight: $font-weight-normal !important;
+  font-weight: $nm-regular !important;
   font-style: normal !important;
   letter-spacing: $spacing-standard !important;
   //font-size: clamp($font-size-base * 1.6, 6.944vw + -3.306rem, $font-size-base * 3.2) !important;
@@ -180,7 +189,7 @@ p {
 
 
 .bolder {
-  font-weight: $font-weight-semibold !important;
+  font-weight: $nm-medium !important;
 }
 
 .lighter {
@@ -215,7 +224,7 @@ p {
 }
 
 strong {
-  font-weight: $font-weight-semibold !important;
+  font-weight: $nm-medium !important;
 }
 
 // Figure caption
@@ -223,7 +232,7 @@ figcaption {
   font-size: $font-size-base * 1.4 !important; /* = 14 px */
   color: $black !important;
   font-family: $font-family-sans-serif !important;
-  font-weight: $font-weight-normal !important;
+  font-weight: $nm-regular !important;
   letter-spacing: $spacing-standard !important;
 }
 
@@ -237,7 +246,7 @@ li {
   font-size: $font-size-body !important; /* =16px */
   color: $black !important;
   font-family: $font-family-sans-serif !important;
-  font-weight: $font-weight-normal !important;
+  font-weight: $nm-regular !important;
   letter-spacing: $spacing-standard !important;
   // space between bullet point and text
   padding-left: 8px;
