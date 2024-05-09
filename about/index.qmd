@@ -13,7 +13,7 @@ format:
     page-layout: full
 ---
 ::: {#hero-about .text-large}
-<iconify-icon icon="solar:chat-dots-bold" id="about-dots" width="1em"></iconify-icon> Hej! I’m a German UX designer based in Stockholm. With my unique combination of design research and frontend dev skills, I make complex topics understandable and accessible.
+<iconify-icon icon="solar:chat-dots-bold" id="about-dots" width="1em"></iconify-icon> Hej! I’m a German UX engineer based in Stockholm. With my unique combination of user research and frontend dev skills, I make complex topics understandable and accessible.
 
 ::: {.button-about}
 [LinkedIn &#x2197;](https://www.linkedin.com/in/larissalang/){.btn .btn-outline-primary .btn-lg .btn role="button"}
@@ -29,7 +29,7 @@ format:
 :::: {.grid #text-about-1}
 ::: {.g-col-12 .g-col-md-7}
 #### [I'm a UX reseracher ...]{.highlight2 .italics} 
-My main strength is my [analytic]{.highlight3} mindset and my passion for research and complexity. I have conducted several design research projects in the past where I was responsible for study design, data analysis and concept development. Playing volleyball at a competitive level for many years led me to call good communication and [team collaboration]{.highlight3} the heart of my work approach. With my background in [workshop facilitation]{.highlight3} and as [founder of a social startup]{.highlight3}, I also enjoy presenting and talking to different stakeholders.
+My main strength is my [analytic]{.highlight3} mindset and my passion for research and complexity. I conducted several design research projects in the past where I was responsible for study design, data analysis and concept development. Playing volleyball at a competitive level for many years led me to call good communication and [team collaboration]{.highlight3} the heart of my work approach. With my background in [workshop facilitation]{.highlight3} and as [founder of a social startup]{.highlight3}, I also enjoy presenting and talking to different stakeholders.
 :::
 
 ::: { .g-col-12 .g-col-md-7 .g-start-md-6 style="grid-row: 2"}
@@ -84,12 +84,13 @@ B.A. Advertising and Market Communication <br>
 #### Skills and tools
 - Figma, Adobe CC, Sketch, and Miro.
 - HTML and CSS/SASS | Bootstrap
-- Creating wireframes and low- to high-fidelity prototypes.
-- Conducting qualitative & quantitative research.
+- Wireframes, mockups and low- to high-fidelity prototypes.
+- Qualitative & quantitative research.
 - Mapping user behavior, developing user flows & user journeys.
 - Facilitating workshops (e.g. Design Thinking, Participatory Design)
 - Formulating acceptance criteria.
 - Implementing structured data markup on a website and making it more accessible according to WCAG 2.1 guidelines.
+- Accessible design (semantic HTML, WCAG 2.1 guidelines).
 - Collaborating in an agile team.
 :::
 
