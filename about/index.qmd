@@ -91,7 +91,8 @@ B.A. Advertising and Market Communication <br>
 - Formulating acceptance criteria.
 - Implementing structured data markup on a website and making it more accessible according to WCAG 2.1 guidelines.
 - Accessible design (semantic HTML, WCAG 2.1 guidelines).
-- Collaborating in an agile team.
+- Empathy & agile collaboration.
+- Analytical & strategic thinking.
 :::
 
 
