@@ -43,6 +43,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script src="../../site_libs/quarto-contrib/iconify-1.0.7/iconify-icon.min.js"></script>
+<script src="../../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -243,6 +246,12 @@ TLDR <iconify-icon inline="" icon="fa-solid:certificate" style="font-size: 0.75e
 <section id="the-outcome-a-website-prototype-and-a-design-specification-document" class="level3">
 <h3 class="anchored" data-anchor-id="the-outcome-a-website-prototype-and-a-design-specification-document"><span class="highlight2">The outcome: a website prototype and a design specification document</span></h3>
 <p>The hand-off was preceded by several rounds of iteration with the client (see challenge). Apart from the prototype, I was also responsible for creating a design specification document as part of the client’s future request for proposal (RFP) for the website’s implementation. The document describes which technical and design criteria the future website should fulfill. The prototype visualizes the information structure and layout of the new website portal.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="img/8-finalhandhoff.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="⮤ Mockup of the final landing page (left) and the Call for Proposals (right)."><img src="img/8-finalhandhoff.jpg" class="round img-fluid figure-img" alt="Two images separated by a vertical line. The image on the left shows the mockup of a website. The image on the right shows a pile of paper. The top one bears the title Call for proposals"></a></p>
+<figcaption>⮤ Mockup of the final landing page (left) and the Call for Proposals (right).</figcaption>
+</figure>
+</div>
 <section id="learnings-1" class="level4 learnings">
 <h4 class="anchored" data-anchor-id="learnings-1">Learnings</h4>
 <p><strong>Political interests can hamper a user-centered design.</strong><br> The client wished to abandon many design suggestions during the final iterations at the end of the project. Instead, the client asked to include and highlight content that had previously been considered too political and irrelevant by workshop participants and interview respondents alike.</p>
@@ -730,6 +739,31 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"openEffect":"fade","loop":false,"descPosition":"bottom","selector":".lightbox","closeEffect":"fade"});
+window.onload = () => {
+  lightboxQuarto.on('slide_before_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    const href = trigger.getAttribute('href');
+    if (href !== null) {
+      const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+      if (imgEl !== null) {
+        const srcAttr = imgEl.getAttribute("src");
+        if (srcAttr && srcAttr.startsWith("data:")) {
+          slideConfig.href = srcAttr;
+        }
+      }
+    } 
+  });
+
+  lightboxQuarto.on('slide_after_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    if (window.Quarto?.typesetMath) {
+      window.Quarto.typesetMath(slideNode);
+    }
+  });
+
+};
+          </script>
 
 
 
