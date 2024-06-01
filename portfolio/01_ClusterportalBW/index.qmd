@@ -4,6 +4,9 @@ description: |
    Based on workshops and interviews, I developed a clickable prototype and a design specification document.
 date: 2024-05-05
 #site-url:
+lightbox:
+  match: auto
+  effect: fade
 image: img/clusterportal-title.jpg
 image-alt: |
   A notebook computer against a dark background, the landingpage of a website.
@@ -75,11 +78,14 @@ Meeting the need of all three target groups, the final prototype showcases event
 ### [The outcome: a website prototype and a design specification document]{.highlight2}
 The hand-off was preceded by several rounds of iteration with the client (see challenge). Apart from the prototype, I was also responsible for creating a design specification document as part of the client’s future request for proposal (RFP) for the website’s implementation. The document describes which technical and design criteria the future website should fulfill. The prototype visualizes the information structure and layout of the new website portal.
 
+![&#x2BA4; Mockup of the final landing page (left) and the Call for Proposals (right).](img/8-finalhandhoff.jpg){fig-alt="Two images separated by a vertical line. The image on the left shows the mockup of a website. The image on the right shows a pile of paper. The top one bears the title Call for proposals" .round}
+
 ::: {.learnings}
 #### Learnings
 **Political interests can hamper a user-centered design.**<br>
 The client wished to abandon many design suggestions during the final iterations at the end of the project. Instead, the client asked to include and highlight content that had previously been considered too political and irrelevant by workshop participants and interview respondents alike.
 :::
+
 
 ## Impact
 While the website didn’t launch, to track success and impact, I would have monitored the following:
